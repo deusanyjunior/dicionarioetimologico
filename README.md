@@ -22,14 +22,17 @@ Abra `http://localhost:3000` no navegador.
 
 ## Dados
 
-A etapa `npm run generate:data` cria um arquivo JSON por letra em `assets/dictionary/` e um índice em `assets/search-index.json`. A origem é sempre o arquivo `dicionario.md`; a normalização é usada apenas para busca e não substitui as chaves ou os textos exibidos.
+A etapa `npm run generate:data` lê o arquivo local `dicionario.md` usando o parser local em `scripts/`, cria um arquivo JSON por letra em `assets/dictionary/` e atualiza o índice em `assets/search-index.json`. O Markdown e o parser são apenas ferramentas de geração e devem permanecer fora do Git e da nuvem; somente os JSONs gerados são necessários para executar e publicar a aplicação.
 
-O build executa a geração dos dados automaticamente:
+A geração dos dados é feita localmente com `npm run generate:data`. Depois de atualizar os dados, versione a pasta `assets/`. O build de produção usa os JSONs já gerados e não depende do parser nem do `dicionario.md`:
 
 ```bash
+npm run generate:data
 npm run build
 npm start
 ```
+
+Na Vercel, mantenha o comando de build como `npm run build`. O deploy precisa conter `assets/`, `package.json`, `package-lock.json`, `app/`, `components/` e `lib/`; não é necessário enviar `dicionario.md` nem `scripts/`.
 
 ## Referências
 
