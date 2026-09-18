@@ -1,0 +1,365 @@
+{
+  "letter": "L",
+  "entries": [
+    {
+      "id": "l-1",
+      "key": "Lábil",
+      "keyNormalized": "labil",
+      "markdown": "Lábil \\- do latim *Labilis*, deslizante, instavél."
+    },
+    {
+      "id": "l-2",
+      "key": "Lábio",
+      "keyNormalized": "labio",
+      "markdown": "Lábio – do latim *Labrum*, lábio, reborda. Nos banhos públicos romanos, o *Labrum* era um grande recipiente de água morna, com boca larga e beirada proeminente. A palavra é, quase sempre, grafada *Labium* e habitualmente usada no plural (*Labri* ou *Labi*). A forma arcaica de *Labrum* era *Lavabrum*, possivelmente do *Lavare*, lavar. É obvia a associação da orla do vaso com o lábio humano. O equivalente grego é *Khéilos*."
+    },
+    {
+      "id": "l-3",
+      "key": "Labirinto",
+      "keyNormalized": "labirinto",
+      "markdown": "Labirinto – do grego *Labyrinthos*, labirinto, confusão. Em termos genéricos, qualquer construção intrincada, com corredores e passagens em meandros. Na mitologia grega, era o nome do conjunto de muros traçado deliberadamente confuso, construído por Dédalos, em Creta, para aprisionar o Minotauro, um monstro metade homem, metade touro, filho do rei Minos. Confinado nestes corredores e sem poder achar a saída, o Minotauro era alimentado com carne humana. O herói Teseu, com ajuda da princesa Ariadne (que lhe deu um fio para guiá-lo), penetrou no labirinto, matou a fera e encontrou a saída. Empédocles e Agrigento, Galeno e Vesálio já conheciam a estrutura, mas foi Gabrielle Fallopio que usou a palavra pra nomear o aspecto intrincado, confuso das cavidades dos órgãos da audição e do equilíbrio. Somente em 1789, Antonio Scarpa descreveu, em detalhes, a orelha interna, na sua obra “*De auditu et olfactu*”."
+    },
+    {
+      "id": "l-4",
+      "key": "Lacrimal",
+      "keyNormalized": "lacrimal",
+      "markdown": "Lacrimal – do latim *Lacrima*, lágrima. Possivelmente a palavra latina derivou de um erro de grafia na transcrição da palavra grega *Dacrion*, lágrima, para *Lacrion* e daí Lacrima. Galeno, já conhecia a glândula lacrimal e seus ductos, mas somente em 1574, com *Carcanus di Milano* e, em 1662, com Niels Steno (Stensen), os detalhes do aparelho lacrimal foram revelados."
+    },
+    {
+      "id": "l-5",
+      "key": "Lactação",
+      "keyNormalized": "lactacao",
+      "markdown": "Lactação \\- do latim *Lactare*, amamentar."
+    },
+    {
+      "id": "l-6",
+      "key": "Láctico",
+      "keyNormalized": "lactico",
+      "markdown": "Láctico \\- do latim *Lac*, leite."
+    },
+    {
+      "id": "l-7",
+      "key": "Lactifero",
+      "keyNormalized": "lactifero",
+      "markdown": "Lactifero – do latim *Lacteus*, leitoso e *Ferus*, que transporta."
+    },
+    {
+      "id": "l-8",
+      "key": "Lacuna",
+      "keyNormalized": "lacuna",
+      "markdown": "Lacuna \\- do latim *Lacuna*, piscina rasa, poça, diminutivo de *Lacus*, lago ou vazio."
+    },
+    {
+      "id": "l-9",
+      "key": "Lago",
+      "keyNormalized": "lago",
+      "markdown": "Lago – do Latim, *Lacus*, lago, reservatório, bacia de rio."
+    },
+    {
+      "id": "l-10",
+      "key": "Lagrima",
+      "keyNormalized": "lagrima",
+      "markdown": "Lagrima – do latim *Lacrima*, lágrima. Possivelmente a palavra latina derivou de um erro de grafia na transcrição da palavra grega *Dacrion*, lágrima, para *Lacrion* e daí Lacrima. Galeno, já conhecia a glândula lacrimal e seus ductos, mas somente em 1574, com *Carcanus di Milano* e, em 1662, com Niels Steno (Stensen), os detalhes do aparelho lacrimal foram revelados."
+    },
+    {
+      "id": "l-11",
+      "key": "Lambda",
+      "keyNormalized": "lambda",
+      "markdown": "Lambda – do grego *Lambda*, a letra L. O ponto craniométrico que assinala o encontro das suturas sagital e lambóide tem a forma aproximada desta letra."
+    },
+    {
+      "id": "l-12",
+      "key": "Lambdóide",
+      "keyNormalized": "lambdoide",
+      "markdown": "Lambdóide – do grego *Lambda*, a letra L e *Óides*, forma de."
+    },
+    {
+      "id": "l-13",
+      "key": "Lamela",
+      "keyNormalized": "lamela",
+      "markdown": "Lamela \\- do latim *Lamell*, folha, lâmina, placa."
+    },
+    {
+      "id": "l-14",
+      "key": "Lâmina",
+      "keyNormalized": "lamina",
+      "markdown": "Lâmina – do latim *Lamina*, lâmina, folha, placa fina."
+    },
+    {
+      "id": "l-15",
+      "key": "Lâmina basal",
+      "keyNormalized": "laminabasal",
+      "markdown": "Lâmina basal \\- do latim *Lamina*, lâmina, folha, placa fina e do grego *Básis*, apoio, fundação. Em histologia o nome é dado a uma rede de macromoléculas, funcionalmente importante que delimita o tecido epitelial do tecido conjuntivo subjacente. Além disso, algumas células possuem membrana basal que as separa do resto, tais como as fibras musculares, células adiposas, células de Schwann, astrócitos, sinapses."
+    },
+    {
+      "id": "l-16",
+      "key": "Lanugem",
+      "keyNormalized": "lanugem",
+      "markdown": "Lanugem – do latim *Lanugo*, penugem, buço e *Lana*, lâ delgada. Signifca pêlos delgados."
+    },
+    {
+      "id": "l-17",
+      "key": "Largo",
+      "keyNormalized": "largo",
+      "markdown": "Largo – do latim *Largus*, amplo, abundante."
+    },
+    {
+      "id": "l-18",
+      "key": "Laringe",
+      "keyNormalized": "laringe",
+      "markdown": "Laringe \\- do grego *Larynx*, gaita, parte alta da traquéia, *Larungein*, gritar. Entre os gregos, a palavra *Pharynx* era, usualmente, confundida e empregada no lugar de *Larynx*. O primeiro a descrever as cartilagens da laringe foi Galeno (*thyeoides*, *krikoides*, *arytainoides* e *epiglottida*). Vesalio, como costume na época, apenas as numerou na ordem acima: primeira, segunda, terceira e a “outra”."
+    },
+    {
+      "id": "l-19",
+      "key": "Lata",
+      "keyNormalized": "lata",
+      "markdown": "Lata – do latim *Lattus*, largo extenso."
+    },
+    {
+      "id": "l-20",
+      "key": "Latente",
+      "keyNormalized": "latente",
+      "markdown": "Latente \\- do latim *Latere*, estar escondido."
+    },
+    {
+      "id": "l-21",
+      "key": "Lateral",
+      "keyNormalized": "lateral",
+      "markdown": "Lateral – do latim *Lateralis*, lateral. Do lado de."
+    },
+    {
+      "id": "l-22",
+      "key": "Leiomiócito",
+      "keyNormalized": "leiomiocito",
+      "markdown": "Leiomiócito \\- do grego *Leios*, liso e *Kytos*, célula. São as células que formam o tecido múscula liso."
+    },
+    {
+      "id": "l-23",
+      "key": "Lemnisco",
+      "keyNormalized": "lemnisco",
+      "markdown": "Lemnisco – do grego *Lemniskos*, fita ou faixa de lão. Celso usava o termo para designar um curativo feito de tiras de linho embebidas em vinagre. O termo latino equivale a *Taenia*."
+    },
+    {
+      "id": "l-24",
+      "key": "Lente",
+      "keyNormalized": "lente",
+      "markdown": "Lente \\- do latim *Lens*, lentilha, devido à semelhança de forma entre as lentes de vidro e aquele grão vegetal. Em inglês a palavra *Lens* significa “cristalino”, pela mesma razão. A primeira descrição da lente do olho (anteriormente denominada de cristalino) encontra-se, no “*Peri oftalmon*” tratado escrito por Herófilo. Colombo e Fabricius foram os primeiros anatomistas a desenhar a lente no seu local correto (próximo à córnea) e Descartes descreveu a forma mutante da lente e sua função nafocalização da imagem na retina."
+    },
+    {
+      "id": "l-25",
+      "key": "Lentiforme",
+      "keyNormalized": "lentiforme",
+      "markdown": "Lentiforme – do latim *Lenticularis*, como uma pequena lentilha. Omesmo que lentiforme."
+    },
+    {
+      "id": "l-26",
+      "key": "Leptina",
+      "keyNormalized": "leptina",
+      "markdown": "Leptina – do grego *Leptos*, magro."
+    },
+    {
+      "id": "l-27",
+      "key": "Leptomeninge",
+      "keyNormalized": "leptomeninge",
+      "markdown": "Leptomeninge \\- do grego *Leptos*, delicado, pequeno; *Meninx*, membrana. Corresponde ao conjunto da pia-mater e aracnóde. Este termo apareceu em 1889 (meninges finas) em contraposição a palvra paquimeninge (membranas espessas)."
+    },
+    {
+      "id": "l-28",
+      "key": "Leptóteno",
+      "keyNormalized": "leptoteno",
+      "markdown": "Leptóteno – do grego *Lepto*, delgado e *Taini*, cinta, banda. Termo introduzido por von Winiwarter (1900). Fase da meiose onde aparecem no núcleo filamentos cromosômicos delgados em número diplóide."
+    },
+    {
+      "id": "l-29",
+      "key": "Leucócito",
+      "keyNormalized": "leucocito",
+      "markdown": "Leucócito \\- do grego *Leukos*, branco e *Kytos*, vaso ou célula."
+    },
+    {
+      "id": "l-30",
+      "key": "Levantador",
+      "keyNormalized": "levantador",
+      "markdown": "Levantador – do latim *Levator*, elevador, e *Levare*, elevar, erguer, e *Actor*, agente."
+    },
+    {
+      "id": "l-31",
+      "key": "Licor",
+      "keyNormalized": "licor",
+      "markdown": "Licor \\- do latim *Liquor*, líquido."
+    },
+    {
+      "id": "l-32",
+      "key": "Lienal",
+      "keyNormalized": "lienal",
+      "markdown": "Lienal \\- do latim *Lien*, baço."
+    },
+    {
+      "id": "l-33",
+      "key": "Ligamento",
+      "keyNormalized": "ligamento",
+      "markdown": "Ligamento – do latim *Ligamentum*, ligadura, atadura. *Ligamen*, fita, cordão, ou de *Ligare*, atar, unir."
+    },
+    {
+      "id": "l-34",
+      "key": "Limbo",
+      "keyNormalized": "limbo",
+      "markdown": "Limbo \\- do latim *Limbus*, borda, orla ou margem. Na astrologia, limbus era uma das zonas do Zodiaco e na mitologia grega era a região imediatamente antes do inferno, onde ficavam as almas impedidas de atravessar o rio Aqueronte, levadas pelo barqueiro Caronte. Na religião católica, o termo foi introduzido por Pedro Lombardo para indicar o lugar onde estão aqueles que morreram sem batismo e sem pecado mortal (apenas com o pecado original)."
+    },
+    {
+      "id": "l-35",
+      "key": "Límen",
+      "keyNormalized": "limen",
+      "markdown": "Límen – do latim *Limen*, limiar, soleira da porta, batente. O mesmo que limiar."
+    },
+    {
+      "id": "l-36",
+      "key": "Limiar",
+      "keyNormalized": "limiar",
+      "markdown": "Limiar – do latim *Liminaris*, limiar, soleira da porta, batente."
+    },
+    {
+      "id": "l-37",
+      "key": "Limitante",
+      "keyNormalized": "limitante",
+      "markdown": "Limitante – do latim *Limitans*, que delimita, circunscreve, fronteiriço."
+    },
+    {
+      "id": "l-38",
+      "key": "Linfa",
+      "keyNormalized": "linfa",
+      "markdown": "Linfa \\- do latim *Lympha*, água. Aparentemente os vasos linfáticos eram conhecidos por Aristóteles, Herófilo e Erasistrato que os consideravam como veias. Galeno não os reconhecia. Vesalio, Gabrielle Fallopio e Bartolommeo Eustachio também os descreveram, mas não lhes atentaram com a real estrutura e função. Em 1622, Aselli descobriu os ductos lactiferos e os vasos quilíferos. A denominação “*vasa lymphatica*” é, provavelmente, devida à Bartholin. Os linfonodos foram descritos, em detalhes, por Marcello Malpighi, em 1659\\. È interessante notar que, em latim, a palavra *Lymphaticus*, fora do sentido poético, significava distraido, delirante, ou fora de si. Talvez a origem do termo esteja ligada à hidrofobia ou raiva (doença viral), porque em grego, *hydros* é água."
+    },
+    {
+      "id": "l-39",
+      "key": "Linfático",
+      "keyNormalized": "linfatico",
+      "markdown": "Linfático \\- do latim *Lympha*, água. Aparentemente os vasos linfáticos eram conhecidos por Aristóteles, Herófilo e Erasistrato, no entanto eles os consideravam como veias. Galeno não as reconhecia. Vesálio, Gabrielle, Falloppio e Bartolommeo Eustachio também os descreveram, mas não lhes atentaram com a real estrutura e função. Em 1622, Aselli descobriu os ductos lactíferos e os vasos quilíferos. A denominação “*vasa lymphatica*” é, provavelmente, devida à Bartholin. Os linfonodos foram descritos, em detalhes, por Marcello Malpighi, em 1659\\. É interessante notar que, em latim, a palavra *Lymphaticus*, fora do sentido poético, sginificva distraído, delirante, ou fora de si."
+    },
+    {
+      "id": "l-40",
+      "key": "Linfoblasto",
+      "keyNormalized": "linfoblasto",
+      "markdown": "Linfoblasto \\- do latim *Lympha*, água e do grego *Blastos*, germe, formador. Linfócito não-maduro, ou seja, o precursor do linfócito."
+    },
+    {
+      "id": "l-41",
+      "key": "Linfócito",
+      "keyNormalized": "linfocito",
+      "markdown": "Linfócito – do latim *Lympha*, água e do grego *Kytos*, célula. Célula de origem linfóide, enquadrado entre os agranulócitos, com núcleo mais ou menos esférico e grande, ocupando boa parte da célula."
+    },
+    {
+      "id": "l-42",
+      "key": "Linfocitose",
+      "keyNormalized": "linfocitose",
+      "markdown": "Linfocitose \\- do latim *Lympha*, água; do grego *Kytos*, vaso o célula e *Ose*, estado."
+    },
+    {
+      "id": "l-43",
+      "key": "Linfóide",
+      "keyNormalized": "linfoide",
+      "markdown": "Linfóide \\- do latim *Lympha*, água e do grego, semelhante."
+    },
+    {
+      "id": "l-44",
+      "key": "Linfonodo",
+      "keyNormalized": "linfonodo",
+      "markdown": "Linfonodo – do latim *Lympha*, água, e *Nodus*, nó, novelo. Os linfonodos são órgãos encapsulados constituídos por tecido linfóide, em geral, com o formato de rim interpostos na corrente linfática. Desempenham várias funções destacando-se a de filtrar a linfa e ser o local de proliferação de linfócitos."
+    },
+    {
+      "id": "l-45",
+      "key": "Língua",
+      "keyNormalized": "lingua",
+      "markdown": "Língua \\- do latim *Lingua*. A raiz grega *Glossa* deu também origem a numerosos termos médicos referentes à língua, tais como glossite (inflamação da língua)."
+    },
+    {
+      "id": "l-46",
+      "key": "Língula",
+      "keyNormalized": "lingula",
+      "markdown": "Língula – do latim *Lingula*, diminutivo de Lingua."
+    },
+    {
+      "id": "l-47",
+      "key": "Linha",
+      "keyNormalized": "linha",
+      "markdown": "Linha – do latim *Linea*, linha, fio, ou de *Linum* ou *Linen*, fio de linho."
+    },
+    {
+      "id": "l-48",
+      "key": "Lipase",
+      "keyNormalized": "lipase",
+      "markdown": "Lipase \\- do grego *Lipos*, gordura, com o sufixo *Ase*, que lembra enzima."
+    },
+    {
+      "id": "l-49",
+      "key": "Lipoblasto",
+      "keyNormalized": "lipoblasto",
+      "markdown": "Lipoblasto \\- do grego *Lipo*, gordura e *Blastos*, germe. È a célula precursora doss lipócito ou adipócitos, que acumulam gordura."
+    },
+    {
+      "id": "l-50",
+      "key": "Lipodistrofia",
+      "keyNormalized": "lipodistrofia",
+      "markdown": "Lipodistrofia \\- do grego *Lipos*, gordura; *Dys*, defeituoso e *Trophe*, nutrição. É o deficiente metabolismo das gorduras com resultados patológicos."
+    },
+    {
+      "id": "l-51",
+      "key": "Lisossoma",
+      "keyNormalized": "lisossoma",
+      "markdown": "Lisossoma – do grego *Lysos*, dissolução, quebra e *Soma*, corpo. Lisosomos ou lisosomas são organelas que têm como função a degradação de partículas advindas do meio extracelular, assim como a reciclagem de organelas e componentes celulares envelhecidos. Ao contrário da maioria das organelas citoplasmáticas, os lisossomas não foram descobertos pela observação, mas pela dedução. Nos anos 50, De Duve (Prémio Nobel) estudava as hidrolases celulares e descobriu que todas elas, apresentavam um pH óptimo, ao redor de 5\\. De Duve e colaboradores concluíram que as hidrolases deveriam estar agrupadas numa organela desconhecida, limitada por uma membrana, a qual deveria romper-se para que as enzimas fossem ativas nas suspensões. Denominaram-nas de lisossoma a essa organela hipotética. Mais tarde atraves da microscopia eletrônica de transmissão confirmaram a existência desta organela."
+    },
+    {
+      "id": "l-52",
+      "key": "Livre",
+      "keyNormalized": "livre",
+      "markdown": "Livre – do latim *Liber*, livre, solto, vago."
+    },
+    {
+      "id": "l-53",
+      "key": "Lobo",
+      "keyNormalized": "lobo",
+      "markdown": "Lobo – do grego *Lobos*, lobo, saliência arredondada."
+    },
+    {
+      "id": "l-54",
+      "key": "Lóbulo",
+      "keyNormalized": "lobulo",
+      "markdown": "Lóbulo \\- do latim *Lobulus*, diminutivo de *Lobus*, lobo.\n\n*Locus ceruleus* – do latim *Locus*, lugar, local e *Ceruleus*, pardo de cêra."
+    },
+    {
+      "id": "l-55",
+      "key": "Lombar",
+      "keyNormalized": "lombar",
+      "markdown": "Lombar – do latim *Lumbalis*, do lombo, e Lumbus, região dos rins, lombo."
+    },
+    {
+      "id": "l-56",
+      "key": "Longitudinal",
+      "keyNormalized": "longitudinal",
+      "markdown": "Longitudinal – do latim *Longitudinis*, comprimento, extensão."
+    },
+    {
+      "id": "l-57",
+      "key": "Longo",
+      "keyNormalized": "longo",
+      "markdown": "Longo – do latim *Longus*, comprido, longo, demorado."
+    },
+    {
+      "id": "l-58",
+      "key": "Lumen",
+      "keyNormalized": "lumen",
+      "markdown": "Lumen – do latim *Lume* ou *Lumi*, claridade. O termo latino *lúmen* é correntemente empregado na linguagem histológica. A tradução portuguesa deve ser luz e não lumen porque a idéia central é a de claridade, não a de fogo. Além disso, os termos que se encontram na literatura estrangeira (Frances, *lumiere*, inglês, *light*, alemão lichtung, espanhol, *luz*) correspondem diretamente à palavra portuguesa luz."
+    },
+    {
+      "id": "l-59",
+      "key": "Lúnula",
+      "keyNormalized": "lunula",
+      "markdown": "Lúnula – do latim *Lunula*, diminiutivo de *Luna*, lua. Em Roma, as mulheres nobres, notadamente as casadas, costumavam usar adornos (pingentes, broches ou braceletes) em forma de meia lua ou crescente, em homenagem à deusa Selene. O adorno era tido como amuleto benfazejo para a feminilidade e maternidade."
+    },
+    {
+      "id": "l-60",
+      "key": "Lúteo",
+      "keyNormalized": "luteo",
+      "markdown": "Lúteo \\- do *latim Luteus*, *Luteum*, amarelo. Amarelo côr de fogo ou avermelhado."
+    }
+  ]
+}

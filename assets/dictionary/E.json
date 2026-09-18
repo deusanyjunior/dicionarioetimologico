@@ -1,0 +1,809 @@
+{
+  "letter": "E",
+  "entries": [
+    {
+      "id": "e-1",
+      "key": "Eco",
+      "keyNormalized": "eco",
+      "markdown": "Eco – do grego *Eko*. Era uma bela ninfa da Mitologia grega. Eco amava os bosques e os montes onde muito se distraía. Era querida por Diana a quem acompanhava em suas caçadas. Tinha, no entanto, um defeito: falava demais e sempre queria dar a última palavra em qualquer conversa ou discussão. Em certa ocasião, a deusa Hera desconfiou, com razão, que seu marido Zeus se divertia com as ninfas. Enquanto as ninfas se escondiam de Hera, Eco tentou distraí-la com uma conversa e, no entanto, foi castigada: só seria capaz de falar repetindo o que os outros dissessem.\n\nÉcrino *(a)* – do grego *Ek(s),* fora, de dentro para fora e *Krynos*, secreção, *Krīn*, secretar, segregar, separar. Glândulas ou células que produzem secreção sem que ocorra a roptura do citoplasma das células."
+    },
+    {
+      "id": "e-2",
+      "key": "Ectoderme",
+      "keyNormalized": "ectoderme",
+      "markdown": "Ectoderme – do grego *Ek-to*, externo e *Derm*, camada. A camada ou folha mais externa dos três folhetos que formam o embrião."
+    },
+    {
+      "id": "e-3",
+      "key": "Ectópico",
+      "keyNormalized": "ectopico",
+      "markdown": "Ectópico – do grego *Ek*, fora e *Topos*, lugar, significa fora de lugar ou deslocado."
+    },
+    {
+      "id": "e-4",
+      "key": "Edema",
+      "keyNormalized": "edema",
+      "markdown": "Edema – do grego *Oedema*, inchaço. Refere-se ao fato do tecido conter excesso de líquido tecidual. Edema refere-se a um acúmulo anormal de líquido no espaço intersticial devido ao desequilíbrio entre a pressão hidrostática e osmótica."
+    },
+    {
+      "id": "e-5",
+      "key": "Eferente",
+      "keyNormalized": "eferente",
+      "markdown": "Eferente – do latim *Eferre*, levar para fora, tirar. O que leva para fora (ou que tira). Refere-se especificamente a axônios com impulso nervoso ou a movimento de fluídos de um centro de referência em direção à periferia."
+    },
+    {
+      "id": "e-6",
+      "key": "Eixo",
+      "keyNormalized": "eixo",
+      "markdown": "Eixo – do latim *Axis*, eixo."
+    },
+    {
+      "id": "e-7",
+      "key": "Ejaculatório",
+      "keyNormalized": "ejaculatorio",
+      "markdown": "Ejaculatório – do Latim *Ejaculare*, jorrar e *Ex*, para e *Jactare*, lançar. Elástico(a) – do grego *Elàstykos*, flexível, esticável, distensível."
+    },
+    {
+      "id": "e-8",
+      "key": "Elastina",
+      "keyNormalized": "elastina",
+      "markdown": "Elastina \\- do grego *Elàstykos*, flexível, esticável, distensível e *In(a),* substância. Proteína que forma as fibras elásticas."
+    },
+    {
+      "id": "e-9",
+      "key": "Elipsóide",
+      "keyNormalized": "elipsoide",
+      "markdown": "Elipsóide – do grego *Elleipsis*, elipse, e *Oidés*, forma de."
+    },
+    {
+      "id": "e-10",
+      "key": "Elíptico",
+      "keyNormalized": "eliptico",
+      "markdown": "Elíptico – do grego *Elleiptykós*, relativo à elipse."
+    },
+    {
+      "id": "e-11",
+      "key": "Embrião",
+      "keyNormalized": "embriao",
+      "markdown": "Embrião – do grego *Embryo*, embrião. Conceitua-se embrião o período que ocorre desde a segunda até a sétima semana depois da fecundação, etapa conhecida como período embrionário onde ocorre intensa diferenciação celular. O período embrionário termina na 8ª semana depois da fecundação, quando o concepto passa a ser denominado de feto."
+    },
+    {
+      "id": "e-12",
+      "key": "Embrioblasto",
+      "keyNormalized": "embrioblasto",
+      "markdown": "Embrioblasto \\- do grego *Embryo*, embrião e *Blast(o),* germe. Parte do blastocisto que forma os três folhetos germinativos que constituem o embrião."
+    },
+    {
+      "id": "e-13",
+      "key": "Embriogênese",
+      "keyNormalized": "embriogenese",
+      "markdown": "Embriogênese \\- do grego *Embryo*, embrião e Géne-sis, formação."
+    },
+    {
+      "id": "e-14",
+      "key": "Embriologia",
+      "keyNormalized": "embriologia",
+      "markdown": "Embriologia \\- do grego *Embryo*, embrião e *Logí(ā),* estudo. Ciência que estuda a formação e o desenvolvimento dos embriões."
+    },
+    {
+      "id": "e-15",
+      "key": "Eminência",
+      "keyNormalized": "eminencia",
+      "markdown": "Eminência – do latim *Eminentia*, elevação, acrécimo, *Ex*, para fora, *Minere*, projetar."
+    },
+    {
+      "id": "e-16",
+      "key": "Emissária",
+      "keyNormalized": "emissaria",
+      "markdown": "Emissária – do latim *Enissarium*, escoadouro. *Ex*, para fora e *Mittere*, levar. Na Roma antiga, utilizavam-se *Emmissaria*, canais de drenagem de lagos e charcos, com a finalidade de secá-los e arar a terra. A palavra foi empregada para qualquer tipo de dreno e, em Anatomia, foi usada pela primeira vez por Giovanni Santorini (1720) para designar as veias que ligam os seios venosos da dura-máter às veias externas do crânio (diplóicas)."
+    },
+    {
+      "id": "e-17",
+      "key": "Encéfalo",
+      "keyNormalized": "encefalo",
+      "markdown": "Encéfalo – do grego *Enkephalos*, cérebro, *En*, Dentro e *Kephalos*, cabeça. Parte do Sistema Nervoso situado dentro do crânio."
+    },
+    {
+      "id": "e-18",
+      "key": "Endocárido",
+      "keyNormalized": "endocarido",
+      "markdown": "Endocárido \\- do grego *Endo*, dentro e *Kardí(ā),* coração. Membrana serosa que reveste a parte interna do coração."
+    },
+    {
+      "id": "e-19",
+      "key": "Endocérvice",
+      "keyNormalized": "endocervice",
+      "markdown": "Endocérvice – do grego *Endo*, dentro e do latim *Ceruīc*, colo do útero. Porção do colo do útero que se encontra logo após o orifício cervical externo."
+    },
+    {
+      "id": "e-20",
+      "key": "Endocitose",
+      "keyNormalized": "endocitose",
+      "markdown": "Endocitose – do grego *Endo*, dentro, *Kyto*, célula e *Ō-sis*, processo. Processo pelo qual a célula introduz no seu interior moléculas grandes ou partículas através de sua membrana."
+    },
+    {
+      "id": "e-21",
+      "key": "Endocondral",
+      "keyNormalized": "endocondral",
+      "markdown": "Endocondral – do grego *Endo*, dentro e *Khondr*(o), cartilagem. O que esta no interior de uma cartilagem."
+    },
+    {
+      "id": "e-22",
+      "key": "Endócrina (o)",
+      "keyNormalized": "endocrinao",
+      "markdown": "Endócrina (o) – do grego *Endon*, dentro, interno e *Krinéin*, segregar, separar."
+    },
+    {
+      "id": "e-23",
+      "key": "Endoderme",
+      "keyNormalized": "endoderme",
+      "markdown": "Endoderme \\- do grego *Endon*, dentro e *Derm*, folheto, camada. É um dos três folhetos embrionários que forma o embrião, sendo o mais interno."
+    },
+    {
+      "id": "e-24",
+      "key": "Endógeno",
+      "keyNormalized": "endogeno",
+      "markdown": "Endógeno – do grego *Endo*, dentro e *Gen*, gerado. Este termo era aplicado ao escravo nascido dentro de casa."
+    },
+    {
+      "id": "e-25",
+      "key": "Endolinfa",
+      "keyNormalized": "endolinfa",
+      "markdown": "Endolinfa – do grego *Endon*, dentro e *Lympha*, água. Este humor, descoberto por Domenico Cotugno, foi detalhadamente descrito por Antonio Scarpa."
+    },
+    {
+      "id": "e-26",
+      "key": "Endométrio",
+      "keyNormalized": "endometrio",
+      "markdown": "Endométrio \\- do grego *Endon,* dentro *e Metra,* matriz. Camada mais interna do útero."
+    },
+    {
+      "id": "e-27",
+      "key": "Endomísio",
+      "keyNormalized": "endomisio",
+      "markdown": "Endomísio – do grego *Endon*, dentro e *Mys*, músculo."
+    },
+    {
+      "id": "e-28",
+      "key": "Endoneuro",
+      "keyNormalized": "endoneuro",
+      "markdown": "Endoneuro – do grego *Endon*, dentro e *Neuron*, fibra, cordão."
+    },
+    {
+      "id": "e-29",
+      "key": "Endoplasma",
+      "keyNormalized": "endoplasma",
+      "markdown": "Endoplasma \\- do grego *Endon*, dentro e *Plassos*, molde. É a parte interna do citoplasma que circunda o núcleo de uma célula."
+    },
+    {
+      "id": "e-30",
+      "key": "Endossoma",
+      "keyNormalized": "endossoma",
+      "markdown": "Endossoma\t\\-\tdo\tgrego\t*Endon*,\tdentro\te\t*Som*,\tcorpúsculo\tcelular.\tSão\testruturas intracitoplasmáticas que se formam devido a invaginação da membrana plasmática."
+    },
+    {
+      "id": "e-31",
+      "key": "Endósteo",
+      "keyNormalized": "endosteo",
+      "markdown": "Endósteo – do grego *Endon*, dentro e *Osteon*, osso."
+    },
+    {
+      "id": "e-32",
+      "key": "Endotélio",
+      "keyNormalized": "endotelio",
+      "markdown": "Endotélio \\- do grego *Endon*, interno; e *Thelen*, afastado. Camada epitelial única de células que reveste a parede interna dos grandes vasos sangüíneos e linfáticos."
+    },
+    {
+      "id": "e-33",
+      "key": "Endotorácica",
+      "keyNormalized": "endotoracica",
+      "markdown": "Endotorácica – do grego *Endon*, dentro e *Thorakikós*, relativo ao tórax."
+    },
+    {
+      "id": "e-34",
+      "key": "Entérico",
+      "keyNormalized": "enterico",
+      "markdown": "Entérico – do grego *Enterykos*, intestinal, *Enteron*, intestinos. A palavra enteron, significando intestinos, pode ter derivado do grego *Entós*, que esta dentro, por causa de sua posição no abdome."
+    },
+    {
+      "id": "e-35",
+      "key": "Entero",
+      "keyNormalized": "entero",
+      "markdown": "Entero \\- do grego *Enteron*, intestino. Cavidade digestóraia, especialmente aquela parte revestida por endoderma."
+    },
+    {
+      "id": "e-36",
+      "key": "Enterócito",
+      "keyNormalized": "enterocito",
+      "markdown": "Enterócito \\- do grego *Enter*, intestino e *Kytos*, célula. Célula absortiva encontrada nas paredes do intestino provida de numerosas microvilosidades em sua face livre para aumentar a superfície de absorção."
+    },
+    {
+      "id": "e-37",
+      "key": "Entrecruzamento",
+      "keyNormalized": "entrecruzamento",
+      "markdown": "Entrecruzamento – do latim *Entre*, entre e *Cruciare*, cruzar. O mesmo que cruz."
+    },
+    {
+      "id": "e-38",
+      "key": "Enzima",
+      "keyNormalized": "enzima",
+      "markdown": "Enzima – do grego *Em*, em e *Zym(ē),* levedura. Vocábulo introduzido por Kühne en 1877 que significa levadura, com a idéia de que cataliza o que esta dentro e fora da célula. Proteína que atua como agente catalizador nos processos metabólicos. No final de 1700 e início dos anos 1800 a digestão da carne por secreções do estômago e a conversão do amido em açúcares pela saliva e estratos de plantas já eram conhecidas. No entanto, o mecanismo pelo qual isso ocorria não havia sido identificado. No século 19, quando estudava a fermentação do açúcar em álcool por leveduras, Louis Pasteur chegou à conclusão de que esta fermentação era catalisada por uma força vital contida dentro das células da levedura chamadas fermentos, que se imaginava funcionar apenas nos organismos vivos. Pasteur escreveu que a fermentação alcoólica é um ato correlacionado com a vida e organização das células da levedura, não com a morte ou putrefação das células. No entanto em 1877, o fisiologista alemão Wilhelm Kühne (1837-1900), utilizou pela primeira vez o termo ″enzima”, que vem do grego ενζυμον, em fermento, para descrever este processo, referindo que sua ação pode ocorrer sem a presença de organismos e fora dos mesmos. Mais tarde a palavra enzima foi utilizada para se referir a substâncias não vivas, tais como a pepsina, o fermento era a palavra usada para se referir à atividades químicas produzidas por organismos vivos."
+    },
+    {
+      "id": "e-39",
+      "key": "Eosina",
+      "keyNormalized": "eosina",
+      "markdown": "Eosina – do grego *Ēō*, aurora, de cor rosa e *Īn(a)*, sustância. Corante ácido que cora em rosa ou em vermelho em especial as proteínas das células."
+    },
+    {
+      "id": "e-40",
+      "key": "Eosinófilo",
+      "keyNormalized": "eosinofilo",
+      "markdown": "Eosinófilo \\- do grego *Philein,* amigo, afinidade e eosina que é um corante. Célula da série branca do sangue, que se cora pela eosina, e esta envolvida em processos alérgicos."
+    },
+    {
+      "id": "e-41",
+      "key": "Epêndima",
+      "keyNormalized": "ependima",
+      "markdown": "Epêndima – do grego *Epi*, sobre, em cima, e *Endyma*, vestimenta."
+    },
+    {
+      "id": "e-42",
+      "key": "Epicárdio",
+      "keyNormalized": "epicardio",
+      "markdown": "Epicárdio – do grego *Epi*, sobre, em cima, *Kardia*, coração."
+    },
+    {
+      "id": "e-43",
+      "key": "Epicôndilo",
+      "keyNormalized": "epicondilo",
+      "markdown": "Epicôndilo – do grego *Epi*, sobre, em cima e *Kondylòs*, junção, nó."
+    },
+    {
+      "id": "e-44",
+      "key": "Epiderme",
+      "keyNormalized": "epiderme",
+      "markdown": "Epiderme – do grego *Epi*, sobre, em cima de, *Derma*, couro, pele."
+    },
+    {
+      "id": "e-45",
+      "key": "Epidídimo",
+      "keyNormalized": "epididimo",
+      "markdown": "Epidídimo – do grego *Epi*, sobre, em cima e *Didymos*, duplo, em dobro. O termo *Didymos* era usado para as gônadas de ambos os sexos e originalmente significava duplo, ou gêmeo. *Epididymos* teria o sentido de “o que esta sobre os gêmeos”, mas os médicos gregos sempre utilizaram a palavra para designar os testículos, desde os primórdios da anatomia. O primeiro a usar a palavra *Epididymos* para designar a estrutura que conhecemos hoje foi Herófilo, mas Riolan, em 1649, reintroduziu o termo em anatomia descrevendo o órgão em detalhes."
+    },
+    {
+      "id": "e-46",
+      "key": "Epidural",
+      "keyNormalized": "epidural",
+      "markdown": "Epidural – do grego *Epi*, sobre, em cima, *Duralis*, endurecido."
+    },
+    {
+      "id": "e-47",
+      "key": "Epífise",
+      "keyNormalized": "epifise",
+      "markdown": "Epífise – do grego *Epi*, sobre, em cima e *Physis*, sulco, crescimento."
+    },
+    {
+      "id": "e-48",
+      "key": "Epiglote",
+      "keyNormalized": "epiglote",
+      "markdown": "Epiglote – do grego *Epi*, sobre, em cima, e *Glottis*, laringe."
+    },
+    {
+      "id": "e-49",
+      "key": "Epimísio",
+      "keyNormalized": "epimisio",
+      "markdown": "Epimísio – do grego *Epi*, sobre, em cima e *Mys*, músculo."
+    },
+    {
+      "id": "e-50",
+      "key": "Epinefrina",
+      "keyNormalized": "epinefrina",
+      "markdown": "Epinefrina \\- do grego: *Epi*, em cima, e *Nephros*, rim. (Vide o termo adrenalina)."
+    },
+    {
+      "id": "e-51",
+      "key": "Epineuro",
+      "keyNormalized": "epineuro",
+      "markdown": "Epineuro – do grego *Epi*, sobre, em cima e *Neuron*, fibra, cordão."
+    },
+    {
+      "id": "e-52",
+      "key": "Epiplóico",
+      "keyNormalized": "epiploico",
+      "markdown": "Epiplóico – do grego *Epiplóikos*, relativo a *Epíploon*. Hipócrates chamava o omento maior de *Epiploon*, que flutua sobre, do Grego *Epi*, sobre, em cima e *Pléein*, flutuar, pairar. Galeno e Oribásio adotaram o termo com o mesmo sentido, isto é, uma membrana que está solta sobre os intestinos, como um avental."
+    },
+    {
+      "id": "e-53",
+      "key": "Episcleral",
+      "keyNormalized": "episcleral",
+      "markdown": "Episcleral – do grego Epi, sobre, em cima e Skeros, duro, rígido."
+    },
+    {
+      "id": "e-54",
+      "key": "Epitálamo",
+      "keyNormalized": "epitalamo",
+      "markdown": "Epitálamo – do grego *Epi*, sobre, em cima e *Thalamos*, quarto de dormir."
+    },
+    {
+      "id": "e-55",
+      "key": "Epitélio",
+      "keyNormalized": "epitelio",
+      "markdown": "Epitélio – do grego *Epi*, sobre, em cima e *Thelé*, papila, mamilo. Assim foi denominada a pele dos lábios por Ruysch, em 1700\\. Posteriormente, graças aos trabalhos de Henle (1870), passou a significar a camada superficial da pele em qualquer local do corpo e, por extensão, o revestimento de superfícies internas, como o intestino, a árvore bronquial etc."
+    },
+    {
+      "id": "e-56",
+      "key": "Eponíquio",
+      "keyNormalized": "eponiquio",
+      "markdown": "Eponíquio – do grego *Epi*, sobre, em cima, *Onyx*, unha."
+    },
+    {
+      "id": "e-57",
+      "key": "Epoóforo",
+      "keyNormalized": "epooforo",
+      "markdown": "Epoóforo – do grego *Epi*, sobre, em cima, *Oon*, ovo e *Phoro*, eu levo."
+    },
+    {
+      "id": "e-58",
+      "key": "Equador",
+      "keyNormalized": "equador",
+      "markdown": "Equador – do latim, *Aequator*, igualador, *Aequare*, igualar e *Actor*. Agente."
+    },
+    {
+      "id": "e-59",
+      "key": "Equina",
+      "keyNormalized": "equina",
+      "markdown": "Equina – do latim *Equinus*, de cavalo, *Equus*, cavalo ou *Equa*, égua."
+    },
+    {
+      "id": "e-60",
+      "key": "Ereção",
+      "keyNormalized": "erecao",
+      "markdown": "Ereção – do latim *E(c),* de dentro para fora, com intensidade e *Reg(ere),* levantar. Endurecimento e aumento do pênis, do clitóris ou dos mamilos, depende de interações complexas psicológicas, neurológicas, vasculares e endócrinas, em muitos casos, associada ao desejo sexual."
+    },
+    {
+      "id": "e-61",
+      "key": "Eretor",
+      "keyNormalized": "eretor",
+      "markdown": "Eretor – do latim *Erigere*, levantar, elevar e *Actor*, agente."
+    },
+    {
+      "id": "e-62",
+      "key": "Ergastoplasma",
+      "keyNormalized": "ergastoplasma",
+      "markdown": "Ergastoplasma – *Ergon*, trabalho. Conjunto dos elementos bem estruturados do citoplasma das células que correspondente ao retículo endoplásmico granuloso no microscópio eletrônico."
+    },
+    {
+      "id": "e-63",
+      "key": "Eritroblasto",
+      "keyNormalized": "eritroblasto",
+      "markdown": "Eritroblasto \\- do grego *Erythron*, vermelho e *Blastos*, formador. Célula nucleada da medula óssea que forma os eritrócitos."
+    },
+    {
+      "id": "e-64",
+      "key": "Eritroblastose",
+      "keyNormalized": "eritroblastose",
+      "markdown": "Eritroblastose – do grego *Eryth(ro),* vermelho, roxo; *Kyto*, célula; *Blast(o)*, germe, retorno e *Ō-sis,* processo patológico. Presença de eritroblastos no sangue o que dá lugar a anemia grave em recem nacidos."
+    },
+    {
+      "id": "e-65",
+      "key": "Eritrócito",
+      "keyNormalized": "eritrocito",
+      "markdown": "Eritrócito \\- do grego *Erythron*, vermelho e *Kytos*, célula. Célula vermelha do sangue; hemácia."
+    },
+    {
+      "id": "e-66",
+      "key": "Eritropenia",
+      "keyNormalized": "eritropenia",
+      "markdown": "Eritropenia \\- do grego *Erythron*, vermelho e *Peníā*, falta, carência, pobreza. Deficiência no número de eritrócitos."
+    },
+    {
+      "id": "e-67",
+      "key": "Escafa",
+      "keyNormalized": "escafa",
+      "markdown": "Escafa – do latim *Scapha*, canoa, e do Grego *Scaphe*, canoa."
+    },
+    {
+      "id": "e-68",
+      "key": "Escafóie",
+      "keyNormalized": "escafoie",
+      "markdown": "Escafóie – do grego *Scaphe*, canoa, e *Oidés*, forma de. O termo nomeava indistintamente qualquer osso ovóide escavado, em forma de canoa, em cuja concavidade encaixava-se outro osso."
+    },
+    {
+      "id": "e-69",
+      "key": "Escaleno",
+      "keyNormalized": "escaleno",
+      "markdown": "Escaleno – do grego *Skalenos*, desigual, irregular. Nenhum dos três músuclos, isoladamente, tem a forma exata de um triângulo escaleno, mas a massa muscular total toma uma forma tridimensional de lados desiguais. O termo foi de início, introduzido por Riolan (1640), que descrevendo a emergência do plexo braquial através destes músculos, tinha-os como um só. Vesálio e Wislow consideravam dois, Fallopio e Cowper três, Douglas quatro e Albinus, cinco músculos. Somente após o século XVIII, os escalenos foram descritos como três músculos distintos (em casos raros, há a presença de um quarto músculo)."
+    },
+    {
+      "id": "e-70",
+      "key": "Escama",
+      "keyNormalized": "escama",
+      "markdown": "Escama \\- do latim *Squama*, escama de peixe."
+    },
+    {
+      "id": "e-71",
+      "key": "Escápula",
+      "keyNormalized": "escapula",
+      "markdown": "Escápula \\- do latim *Scapulae*, espáduas, ombros. Aristóteles e Galeno chamavam-no de Omoplata, do Grego *Omos*, ombro e *Platus*, chato. Riolan (1640) parece ter sido o primeiro anatomista a usar o termo escápula, mas derivado do grego *Skaptein*, escavar, por causa da semelhança da forma do osso com uma pá."
+    },
+    {
+      "id": "e-72",
+      "key": "Escavação",
+      "keyNormalized": "escavacao",
+      "markdown": "Escavação – do latim *Excavatio*, escavação e *Excavare*, escavar."
+    },
+    {
+      "id": "e-73",
+      "key": "Esclera",
+      "keyNormalized": "esclera",
+      "markdown": "Esclera – do grego *Skleros*, duro, rígido. Camada externa do olho, protetora. É a parte branca do olho."
+    },
+    {
+      "id": "e-74",
+      "key": "Escroto",
+      "keyNormalized": "escroto",
+      "markdown": "Escroto – do latim *Scrotu*, bolsa. Aparentemente uma variação de *Scrotum*, pele, couro. Nome dado, na antiga Roma, a qualquer objeto feito de couro, especialmente ás bolsas penduradas no cinto. Daí a bolsa que contém os testículos receber este nome. O equivalente grego é *Orkhis*."
+    },
+    {
+      "id": "e-75",
+      "key": "Esfenóide",
+      "keyNormalized": "esfenoide",
+      "markdown": "Esfenóide – do grego *Sphen*, cunha, arado, e *Oidés*, forma de. É provável que Galeno tenha sido o primeiro a descrever este osso que parece estar encravado, como cunha, entre o crânio e a maxila. Outra etimologia, mais constestada, da a origem como sendo do grego *Sphein*, mariposa, vespa, por sua forma geral ter certa semelhança com um inseto alado (daí o nome deste osso em alemão ser *Wespenbein*."
+    },
+    {
+      "id": "e-76",
+      "key": "Esférico",
+      "keyNormalized": "esferico",
+      "markdown": "Esférico – do latim *Sphoera*, esfera, globo e do grego *Oidés*, forma. O mesmo que esferóide."
+    },
+    {
+      "id": "e-77",
+      "key": "Esfíncter",
+      "keyNormalized": "esfincter",
+      "markdown": "Esfíncter – do grego *Sphinktèr*, ligadura, atadura, de *Sphingein*, amarrar."
+    },
+    {
+      "id": "e-78",
+      "key": "Esmalte",
+      "keyNormalized": "esmalte",
+      "markdown": "Esmalte – do latim *Enamyl*, derretido, depois *Smattare*, derreter. Em sentido estrito, esmalte é um composto mineral (apatita) vítreo submetido a altas temperaturas, derretido e fundido à superfície de objetos, com intuito decorativo. A palavra *Smattare*, esmaltar foi introduzida apenas na idade média."
+    },
+    {
+      "id": "e-79",
+      "key": "Esôfago",
+      "keyNormalized": "esofago",
+      "markdown": "Esôfago – do grego *Oiso*, eu levo e *Phagos*, comida."
+    },
+    {
+      "id": "e-80",
+      "key": "Espaço",
+      "keyNormalized": "espaco",
+      "markdown": "Espaço – do latim *Sapatium*, espaço distância, intervalo."
+    },
+    {
+      "id": "e-81",
+      "key": "Esperma",
+      "keyNormalized": "esperma",
+      "markdown": "Esperma \\- do grego *Sperma*, semente."
+    },
+    {
+      "id": "e-82",
+      "key": "Espermatócito",
+      "keyNormalized": "espermatocito",
+      "markdown": "Espermatócito \\- do grego *Sperma*, semente e *Kytos*, célula."
+    },
+    {
+      "id": "e-83",
+      "key": "Espermatogônia",
+      "keyNormalized": "espermatogonia",
+      "markdown": "Espermatogônia \\- do grego *Sperma*, semente *Gon*, órgãos sexuais. Célula indiferenciada presente no túbulo seminífero e que forma os espermatócitos."
+    },
+    {
+      "id": "e-84",
+      "key": "Espinal",
+      "keyNormalized": "espinal",
+      "markdown": "Espinal – do latim *Spinalis*, pontudo."
+    },
+    {
+      "id": "e-85",
+      "key": "Espinha",
+      "keyNormalized": "espinha",
+      "markdown": "Espinha – do latim, *Spina*, espinho, ponta aguda. O termo deriva do circo de bigas romano. A pista de corrida era dividida ao meio, por mais de ¾ do seu comprimento por um muro de seis metros de largura e dois de altura. Este muro era adornado com estátuas de Seuses e recebia o nome de *Spina*. O termo foi depois empregado para a coluna vertebral porque ela parece separar, não totalmente, a musculatura do dorso do corpo, à semelhança da *Spina* do circo romano."
+    },
+    {
+      "id": "e-86",
+      "key": "Espinhal",
+      "keyNormalized": "espinhal",
+      "markdown": "Espinhal – do latim *Spinalis*, espinhoso, pontudo. O termo espinhal é relativo á espinha projeção óssea, e não deve ser confundido com espinal, variante relativa à medula espinal, órgão nervoso."
+    },
+    {
+      "id": "e-87",
+      "key": "Espinhoso",
+      "keyNormalized": "espinhoso",
+      "markdown": "Espinhoso – do latim *Spinosus*, pontudo, espinhoso. O mesmo que espinhal."
+    },
+    {
+      "id": "e-88",
+      "key": "Espiral",
+      "keyNormalized": "espiral",
+      "markdown": "Espiral – do latim *Spira*, espiral."
+    },
+    {
+      "id": "e-89",
+      "key": "Esplâncnico",
+      "keyNormalized": "esplancnico",
+      "markdown": "Esplâncnico – do grego *Splanknikos*, relativo ás vísceras, visceral."
+    },
+    {
+      "id": "e-90",
+      "key": "Esplancnopleura",
+      "keyNormalized": "esplancnopleura",
+      "markdown": "Esplancnopleura \\- do grego *Splanknikos,* vísceras e *Pleur(á),* costelas. Porção lateral do mesoderma que se liga ao endoderma; folha interna visceral do mesoderma que contorna as vísceras."
+    },
+    {
+      "id": "e-91",
+      "key": "Esplênico",
+      "keyNormalized": "esplenico",
+      "markdown": "Esplênico – do grego *Splenikos*, *lienal* e *Splen*, baço. O baço em latim chama-se *Lien*, que aprece ter derivado da palavra grega. O primeiro anatomista a descrever o baço em detalhes foi Marcello Malpighi, em 1659\\."
+    },
+    {
+      "id": "e-92",
+      "key": "Esplênio",
+      "keyNormalized": "esplenio",
+      "markdown": "Esplênio – do grego *Splenion*, curativo, bandagem. Foi dado o nome ao músculo por sua semelhança a uma atadura. Bartolommeo Eustachio e Gabrielle Falloppio dividiram o músculo em duas partes e Albinus nomeou-as *splenius capitus* e *splenius cervicis*."
+    },
+    {
+      "id": "e-93",
+      "key": "Espongiócito",
+      "keyNormalized": "espongiocito",
+      "markdown": "Espongiócito \\- do grego *Spongos*, esponja e *Kytos*, célula. Célula da região cortical da supra-renal que lembra uma esponja."
+    },
+    {
+      "id": "e-94",
+      "key": "Esponjoso",
+      "keyNormalized": "esponjoso",
+      "markdown": "Esponjoso – do grego *Spongos*, esponja oriundo de animal marinho. Hipócrates usava este termo para designar qualquer estrutura de aparência porosa. Aristoteles descreveu vários tipos de esponjas, que tinham inúmeros usos entre os gregos, principalmente como material de preenchimento."
+    },
+    {
+      "id": "e-95",
+      "key": "Esqueleto",
+      "keyNormalized": "esqueleto",
+      "markdown": "Esqueleto – do grego *Skeletos*, secura, aridez."
+    },
+    {
+      "id": "e-96",
+      "key": "Esquerdo",
+      "keyNormalized": "esquerdo",
+      "markdown": "Esquerdo – do latim *Sinister*, esquerdo, funesto. Na idade média, a igreja católica determinou que o lado correto para os fiéis fosse o direito, pois os justos, segundo a bíblia, sentar-se-iam a este lado do trono de Deus. Cristo teria distribuído o pão e o vinho na última ceia com a mão direita. Por causa disto, o lado incorreto, dos pecadores seria o lado esquerdo."
+    },
+    {
+      "id": "e-97",
+      "key": "Estapédio",
+      "keyNormalized": "estapedio",
+      "markdown": "Estapédio – do latim *Satapedius*, relativo ao estribo, e *Stapes*, estribo. Duverney nomeou o músculo inserido ao estribo de *musculus stapedis*, mas Albinus chamou-o *Stapedius*."
+    },
+    {
+      "id": "e-98",
+      "key": "Estatocônia",
+      "keyNormalized": "estatoconia",
+      "markdown": "Estatocônia – do grego *Statikós*, imóvel e *Konis*, cascalho miúdo, seixo."
+    },
+    {
+      "id": "e-99",
+      "key": "Estelar",
+      "keyNormalized": "estelar",
+      "markdown": "Estelar – do latim *Stellaris*, de estrela e *Stella*, estrela. O mesmo que estrelado."
+    },
+    {
+      "id": "e-100",
+      "key": "Estereocílio",
+      "keyNormalized": "estereocilio",
+      "markdown": "Estereocílio – do grego *Stere(o),* duro, sólido, imóvel e *Cilium*, pálpebra, pestana, cílio. Microvilosidade imóvel das células pilosas da cóclea; estão endurecidas pelo citoesqueleto."
+    },
+    {
+      "id": "e-101",
+      "key": "Estéril",
+      "keyNormalized": "esteril",
+      "markdown": "Estéril – do latim *Steril(e),* estéril. Que não dá frutos."
+    },
+    {
+      "id": "e-102",
+      "key": "Esterno",
+      "keyNormalized": "esterno",
+      "markdown": "Esterno – do grego *Sternon*, peito masculino. Hipócrates usou o termo *Sternon* para o peito masculino e chamou o “osso do peito” de *Sternon* para o osso e este uso propagou-se. Os romanos chamavam-no os *Pectoris* e a palavra *Sternum* apareceu apenas no latim medieval, através da tradução dos textos gregos. Por ser superficial e de fácil palpação, alguns etimologistas referem á origem como derivada do grego *Stereos*, em relevo, evidente."
+    },
+    {
+      "id": "e-103",
+      "key": "Esternocleidomastóideo",
+      "keyNormalized": "esternocleidomastoideo",
+      "markdown": "Esternocleidomastóideo – do grego *Sternon*, peito masculino, *Kléis*, chave e *Mastoidon*, da mama, mamário. O nome mostra as origens (esterno e clavícula) e inserção (processo mastóide) deste músculo."
+    },
+    {
+      "id": "e-104",
+      "key": "Esteróide",
+      "keyNormalized": "esteroide",
+      "markdown": "Esteróide – do grego *Stere(o),* duro, sólido, em tres dimensões e *Eid(és),* que tem o aspecto de. Estrutura policíclica da qual derivam compostos de interesse biológico, tais como esteróies, ácidos biliares, hormônios, etc."
+    },
+    {
+      "id": "e-105",
+      "key": "Estigma",
+      "keyNormalized": "estigma",
+      "markdown": "Estigma – do grego *Stigm(at),* ponto. Esta palavra era utilizada na Grécia antiga para designar marcas que se usavam para distinguir os escravos uns dos outros."
+    },
+    {
+      "id": "e-106",
+      "key": "Estilóide",
+      "keyNormalized": "estiloide",
+      "markdown": "Estilóide – do grego *Stylos*, lança, estaca, e *Òidés*, em forma de."
+    },
+    {
+      "id": "e-107",
+      "key": "Estômago",
+      "keyNormalized": "estomago",
+      "markdown": "Estômago – do grego, *Stoma*, boca, e *Cheien* derramar. Para os romanos a palavra *Stomachus* designava a goela ou a porção inicial do esôfago, e derivava od grego *Stomachos*, composta de *Stoma*, boca e *Cheien*, derramar. Hipócrates usava também o termo para designar o colo da bexiga urinária ou do útero, no sentido de “início de um órgão ôco”, como no nosso popular “boca do estômago”. Em latim, o estômago, como órgão era chamdo de *Ventriculus* (diminutivo de *Venter*, ventre e, em grego *Gaster*. Assim, para Vesalio havia o *Stomachus* (esôfago) e o *Ventriculus* (estômago). Portanto a palavra designou inicialmente a faringe distal, então o esôfago, depois a cárdia e finalmente, após o século XVII, o estômago como atualmente o conhecemos."
+    },
+    {
+      "id": "e-108",
+      "key": "Estomodeu",
+      "keyNormalized": "estomodeu",
+      "markdown": "Estomodeu – do grego *Stoma*, boca e *Hodos*, via. Estomodeu é a porção da cavidade bucal revestida pelo ectoderma."
+    },
+    {
+      "id": "e-109",
+      "key": "Estradiol",
+      "keyNormalized": "estradiol",
+      "markdown": "Estradiol – do grego *Oistro*, desejo irracional, ardor sexual e *Oi\\[δ*ύ*ο\\],* álcool. Hormônio produzido no ovário que mantém os caracteres sexuais femininos secundários."
+    },
+    {
+      "id": "e-110",
+      "key": "Estratificado",
+      "keyNormalized": "estratificado",
+      "markdown": "Estratificado \\- do latim *Stratum*, coberta de cama, e *Facere,* fazer*.*"
+    },
+    {
+      "id": "e-111",
+      "key": "Estrato",
+      "keyNormalized": "estrato",
+      "markdown": "Estrato – do latim *Stratum*, coberta de cama, colcha. O termo em português correto a ser utilizado é camada. Estrato é igualmente utilizado, mas menos habitual e oferece um risco de confusão na linguagem falada com a palavra extrato."
+    },
+    {
+      "id": "e-112",
+      "key": "Estria",
+      "keyNormalized": "estria",
+      "markdown": "Estria \\- do latim *Stria*, canela, estria ondulada de adorno. Na realidade, em sentido mais restrito, a palavra *Stria* significava faixa elevada e o termo era frequentemente usado para descrever o aspecto ondulado do corpo de uma coluna e até mesmo uma “testa enrugada”. Nada indica, em latim, que a palavra tivese o sentido de listrado, como conhecemos atualmente."
+    },
+    {
+      "id": "e-113",
+      "key": "Estriado",
+      "keyNormalized": "estriado",
+      "markdown": "Estriado – do latim Striatus, canelado e Striare, canelar, estriar."
+    },
+    {
+      "id": "e-114",
+      "key": "Estribo",
+      "keyNormalized": "estribo",
+      "markdown": "Estribo – do latim *Stapes*, estribo. O estribo não era conhecido dos romanos e gregos porque eles não tinham selas de couro para seus cavalos. Eles cavalgavam sobre um cobertor colocado diretamente no dorso dos animais e que era chamado de *Epihippion* (grego *Epi*, em cima, e *Hippos*, cavalo). As selas de couro e os estribos somente foram introduzidos no século IV, pelos otomanos, e os estribos primitivos eram chamados de *Scalae*. O primeiro anatomista a dar nome ao ossículo da orelha este nome foi Giovanni Ingrassias, em 1546, embora se afirme que Bartolommeo Eustachio (1564) tenha sido o primeiro a descrevê-lo."
+    },
+    {
+      "id": "e-115",
+      "key": "Estro",
+      "keyNormalized": "estro",
+      "markdown": "Estro \\- do grego *Oistros*, desejo irracional, desejo veemente, ardor sexual."
+    },
+    {
+      "id": "e-116",
+      "key": "Estrogênio",
+      "keyNormalized": "estrogenio",
+      "markdown": "Estrogênio \\- do grego *Oistros*, desejo irracional, ardor sexual e *Gen*, o que gera. Hormônio sexual feminino produzido pelos ovarios que regula o ciclo menstrual e provoca o desenvolvimento dos caracteres sexuais secundários femininos."
+    },
+    {
+      "id": "e-117",
+      "key": "Estroma",
+      "keyNormalized": "estroma",
+      "markdown": "Estroma – do grego *Stroma*, coberta, toalha. Para os gregos significava qualquer tipo de cobertura para cama, mesa etc. No plural, designava as pilastras ou suportes de uma ponte. Em anatomia, inicialmente a palavra denominou as cúpulas ou tecidos conjuntivos de revestimento externo de órgãos. No final do século XVIII, o termo foi modificado e assim divulgado pelos histologistas. Chama-se estroma ao tecido de sustentação de um órgão, ou seja, que serve para sustentar as células funcionais dos órgãos. Com exceção do cérebro e da medula espinhal, o estroma é constiuído de tecido conjuntivo."
+    },
+    {
+      "id": "e-118",
+      "key": "Estrutura",
+      "keyNormalized": "estrutura",
+      "markdown": "Estrutura – do latim *Struct(um),* colocado em ordem, construído. Distribuição ordenada das partes de um conjunto, em medicina o termo é utilizado para designar as partes do corpo ou de um órgão."
+    },
+    {
+      "id": "e-119",
+      "key": "Etmóide",
+      "keyNormalized": "etmoide",
+      "markdown": "Etmóide – do grego *Ethmos*, peneira, e *Oidés*, forma de. O osso foi descrito e nomeado por Galeno."
+    },
+    {
+      "id": "e-120",
+      "key": "Eucariota",
+      "keyNormalized": "eucariota",
+      "markdown": "Eucariota – do grego *Eu,* bom, normal, verdadeiro e *Karyo*, semente, núcleo. Células que possuem núcleo bem individualizado, delimitado por membranas."
+    },
+    {
+      "id": "e-121",
+      "key": "Eucromatina",
+      "keyNormalized": "eucromatina",
+      "markdown": "Eucromatina \\- do grego *Eu*, boa; *Khrōm(at),* cor e *Īn(a)* substância. Porção geneticamente ativa dos cromossomos no interior do núcleo. Ao microscópio de luz essa região aparece no interior do núcleo como áreas bem claras indicando DNA descondensado."
+    },
+    {
+      "id": "e-122",
+      "key": "Eutanásia",
+      "keyNormalized": "eutanasia",
+      "markdown": "Eutanásia – do grego *Eu*, boa e *Tánatos*, morte. Portanto, seu significado etimológico é boa morte. Eutanásia pode se apresentar como um suicídio assistido ou como um homicídio dito piedoso. O primeiro, quando realizada pelo próprio enfermo e o segundo quando a ação letal é perpetrada por outra pessoa. Assim pode ser um ato deliberado e objetivo tomado para retirar a vida de uma pessoa que está em grave possibilidade de um sofrimento intenso, ou já se encontra nele, em razão de alguma doença incurável. Portanto é uma ação direta e específica para tirar a vida de uma pessoa que, necessariamente não está na fase terminal. E isso a caracteriza, indiscutivelmente, como suicídio ou homicídio, dependendo de quem foi o autor da ação letal."
+    },
+    {
+      "id": "e-123",
+      "key": "Evaginação",
+      "keyNormalized": "evaginacao",
+      "markdown": "Evaginação – do latim *Ex*, fora e *Vagina*, bainha. É uma projeção ou saliência oca que se forma para fora."
+    },
+    {
+      "id": "e-124",
+      "key": "Excreção",
+      "keyNormalized": "excrecao",
+      "markdown": "Excreção \\- do latim *Exscreare,* descarga ou eliminação. Representa a eliminação de resíduos metabólicos por um organismo; por extenção também as substâncias excretadas."
+    },
+    {
+      "id": "e-125",
+      "key": "Excretor",
+      "keyNormalized": "excretor",
+      "markdown": "Excretor – do latim *Exscreare*, expectorar e *Actor*, agente."
+    },
+    {
+      "id": "e-126",
+      "key": "Exfoliação",
+      "keyNormalized": "exfoliacao",
+      "markdown": "Exfoliação – do latim *Ex*, para fora; *Foli(um),* folha e *Ā-tiōn(em),* processo de. Processo de retirada por camdas de um local, por exemplo, da pele."
+    },
+    {
+      "id": "e-127",
+      "key": "Exocitose",
+      "keyNormalized": "exocitose",
+      "markdown": "Exocitose \\- do latim *Ex*, para fora; *Kyto*, célula e *Ō-sis,* processo de. Termo criado por De Duve em 1963 para designar o proceso de secreção de moléculas e partículas para o exterior da célula."
+    },
+    {
+      "id": "e-128",
+      "key": "Exócrina",
+      "keyNormalized": "exocrina",
+      "markdown": "Exócrina \\- do grego *Exo*, fora e *Krinéin*, segregar, separar."
+    },
+    {
+      "id": "e-129",
+      "key": "Exón",
+      "keyNormalized": "exon",
+      "markdown": "Exón \\- do grego *Ex*, fora e *On*, partícula. Sequência de polinucleótideos em um ácido nucleico que codifica informações para a síntese protéica.\n\nExoplasma \\-"
+    },
+    {
+      "id": "e-130",
+      "key": "Extensor",
+      "keyNormalized": "extensor",
+      "markdown": "Extensor – do latim *Extendere*, estender, esticar e *Actor*, agente."
+    },
+    {
+      "id": "e-131",
+      "key": "Externo",
+      "keyNormalized": "externo",
+      "markdown": "Externo – do latim *Externus*, vindo de fora, exterior. O termo no plural *Externi* designava, de modo geral, os povos bárbaros, isto é, os povos estrangeiros e que não estavam sob o domínio de Roma."
+    },
+    {
+      "id": "e-132",
+      "key": "Extrapiramidal",
+      "keyNormalized": "extrapiramidal",
+      "markdown": "Extrapiramidal – do latim *Extra*, externo, fora de, e *Pyramidalis*, relativo à pirâmide."
+    },
+    {
+      "id": "e-133",
+      "key": "Extremidade",
+      "keyNormalized": "extremidade",
+      "markdown": "Extremidade – do latim *Extremitas*, extremidade, fim."
+    },
+    {
+      "id": "e-134",
+      "key": "Extremo",
+      "keyNormalized": "extremo",
+      "markdown": "Extremo – do latim *Extremus*, extremo, final."
+    }
+  ]
+}

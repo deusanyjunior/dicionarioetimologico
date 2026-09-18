@@ -1,0 +1,17 @@
+{
+  "letter": "X",
+  "entries": [
+    {
+      "id": "x-1",
+      "key": "Xantina",
+      "keyNormalized": "xantina",
+      "markdown": "Xantina \\- do grego *Xanth (os)*, amarelo e *Īn(a)*, substância química."
+    },
+    {
+      "id": "x-2",
+      "key": "Xifóide",
+      "keyNormalized": "xifoide",
+      "markdown": "Xifóide \\- do grego *Xiphos*, espada e *Eidos*, semelhante, forma de. A palavra foi introduzida por Aristóteles para designar um osso em forma de espada encontrado em moluscos. Anteriormente, era conhecido como *Xifisternum*. Posteriormente, passou a designar esta parte do osso humano."
+    }
+  ]
+}

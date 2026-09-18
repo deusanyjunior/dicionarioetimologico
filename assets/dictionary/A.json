@@ -1,0 +1,1055 @@
+{
+  "letter": "A",
+  "entries": [
+    {
+      "id": "a-1",
+      "key": "Abdome",
+      "keyNormalized": "abdome",
+      "markdown": "Abdome – Origem incerta, talvez do latim *Abdere*, esconder. Existem outras prováveis derivações tais como do Latim *Omentum*, membrana rendada, *Adps*, gordura animal, *Ab*, longe, *Domus*, cabeça. Em latim a palavra *Omem* significa também augúrio, presságio, estando associada à prática antiga de examinar as vísceras de animais para predizer o futuro."
+    },
+    {
+      "id": "a-2",
+      "key": "Abdução",
+      "keyNormalized": "abducao",
+      "markdown": "Abdução \\- do latim *Ab*, longe e *Ducere* \\= conduzir. Em anatomia refere-se ao afastamento de um membro do eixo do corpo, da linha média."
+    },
+    {
+      "id": "a-3",
+      "key": "Abducente",
+      "keyNormalized": "abducente",
+      "markdown": "Abducente – do latim *Ab*, longe e *Ducere*, conduzir. Refere-se ao VI par de nervos encefálicos, que foi descrito por Bartolommeo Eustachio em 1564\\. Que inervando o músculo reto lateral do olho, abduz o bulbo do olho, desviando lateralmente o centro da pupila. O músculo reto lateral do olho já foi chamado de *musculus amatorius* (músculo dos amantes), porque sua ação produz o olhar de soslaio, único permitido às donzelas apaixonadas dos séculaos passados."
+    },
+    {
+      "id": "a-4",
+      "key": "Abdutor",
+      "keyNormalized": "abdutor",
+      "markdown": "Abdutor – do latim *Ab*, longe; *Ducere*, conduzir e *Actor*, agente."
+    },
+    {
+      "id": "a-5",
+      "key": "Aberração",
+      "keyNormalized": "aberracao",
+      "markdown": "Aberração – do latim *Ab(s),* a partir, separação; *Errā(re),* desviar, extraviar. Devio de um tipo normal."
+    },
+    {
+      "id": "a-6",
+      "key": "Aberrante",
+      "keyNormalized": "aberrante",
+      "markdown": "Aberrante – do latim *Aberrare*, extraviar-se, *Ab*, longe e *Errare*, vagar. Termo aplicado a um vaso ou nervo que esta fora do seu lugar habitual ou que sofreu desenvolvimento embriológico diferente do esperado."
+    },
+    {
+      "id": "a-7",
+      "key": "Aborto",
+      "keyNormalized": "aborto",
+      "markdown": "Aborto – do latim *Ab* com anomalia e *Ortu(m)* nascido. Interrupção de forma natural ou provocada do desenvolvimento do feto durante a gravidez. O tema oborto é muito discutido pela sociedde Brasileira, no entanto, até o presente momento (2011) no Brasil é considerado crime, exceto em duas situações: de estupro e de risco de vida materno. A proposta de um Anteprojeto de Lei, que está tramitando no Congresso Nacional, alterando o Código Penal, inclui uma terceira possibilidade quando da constatação anomalias fetais."
+    },
+    {
+      "id": "a-8",
+      "key": "Absorção",
+      "keyNormalized": "absorcao",
+      "markdown": "Absorção – do latim *Ab(s),* a partir de; separação e *Sorb(ere),* sorver. Captação de substâncias para a corrente sanguínea."
+    },
+    {
+      "id": "a-9",
+      "key": "Acantócito",
+      "keyNormalized": "acantocito",
+      "markdown": "Acantócito – do grego *Akanth*, espinha(o) e *Kyto*, célula. Célula que apresenta “espinhos”."
+    },
+    {
+      "id": "a-10",
+      "key": "Acéfalo",
+      "keyNormalized": "acefalo",
+      "markdown": "Acéfalo – do grego *A(n)*, sem, ausência e *Kephal*, cabeça. Que não tem cabeça."
+    },
+    {
+      "id": "a-11",
+      "key": "Acelomado",
+      "keyNormalized": "acelomado",
+      "markdown": "Acelomado \\- do grego *A(n)*, sem, ausência e *Koilo,* oco, ventre *e Ō-ma*, conjunto. Animal que não possui celoma."
+    },
+    {
+      "id": "a-12",
+      "key": "Acessório",
+      "keyNormalized": "acessorio",
+      "markdown": "Acessório – do latim *Accessorius*, acessório; *Ascedere*, por a mais, acrescentar. Termo utilizado para estruturas que são suplementares a outras, geralmente vasos, nervos ou ductos. O nome tanto pode significar que, embora nervo encefálico receba fibras de raízes espinais ou tenha função complementar à do nervo vago."
+    },
+    {
+      "id": "a-13",
+      "key": "Acetábulo",
+      "keyNormalized": "acetabulo",
+      "markdown": "Acetábulo – origem incerta. Talvez do latim *Acetum*, vinagre; e *Abulum*, pequena vasilha, gamela; *Acceptabulum*, pequeno recipiente. Na Roma antiga, a palavra era empregada para qualquer pequeno recipiente de boca larga que ia à mesa, como os de vinho ou vinagre. Também era uma medida de capacidade líquida, equivalente a uma xícara (moderna) de chá. Em Anatomia, designa o encaixe para a cabeça do fêmur. O termo já se encontra nas descrições de Plínio e Celso. Rufo de Éfeso afirma: “o que os gregos chamam “*kotíle*”, os romanos chamam “*acetabulum*”."
+    },
+    {
+      "id": "a-14",
+      "key": "Acidente",
+      "keyNormalized": "acidente",
+      "markdown": "Acidente – do latim *Ad*, junto*, Cad(ere)/-cid(ere),* queda; *Nte(m),* que faz, que ocorre. Fato imprevisto ou doença que ocorre derrepente, tal como acidente vascular cerebral, ataque isquêmico transitório."
+    },
+    {
+      "id": "a-15",
+      "key": "Acidofilia",
+      "keyNormalized": "acidofilia",
+      "markdown": "Acidofilia – do latim *Acidum*, ácido, e do grego *Philein*, amar. As estruturas que reagem com um corante ácido são chamadas acidófilas que significa ter afinidade por ácidos."
+    },
+    {
+      "id": "a-16",
+      "key": "Ácino",
+      "keyNormalized": "acino",
+      "markdown": "Ácino – do latim *Acinus*, uva, bago de uva. Um pequeno saco terminal nos pulmões ou numa glândula pluricelular, tal como no pâncreas."
+    },
+    {
+      "id": "a-17",
+      "key": "Acme",
+      "keyNormalized": "acme",
+      "markdown": "Acme – do grego *Akme*, ponta, extremo. Período de maior intensidade de uma doença."
+    },
+    {
+      "id": "a-18",
+      "key": "Acrocentrico",
+      "keyNormalized": "acrocentrico",
+      "markdown": "Acrocentrico – *do grego Acros, extremidade*. Normalmente este termo é utilizado para cromossomas que apresentam um centrômero localizado numa das extremidades. Seriam denominados de cromossomos acrocêntricos."
+    },
+    {
+      "id": "a-19",
+      "key": "Acromático",
+      "keyNormalized": "acromatico",
+      "markdown": "Acromático – do grego *A*, negação e *Cromatos*, cor. Sem cor. Pessoa que não consegue ver côres. No entanto, em citologia existe este termo derivado da palavra grega *Acros,* extremidade. Neste último sentido ambem refere-se ao fuso acromático ou fuso mitótico que é uma estrutura celular efémera, constituída por microtúbulos que permitem o deslocamento dos cromossomas durante a divisão celular."
+    },
+    {
+      "id": "a-20",
+      "key": "Acrômio",
+      "keyNormalized": "acromio",
+      "markdown": "Acrômio – do grego *Akromion*, extremidade do ombro, *Akrós*, extremo, *Omos*, ombro. O termo acromial parece ter sido introduzido por François Chaussier (1800)."
+    },
+    {
+      "id": "a-21",
+      "key": "Acrossomo",
+      "keyNormalized": "acrossomo",
+      "markdown": "Acrossomo – do grego *Akro*, extremo, ponta e *Sōm(a),* cromossoma, corpúsculo celular. Prolongação anterior do espermatozóide que facilita a penetração no ovócito."
+    },
+    {
+      "id": "a-22",
+      "key": "Actina",
+      "keyNormalized": "actina",
+      "markdown": "Actina – do grego *Aktīn(ο),* raio, com filamentos e *Īn(a),* substância. Termo utilizado por Szent-Györgyi, em 1942, pelo aspecto filamentoso. É uma proteína constituinte dos filamentos finos ou microfilamentos, um dos componentes fundamentais do citoesqueleto das células eucariotas. Esta proteína forma os microfilamentos finos (miofilamentos) presentes no sarcômero da célula muscular."
+    },
+    {
+      "id": "a-23",
+      "key": "Acústico",
+      "keyNormalized": "acustico",
+      "markdown": "Acústico – do grego *Akustykós*, auditivo, acústico e *Akoamai*, ouvir."
+    },
+    {
+      "id": "a-24",
+      "key": "Adamantoblasto",
+      "keyNormalized": "adamantoblasto",
+      "markdown": "Adamantoblasto – do grego *A-Damantο*, diamante, que não é dominado e *Blast(o*), germe, forma celular imatura. Célula que produz e deposita o esmalte nos dentes."
+    },
+    {
+      "id": "a-25",
+      "key": "Adenina",
+      "keyNormalized": "adenina",
+      "markdown": "Adenina – do grego *Aden(ο),* glândula e *Īn(a),* substância química. Esta palavra foi introduzida por Kossel em 1885 para designar uma substância presente no núcleo das células glandulares. É uma base púrica componente de nucleótideos e de ácidos nucléicos."
+    },
+    {
+      "id": "a-26",
+      "key": "Adeno",
+      "keyNormalized": "adeno",
+      "markdown": "Adeno – prefixo que entra em numerosas palavras médicas e que vem do grego *Aden*, glândula."
+    },
+    {
+      "id": "a-27",
+      "key": "Adenoblasto",
+      "keyNormalized": "adenoblasto",
+      "markdown": "Adenoblasto \\- do grego *Aden*, glândula e *Blast*, germe. Célula embrionária que origina o tecido glandular."
+    },
+    {
+      "id": "a-28",
+      "key": "Adenocarcinoma",
+      "keyNormalized": "adenocarcinoma",
+      "markdown": "Adenocarcinoma – Do grego *Aden*, glândula, *Karkinus*, caranguejo, e *Oma*, tumor. Tumor maligno que se origina em um tecido glandular."
+    },
+    {
+      "id": "a-29",
+      "key": "Adenohipófise",
+      "keyNormalized": "adenohipofise",
+      "markdown": "Adenohipófise – do grego *Aden*, glândula, *Hypo*, abaixo e *Physis*, sulco de crescimento. Esta palavra foi criada por Berblinger em 1932\\."
+    },
+    {
+      "id": "a-30",
+      "key": "Adenóide",
+      "keyNormalized": "adenoide",
+      "markdown": "Adenóide – do grego *Aden*, glândula e *Oidos*, semelhante, forma de. O termo entra na designação de estruturas glandulares, ou linfóides. Era também o nome antigo da próstata (*glândula adenoidea*)."
+    },
+    {
+      "id": "a-31",
+      "key": "Adenoma",
+      "keyNormalized": "adenoma",
+      "markdown": "Adenoma – do grego *Aden*, glândula e *Oma* tumor. Tumor benigno de origem glandular."
+    },
+    {
+      "id": "a-32",
+      "key": "Adenômero",
+      "keyNormalized": "adenomero",
+      "markdown": "Adenômero \\- do grego *Aden*, glândula e *Mer(o),* parte. Unidade estrutural do parênquima de uma glândula, seria a porção funcional do órgão."
+    },
+    {
+      "id": "a-33",
+      "key": "Adenosina",
+      "keyNormalized": "adenosina",
+      "markdown": "Adenosina \\- do grego *Aden*, glândula e *Īn(a),* substância. Palavra criada por Levene e Jacobs em 1909 a partir da adenina e ribose. Substância química que atua em inúmeros processos celulares."
+    },
+    {
+      "id": "a-34",
+      "key": "Adenovirus",
+      "keyNormalized": "adenovirus",
+      "markdown": "Adenovirus – do grego *Aden(ο),* glândula; *Eid(és),* que tem aspecto de e do latim *Uīr(us)*, vírus, veneno. Vírus de tamanho mediano (90 a 100 nm.), sem cápsual, de 16 lados, de DNA que causam doenças respiratórias, gastroenteritis, conjuntivitis etc."
+    },
+    {
+      "id": "a-35",
+      "key": "Aderência",
+      "keyNormalized": "aderencia",
+      "markdown": "Aderência – do latim *Adherentia*, adesão. *Ad*, perto de, e *Hoerere*, grudar."
+    },
+    {
+      "id": "a-36",
+      "key": "Adesão",
+      "keyNormalized": "adesao",
+      "markdown": "Adesão – do latim *Ad*, para, e *Hoerere*, agarrar, grudar."
+    },
+    {
+      "id": "a-37",
+      "key": "Adipócito",
+      "keyNormalized": "adipocito",
+      "markdown": "Adipócito – do latim *Adipc*, gordura e do grego *Cytus*, célula. São células responsáveis pelo armazenamento de gordura no corpo humano. Cada célula adiposa armazena determinada quantidade de gordura. Estas células são capazes de armazenar gorduras até dez vezes o seu\n\n\ntamanho. Quando é ultrapassado o limite de armazenamento de uma célula adiposa é criada uma nova célula no tecido adiposo. O tecido adiposo acompanha o desenvolvimento do ser humano durante toda a vida."
+    },
+    {
+      "id": "a-38",
+      "key": "Adiposo",
+      "keyNormalized": "adiposo",
+      "markdown": "Adiposo – do latim *Adiposus*, de *Adeps*, gordura. Esta palavra foi inventada por tradutores das obras de Avicena, na idade média. A antiga palavra latina *Adeps* (banha, gordura animal) não se aplicava a espécie humana."
+    },
+    {
+      "id": "a-39",
+      "key": "Ádito",
+      "keyNormalized": "adito",
+      "markdown": "Ádito – do latim *Aditus*, acesso, entrada, *Adire*, ir para ou *Ad*, perto e *Itus*, marcha, ida. Na antiga casa romana, o *Aditus* era o local adjacente ao pórtico, antes do *Lavabum* e do *Vestibulum*. Em termos militares, significava uma saída emergencial, uma retirada estratégica."
+    },
+    {
+      "id": "a-40",
+      "key": "Admirável",
+      "keyNormalized": "admiravel",
+      "markdown": "Admirável – do latim *Ad*, perto e *Mirabilis*, maravilhoso. A rede admirável é o nome dado a um vaso sanguíneo que se ramifica para formar um plexo e deste o sangue é retirado através de um único vaso eferente. Deve-se notar que é um termo macroscópico, não se referindo a drenagemsanguinea. Já conhecida na Antiga Grécia, a idéia de rede foi usada por Herófilo e Galeno. O termo rede admirável (*rete mirabile*) foi usado por inúmeros anatomistas, através dos tempos, e designou vários plexos sanguíneos como o hipofisário, o coróideo (III ventrículo), e o círculo arterial do cérebro (polígono de Willis). No entanto, durante muitos anos designou a rede arterial encontrada no glomérulo renal. Atualmente esta rede, no glomérulo renal, é denominada de sistema porta arterial."
+    },
+    {
+      "id": "a-41",
+      "key": "Adrenal",
+      "keyNormalized": "adrenal",
+      "markdown": "Adrenal – do latim *Ad*, perto e *Ren*, rim. Termo usado por Aristóteles para as glândulas situadas junto ao rim de ovelhas (na realidade, linfonodos aórtico-renais). No homem, estas glândulas foram aparentemente descritas por Bartolommeo Eustáchio, em 1563\\. O termo utilizado na nomina anatômica para essa glândula é supra-renal."
+    },
+    {
+      "id": "a-42",
+      "key": "Adrenalina",
+      "keyNormalized": "adrenalina",
+      "markdown": "Adrenalina – do latim *Ad*, ao lado de; *Ren*, rim, e a terminação *Ina* para indicar princípio ativo, substância ativa, da glândula suprarrenal. Este termo foi criado pelos pesquisadores britânicos George Oliver (1841-1915) e Edward Sharpey-Schafer (1850-1935), os quais demonstraram, em 1895, que a injeção intravenosa do extrato de glândulas suprarrenais produzia contração das artérias, aceleração do ritmo cardíaco e aumento da pressão arterial. Nos Estados Unidos, em 1899, John Jacob Abel (1857-1938), da Johns Hopkins Medical School isolou a mesma substância e denominou-a \"epinefrina\" do grego: *epi*, em cima, sobre \\+ *nephros*, rim."
+    },
+    {
+      "id": "a-43",
+      "key": "Adução",
+      "keyNormalized": "aducao",
+      "markdown": "Adução – do latim *Ad*, junto, *Duc(ere),* levar, conduzir e *I-iōn(em)* movimento*.* Movimento de levar um órgão, um determinado movimento (olhar) para o plano mediano, plano este que divide o corpo humano em duas partes imaginárias iguais."
+    },
+    {
+      "id": "a-44",
+      "key": "Adutor",
+      "keyNormalized": "adutor",
+      "markdown": "Adutor – do latim *Ad*, perto; *Ducere*, conduzir e *Actor*, agente. Refere-se a qualquer músculo cuja ação aproxima o segmento do plano mediano do corpo."
+    },
+    {
+      "id": "a-45",
+      "key": "Adventícia",
+      "keyNormalized": "adventicia",
+      "markdown": "Adventícia – do latim *Ad*, perto; *Venire*, vir. Originalmente este termo designava os cidadãos não romanos, estrangeiros ou bárbaros. Mais tarde, a palavra foi usada em anatomia, para designar envoltórios externos que pareciam “vir” de tecidos vizinhos, como nas artérias."
+    },
+    {
+      "id": "a-46",
+      "key": "Aeróbio",
+      "keyNormalized": "aerobio",
+      "markdown": "Aeróbio – do grego *Aerο*, ar; *Bio*, vida. Este termo é aplicado á respiração onde se utiliza o oxigênio para liberação de energia, ou seja, o ar é necessário para a vida."
+    },
+    {
+      "id": "a-47",
+      "key": "Aferente",
+      "keyNormalized": "aferente",
+      "markdown": "Aferente – do latim *Afferre*, trazer para, *Ad*, perto e *Ferre*, trazer. Quer dizer o que leva para dentro, ou junto de. Em anatomia e fisiologia refere-se ao movimento em direção a um centro de referência."
+    },
+    {
+      "id": "a-48",
+      "key": "Agenesia",
+      "keyNormalized": "agenesia",
+      "markdown": "Agenesia – do grego *A(n)* não e *Genne*, que gera, que forma. Que não se forma."
+    },
+    {
+      "id": "a-49",
+      "key": "Aglutinação",
+      "keyNormalized": "aglutinacao",
+      "markdown": "Aglutinação – do latim *Ad* junto, *Glūt(en),* cola, grudar e *Ā-tiōn(em),* processo de. Agrupamento de partículas ou de células, como o que ocorre na coagulação do sangue."
+    },
+    {
+      "id": "a-50",
+      "key": "Agonista",
+      "keyNormalized": "agonista",
+      "markdown": "Agonista – do grego *Agṓn*, combate e *Íst(ēs),* que faz. Aplica-se ao músculo que efetua um determinado movimiento, em oposição ao músculo antagonista."
+    },
+    {
+      "id": "a-51",
+      "key": "Agranulócito",
+      "keyNormalized": "agranulocito",
+      "markdown": "Agranulócito \\- do grego *A(n)não, do* latim *Granum*, grão, e do grego *Kytos*, célula. Células de origem mielóide normalmente presentes no sangue, cujo citoplasma não possui grânulos visíveis ao microscópio de luz que atuam nos mecanismos de defesa corporal."
+    },
+    {
+      "id": "a-52",
+      "key": "Agua",
+      "keyNormalized": "agua",
+      "markdown": "Agua – do latim *Aqua(m),* água; no grego é *Hydor*, água. Sustância formada pela combinaçao de um átomo de oxígenio e dois de hidrogênio, líquida, inodora, insípida e incolor. É o componente\n\n\nmais abundante da superfície terrestre e, também o menos puro, forma a chuva, as fontes, os ríos e os mares; é parte constituinte de todos os organismos vivos."
+    },
+    {
+      "id": "a-53",
+      "key": "Agulha",
+      "keyNormalized": "agulha",
+      "markdown": "Agulha – do latim *Acu(m),* agulha e *Cula(m),* pequena. No latim clássico parece como *Acus*, barra metálica que serve para perfurar."
+    },
+    {
+      "id": "a-54",
+      "key": "Alantoide",
+      "keyNormalized": "alantoide",
+      "markdown": "Alantoide – do grego *Allas*, salsicha. Alantoide é uma estrutura ligada à parte posterior do intestino do embrião que armazena excretas, além disso, permite trocas gasosas com o meio externo. Nos mamíferos placentários, as funções do alantoide e do saco vitelínico,são úteri no incio do desenvolvimetno,a no entanto depois de certo tempo passam a ser executadas pela placenta. Razão pela qual, esses anexos tornam-se atrofiados nos mamiferos placentários."
+    },
+    {
+      "id": "a-55",
+      "key": "Alar",
+      "keyNormalized": "alar",
+      "markdown": "Alar – do latim, *Alaris*, alado e *Ala*, asa."
+    },
+    {
+      "id": "a-56",
+      "key": "Alba",
+      "keyNormalized": "alba",
+      "markdown": "Alba – do latim *Alba*, que é feminino de *Albus*, branco, claro. Entre os romanos a cor branca era tida como símbolo de pureza, bondade e justiça. As togas dos senadores e cônsules (juízes) eram brancas."
+    },
+    {
+      "id": "a-57",
+      "key": "Albicans",
+      "keyNormalized": "albicans",
+      "markdown": "Albicans – do latim *Albus*, branco, *Albicare*, ser branco."
+    },
+    {
+      "id": "a-58",
+      "key": "Albino",
+      "keyNormalized": "albino",
+      "markdown": "Albino \\- do latim *Albus*, branco e a terminação *Um, uma*, que faz, que torna. Pessoas que tem ausência de pigmentação na pele."
+    },
+    {
+      "id": "a-59",
+      "key": "Albugínea",
+      "keyNormalized": "albuginea",
+      "markdown": "Albugínea – do latim, *Albugo*, brancura. O termo significa semelhante à cor da casca do ovo cozido. Esta palavra não existia no latim antigo e foi concebida por Averres e Avicena, para nomear o humor vítreo do olho. Kaspar Bartholin, no século XVII, introduziu a palavra para nomear os envoltórios das gônadas, em especial do testículo."
+    },
+    {
+      "id": "a-60",
+      "key": "Albumém",
+      "keyNormalized": "albumem",
+      "markdown": "Albumém – do latim *Albumen*, clara de ovo."
+    },
+    {
+      "id": "a-61",
+      "key": "Albumina",
+      "keyNormalized": "albumina",
+      "markdown": "Albumina – do latim *Albumen*, clara de ovo."
+    },
+    {
+      "id": "a-62",
+      "key": "Alça",
+      "keyNormalized": "alca",
+      "markdown": "Alça – do latim *Ansa*, alça de sandália, orifício de passagem para uma corda. Dá nome a nervos em forma de alça ou arco. Tambem denomina a alça de Henle no rim, devido a formar um arco."
+    },
+    {
+      "id": "a-63",
+      "key": "Álcool",
+      "keyNormalized": "alcool",
+      "markdown": "Álcool – do árabe *El, Al \\+ Koḥ'l*, pó de antimônio. O significado original do termo ainda se mantém no arabe, pó de antimônio para maquiagem. No entanto, passou a ser utilizado para designar qualquer pó obtido pela sublimação e, em seguida, de qualquer líquido obtido por destilação e especialmente do álcool. A introdução deste termo nas línguas européias foi feita através do espanhol, em um documento datado de 1254\\. Atualmente representa cada um dos compostos orgânicos que contêm um grupo hidroxila ligado a um radical alifático ou seus derivados."
+    },
+    {
+      "id": "a-64",
+      "key": "Aldeido",
+      "keyNormalized": "aldeido",
+      "markdown": "Aldeido – lexema das palavras '€al€cohol €de€s€hid€rogenado'. Alcóol desidrogenado."
+    },
+    {
+      "id": "a-65",
+      "key": "Aldosterona",
+      "keyNormalized": "aldosterona",
+      "markdown": "Aldosterona – origem do lexema *'alcool desidrogenado* e do grego *Ster-ona*, hormônio esteróide. Hormônio sintetizado na zona glomerulosa da supra-renal relacionado com o equilíbrio do sal no corpo."
+    },
+    {
+      "id": "a-66",
+      "key": "Alelo",
+      "keyNormalized": "alelo",
+      "markdown": "Alelo – do grego *All(o),* outro, diferente. Cada um dos genes de um par que coupam o mesmo lugar em um dos cromossomos homólogos."
+    },
+    {
+      "id": "a-67",
+      "key": "Alérgeno",
+      "keyNormalized": "alergeno",
+      "markdown": "Alérgeno – do grego *All(o),* outro, diferente; *Erg(on),* trabalho, função e *Gen*, que gera. Substância que ao ser introduzida no organismo, o sensibiliza para o aparecimento dos fenómenos de alergia."
+    },
+    {
+      "id": "a-68",
+      "key": "Alergia",
+      "keyNormalized": "alergia",
+      "markdown": "Alergia – do grego *Allos*, outro e, *Ergon*, trabalho. Esta palavra foi criada em 1906 por Pirquet."
+    },
+    {
+      "id": "a-69",
+      "key": "Algesia",
+      "keyNormalized": "algesia",
+      "markdown": "Algesia \\- do grego *Algíā*, dor."
+    },
+    {
+      "id": "a-70",
+      "key": "Alimentação",
+      "keyNormalized": "alimentacao",
+      "markdown": "Alimentação – do latim *Ale(re),* alimentar e *Mentu(m),* que faz."
+    },
+    {
+      "id": "a-71",
+      "key": "Álveo",
+      "keyNormalized": "alveo",
+      "markdown": "Álveo – do latim, *Alveus*, pequena cavidade."
+    },
+    {
+      "id": "a-72",
+      "key": "Alvéolo",
+      "keyNormalized": "alveolo",
+      "markdown": "Alvéolo – do latim *Alveolus*, diminutivo de *Alveus*, pequena cavidade ou órgão oco. Designava qualquer objeto pequeno com forma arredondada, escavada ou em forma de um Erlenmeyer. Foi utilizada pela primeira vez em anatomia por Vesálio, para denominar as cavidades dos dentes. Somente em 1846 Rossignol usou-a para designar vesículas pulmonares. No entanto tambem é utilizado para designar porções das glândulas secretoras, tal como mama."
+    },
+    {
+      "id": "a-73",
+      "key": "Amácrina",
+      "keyNormalized": "amacrina",
+      "markdown": "Amácrina – do grego *A(n),* negação, não; *Makr(o),* grande. Interneurônios presentes na retina que possuem axônios muito pequenos, tanto que foram descritos inicialmente como neurônios desprovidos de axônios."
+    },
+    {
+      "id": "a-74",
+      "key": "Amebóide",
+      "keyNormalized": "ameboide",
+      "markdown": "Amebóide – do grego *Amoib(ḗ),* esta palavra apresenta dois significados pode ser: troca ou no sentido cientifico ameba; *Eid(és),* tem aspecto de, parecido com. Que se parece com uma ameba ao se deslocar."
+    },
+    {
+      "id": "a-75",
+      "key": "Amelia",
+      "keyNormalized": "amelia",
+      "markdown": "Amelia – do grego *A(n),* negação, não; *Mel(o),* membro. Ausência de membro."
+    },
+    {
+      "id": "a-76",
+      "key": "Ameloblasto",
+      "keyNormalized": "ameloblasto",
+      "markdown": "Ameloblasto – do grego *Amel*, esmalte e *Blasto*, germe. Este termo foi cria pelo inglês Eames em 1882 para designar a célula epitelial de forma colunar ou prismática que secreta o esmalte nos dentes."
+    },
+    {
+      "id": "a-77",
+      "key": "Amenorréia",
+      "keyNormalized": "amenorreia",
+      "markdown": "Amenorréia \\- do grego *A(n),* negação, não; *Men*, menstruações; *Rhoíā*, fluxo. Ausência regular da menstruação."
+    },
+    {
+      "id": "a-78",
+      "key": "Amidgalóide",
+      "keyNormalized": "amidgaloide",
+      "markdown": "Amidgalóide – do grego *Amygdalé*, amêndoa e *Oidés*, forma de. Dá nome a um dos núcleos da base do cérebro, com forma de amêndoa, junto à cauda do núcleo caudado. Em latim, o correspondente é *Tonsilla*."
+    },
+    {
+      "id": "a-79",
+      "key": "Amielínico",
+      "keyNormalized": "amielinico",
+      "markdown": "Amielínico – do grego *A(n),* sem; *Myel(o)* medula e *īn(a),* substância química. Refere-se a axônios que não apresentam bainha de mielina."
+    },
+    {
+      "id": "a-80",
+      "key": "Amigdala",
+      "keyNormalized": "amigdala",
+      "markdown": "Amigdala – do grego, *Amygdalè*, *amêndoa*. O termo apareceu com os tradutores de Avicena, para designar estruturas semelhantes a amêndoas."
+    },
+    {
+      "id": "a-81",
+      "key": "Amina",
+      "keyNormalized": "amina",
+      "markdown": "Amina – do egípcio *Amûn*, divinidade egípcia denominada de Amon. Do grego *Ammōniak(o),* do deus Amón, produto oriundo da Libia que era o sal de amoníaco. Substância derivada do amoniaco."
+    },
+    {
+      "id": "a-82",
+      "key": "Aminoácido",
+      "keyNormalized": "aminoacido",
+      "markdown": "Aminoácido – do grego *Am-īn(a),* e do latim *Acid*, ácido. Molécula que contêm um grupo carboxila e amina lives. As proteínas são formadas pela união de aminoácidos."
+    },
+    {
+      "id": "a-83",
+      "key": "Amitose",
+      "keyNormalized": "amitose",
+      "markdown": "Amitose – do grego *A(n),* não; *Mit(o),* fio e *Ō-sis*, processo. Divisão da célula sem que se observe a condensaçã dos cromossomas."
+    },
+    {
+      "id": "a-84",
+      "key": "Amniocentese",
+      "keyNormalized": "amniocentese",
+      "markdown": "Amniocentese – do grego do grego *Amnio*, membrana de feto; *Kent-ē-sis*, perfuração. Punção do âmnio para obtenção do líquido amniótico."
+    },
+    {
+      "id": "a-85",
+      "key": "Âmnion",
+      "keyNormalized": "amnion",
+      "markdown": "Âmnion – do grego *Amnio*, membrana de feto. Âmnion é uma membrana que constitui a bolsa amniótica o qual envolve e protege o embrião. Derivada da somatopleura, que é a combinação do ectoderma com o mesoderma. Tem a função de produzir o líquido amniótico que protege o embrião contra choques mecânicos e dessecação, mantém a temperatura do corpo e permite a movimentação do embrião."
+    },
+    {
+      "id": "a-86",
+      "key": "Amorfo (a)",
+      "keyNormalized": "amorfoa",
+      "markdown": "Amorfo (a) – do grego *A*, sem, e *Morphe*, forma. Estrutura que não tem forma definida. Em Histologia a substância amorfa localiza-se etre as células sendo formada principalmente por água, polissacarídeos e proteínas. Pode assumir consistência rígida, como por exemplo, no tecido ósseo; e líquida, como no plasma sanguíneo."
+    },
+    {
+      "id": "a-87",
+      "key": "Ampola",
+      "keyNormalized": "ampola",
+      "markdown": "Ampola – Origem incerta. Provavelmente do latim *Ampulla*, vaso, frasco. Também existem as possíveis derivações do grego *Ambullo*, eu despejo, ou latim *Ambo*, os dois lados, ou do latim *Olla*, frasco arredondado, ou ainda segundo Joseph Hyrtl do latim *Ampla*, grande e *Bulla*, bolha, pequeno saco inflável. Alguns autores alegam que *Ampulla* é a forma corrupta e adaptada do grego *Amphoreis*, ânfora, jarro globoso com duas alças. Esta palavra pode ter sido composta do grego *Amphi*, ambos os lados e *Pherein*, levar, carregar, em referência às duas alças do vaso. Em anatomia, o termo é usado para designar dilatações terminais de ductos (deferente, lactífero, pancreático, tuba uterina) ou expansões globosas do reto."
+    },
+    {
+      "id": "a-88",
+      "key": "Anabolismo",
+      "keyNormalized": "anabolismo",
+      "markdown": "Anabolismo – do grego *Aná,* ἀ*ν*ά, para cima; *Bol*, troca e *Ismos*, processo, estado. Conjunto de reações metabólicas que levam a síntese de compostos orgânicos complexos a partir de outros mais simples, com gasto de energia."
+    },
+    {
+      "id": "a-89",
+      "key": "Anaeróbio",
+      "keyNormalized": "anaerobio",
+      "markdown": "Anaeróbio \\- do grego do grego *Ana*, para trás*; Aerο*, ar. Organismo que vive na ausência de oxigênio livre (gasoso ou dissolvido)."
+    },
+    {
+      "id": "a-90",
+      "key": "Anáfase",
+      "keyNormalized": "anafase",
+      "markdown": "Anáfase – do grego *Ana*, para trás, *Phasis*, fase. Fase da divisão celular (mitose ou meiose), que sucede a metáfase durante a qual as cromátides (constituintes dos cromosomas) que, durante as fases precedentes, estavam reunidas pelo centrômero, separam-se devido ao desdobramento deste. Os cromosomas filhos formados dirigem-se então para os dois pólos opostos (para trás) do fuso acromático."
+    },
+    {
+      "id": "a-91",
+      "key": "Anafilaxia",
+      "keyNormalized": "anafilaxia",
+      "markdown": "Anafilaxia – do grego *Ana*, para trás, para cima e *Phylaxis*, proteção. Em Histologia o termo anafilaxia refere-se a uma reação alérgica sistêmica, que ocorre após exposição a uma determinada substância já conhecida pelo organismo. O choque anafilático é uma reação tão intensa ao alérgeno (substância estranha ao corpo) que leva a falência de alguns órgãos inclusive a óbito (em vez de proteger, lesa o organismo)."
+    },
+    {
+      "id": "a-92",
+      "key": "Anágeno",
+      "keyNormalized": "anageno",
+      "markdown": "Anágeno – do grego *Aná*, para cima e *Gen*, o que gera. Fase de crescimento do pelo."
+    },
+    {
+      "id": "a-93",
+      "key": "Anal",
+      "keyNormalized": "anal",
+      "markdown": "Anal – do latim *Annalis*, relativo a ânus."
+    },
+    {
+      "id": "a-94",
+      "key": "Anaplasia",
+      "keyNormalized": "anaplasia",
+      "markdown": "Anaplasia – do grego *Ana*, para trás, e *Plas(íā),* formação celular. Perda da diferenciação estrutural e funcional de uma célula normal, o que é uma das características das células tumorais."
+    },
+    {
+      "id": "a-95",
+      "key": "Anastomose",
+      "keyNormalized": "anastomose",
+      "markdown": "Anastomose – do grego *Ana*, através de, e *Stoma*, boca, entrada. Ligação por meio de uma boca. A primeira menção das junções tubulares boca a boca foi utilizada por Erasístrato, que utilizou o termo *sinanastomosis* para se referir as pretensas junções artério-venosas. Deve-se preferir utilizar esse termo em relação aos vasos sanguíneos."
+    },
+    {
+      "id": "a-96",
+      "key": "Anatomia",
+      "keyNormalized": "anatomia",
+      "markdown": "Anatomia – do grego *Anatomichós*, cortado, dissecado, *Ana*, através de, *Temo*, cortar e *Anatome,* Corte, secção. As primeiras dissecções anatômicas para fins científicos parecem ter sido realizadas pelos gregos. Hipócrates, Erasístrato e Herófilo tornaram a anatomia um dos campos de estudo da medicina. André Vesálios é considerado o pai da anatomia moderna devido ao magnífico livro “*De Humani Corporis Fábrica*”. Inicialmente considerada apenas uma técnica para estudar o corpo humano, a anatomia logo passou a designar o método e finalmente a ciência geral da estrutura."
+    },
+    {
+      "id": "a-97",
+      "key": "Ancôneo",
+      "keyNormalized": "anconeo",
+      "markdown": "Ancôneo – do grego *Ankon*, ângulo, acotovelamento. Designa qualquer estrutura relacionada à região do cotovelo."
+    },
+    {
+      "id": "a-98",
+      "key": "Andrógeno",
+      "keyNormalized": "androgeno",
+      "markdown": "Andrógeno – do grego *Andro*, macho e *Gen*, que gera. Termo genérico para os hormônios sexuais masculinos."
+    },
+    {
+      "id": "a-99",
+      "key": "Andropausa",
+      "keyNormalized": "andropausa",
+      "markdown": "Andropausa \\- do grego *Andro*, macho e Pau, *Cesar*, parar. Representaria o climatério masculino. Este termo foi criado 1952 na frança baseado no termo menopausa que é normalmente utilizado em relação à parada da menstruação nas mulheres. No entanto nos homens não desaparecem os carateres sexuais masculinos."
+    },
+    {
+      "id": "a-100",
+      "key": "Anel",
+      "keyNormalized": "anel",
+      "markdown": "Anel – do latim *Annulus*, anel. Do adereço derivou o nome do próprio dedo que o levava (o 4º dedo direito). *Digitus annularis* (dedo anular). O costume de levar-se o anel neste dedo, já aparecia entre os gregos, devido à crença errônea de que havia um vaso (*Vena moris*) que, partindo dele, ia direto ao coração."
+    },
+    {
+      "id": "a-101",
+      "key": "Anencefalia",
+      "keyNormalized": "anencefalia",
+      "markdown": "Anencefalia – do grego *An*, sem, *Enkephalos*, encéfalo. A anencefalia consiste em malformação do tubo neural acontecida entre o 16° e o 26° dia de gestação, caracterizada pela ausência parcial do encéfalo e da calota craniana, proveniente de defeito de fechamento do tubo neural durante a formação embrionária. Esta é a malformação fetal mais freqüentemente relatada pela medicina."
+    },
+    {
+      "id": "a-102",
+      "key": "Aneuploide",
+      "keyNormalized": "aneuploide",
+      "markdown": "Aneuploide \\- do grego *A(n),* sem, privação; *Eu*, normal; *Plo*, multiplicado; *Eid(és),* forma, aspecto de. Células oo indivíduos cujo número de cromossomas não é um multiplo exato do número haplóide que é característico da espécie."
+    },
+    {
+      "id": "a-103",
+      "key": "Aneuploidia",
+      "keyNormalized": "aneuploidia",
+      "markdown": "Aneuploidia – do grego *A*, não; *Ploos*, dobra; *Eidos*, forma. Quando a célula apresenta um numero de cromosomas maior do que o normal, porém não múltiplo deles, e menor do que o número diplóide."
+    },
+    {
+      "id": "a-104",
+      "key": "Aneurisma",
+      "keyNormalized": "aneurisma",
+      "markdown": "Aneurisma – do grego *Ana*, através, parte de e *Eurys*, grande, largo. Aneurisma é uma patologia provocada pela dilatação segmentar, de formato variável, de uma parte do vaso, geralmente arterial (artéria) ou menos freqüentemente venoso (veia)."
+    },
+    {
+      "id": "a-105",
+      "key": "Anexo",
+      "keyNormalized": "anexo",
+      "markdown": "Anexo – do latim *Annexus*, unido, ligado, e *Annectere*, unir, ligar. Designa apêndices ou part4es acessórias de órgãos, ligadas ou unidas a eles. Anexos do útero são os órgãos “ligados” ao útero."
+    },
+    {
+      "id": "a-106",
+      "key": "Angiogenese",
+      "keyNormalized": "angiogenese",
+      "markdown": "Angiogenese \\- do grego *Aggèion*, vaso, e *Gênesis*, produção. É um termo usado para descrever o mecanismo de crescimento de novos vasos sanguíneos a partir dos já existentes."
+    },
+    {
+      "id": "a-107",
+      "key": "Anisocitose",
+      "keyNormalized": "anisocitose",
+      "markdown": "Anisocitose – do grego *A(n),* sem, privação; *Iso*, igual, *Kyto*, célula e *Ō-sis*, processo patológico. Variação anormal do tamanho das células, especialmente das hemácias."
+    },
+    {
+      "id": "a-108",
+      "key": "Anoikis",
+      "keyNormalized": "anoikis",
+      "markdown": "Anoikis \\- do grego *A(n),* sem, privação; *Noikis*, teto, moradia. Em outras palavras, *anoikis* é definido como um tipo de apoptose que é induzida pela insuficiência ou inadequada interação célula-matriz. Células normais quando perdem a interação com sua matriz recebem sinais para iniciar o processo de apoptose. Tipo específico de apoptose."
+    },
+    {
+      "id": "a-109",
+      "key": "Anômalo",
+      "keyNormalized": "anomalo",
+      "markdown": "Anômalo – do grego *An*, não e *Homo*, igual. Significa não igual, estranho."
+    },
+    {
+      "id": "a-110",
+      "key": "Antagonista",
+      "keyNormalized": "antagonista",
+      "markdown": "Antagonista – do grego *Antí*, contra, frente a, *Agon*, combate e *Íst(ēs),* que faz. Diz-se de músculos de uma determinada região que fazem movimento contrário."
+    },
+    {
+      "id": "a-111",
+      "key": "Antebraço",
+      "keyNormalized": "antebraco",
+      "markdown": "Antebraço – do latim *Ante*, diante de, antes, e *Brachium*, braço."
+    },
+    {
+      "id": "a-112",
+      "key": "Antélice",
+      "keyNormalized": "antelice",
+      "markdown": "Antélice – do grego *Anti*, oposto a e *Elix*, espiralado, *Eileo*, enrolar. Aristóteles apenas nomeava o lóbulo da orelha externa. Rufo de Éfeso foi o primeiro a descrever outras partes do pavilhão da orelha externa, como hélice e antélice."
+    },
+    {
+      "id": "a-113",
+      "key": "Anterior",
+      "keyNormalized": "anterior",
+      "markdown": "Anterior – do latim *Anterior*, mais à frente; *Ante*, frente. Significa o que está antes ou vem em primeiro de uma série."
+    },
+    {
+      "id": "a-114",
+      "key": "Anticoagulante",
+      "keyNormalized": "anticoagulante",
+      "markdown": "Anticoagulante – do grego *Anti*, contra e, do latim *Coagulans*, coagulante. Anticoagulantes são substâncias usadas para prevenir a formação de trombos sanguíneos, ou seja, a coagulação sanguinea."
+    },
+    {
+      "id": "a-115",
+      "key": "Anticorpo",
+      "keyNormalized": "anticorpo",
+      "markdown": "Anticorpo – do grego *Anti*, contra e, do latim *Corpora,* corpo. Anticorpos ou imunoglobulinas são glicoproteínas sintetizadas por células (linfócitos T ou plasmócitos \\- derivados dos linfócitos B) que atacam proteínas estranhas ao corpo, chamadas de antígenos, realizando assim a defesa do organismo."
+    },
+    {
+      "id": "a-116",
+      "key": "Antígeno",
+      "keyNormalized": "antigeno",
+      "markdown": "Antígeno – do grego *Anti*, contra e *Gennao*, eu produzo. Etimologicamente deveria significar “contra a concepcção”, mas o radical Anti é ai uma forma abreviada de Anticorpos e, assim, Antígeno é um “gerador de anticorpos”. Antígeno é toda partícula ou molécula capaz de iniciar uma resposta imunológica, provinda do meio exterior ou do próprio organismo."
+    },
+    {
+      "id": "a-117",
+      "key": "Antímero",
+      "keyNormalized": "antimero",
+      "markdown": "Antímero – do grego *Anti*, contra e *Meros*, parte. Uma das várias partes similares ou equivalentes em que um animal de simetria bilateral ou radial pode ser dividido."
+    },
+    {
+      "id": "a-118",
+      "key": "Antiporte",
+      "keyNormalized": "antiporte",
+      "markdown": "Antiporte – do grego *Antí*, contra, frente a e *Port*, transportar. Proteína de membrana que transporta um soluto através de uma membrana que depende de um transporte simultâneo de outro soluto na direção oposta."
+    },
+    {
+      "id": "a-119",
+      "key": "Antitrago",
+      "keyNormalized": "antitrago",
+      "markdown": "Antitrago – do grego *Anti*, oposto e *Tragos*, bode, cabra. Parte do pavilhão da orelha externa oposta ao trago."
+    },
+    {
+      "id": "a-120",
+      "key": "Antro",
+      "keyNormalized": "antro",
+      "markdown": "Antro – do grego *Ántron* e do latim *Antrum*, cavidade, espaço oco, caverna. Não confundir com *Atrium* ou *Aditus* que eram compartimentos da casa romana. A palavra em português tem sentido de covil, refugio de ladrões, salteadores, porque em Roma antiga os malfeitores abrigavam-se em cavernas, que eram sempre mal afamadas."
+    },
+    {
+      "id": "a-121",
+      "key": "Ânulo",
+      "keyNormalized": "anulo",
+      "markdown": "Ânulo – do latim *Annulus*, anel."
+    },
+    {
+      "id": "a-122",
+      "key": "Ânus",
+      "keyNormalized": "anus",
+      "markdown": "Ânus – do latim *Annulus*, anel. Alguns etimologistas alegam ser a palavra derivada da forma popular de *Annulus*, que era *Annus*, que significava ano (tempo). Celso foi o primeiro a utilizar o termo em Anatomia. No latim vulgar, *Annus* era o termo pejorativo para “mulher velha”, por causa da aparência enrrugadada da pele ao redor dos lábios (semelhantes às pregas anais) ou porque as marcas do tempo (anos) eram nelas mais evidentes."
+    },
+    {
+      "id": "a-123",
+      "key": "Aorta",
+      "keyNormalized": "aorta",
+      "markdown": "Aorta – do grego *Aaeirein*, levantar ou ser levantado. A origem deste termo ainda é incerta, pois pode ter sido derivado do Grego *Aortemai*, suspenso, *Era*, ar, *Tereo*, eu tenho ou ainda *Aortés*, faca de cabo curto e curvo usado pelos povos macedônios. No sentido anatômico este termo foi usado inicialmente por Aristóteles. É o nome dado ao principal tronco arterial do sistema circulatório do qual se derivam todas as artérias do organismo. A aorta se inicia no coração, na base do ventrículo esquerdo, e termina à altura da quarta vértebra lombar, onde se divide nas artérias ilíacas comuns."
+    },
+    {
+      "id": "a-124",
+      "key": "Aparelho",
+      "keyNormalized": "aparelho",
+      "markdown": "Aparelho – do latim *Apparatus*, preparação, apetrecho, máquina. Utilizado inicialmente para designar apenas um conjunto ou uma coleção de instrumentos para determinado fim, passou depois a nomear estruturas ou órgãos com a mesma finalidade. Tem como sinônimo o termo grego *Systema*. No entanto em anatomia sistema não é sinônimo de aparelho, pois este último abrange um conjunto de órgãos e estruturas que atuam em combinação para realizar uma função, assím podemos designar aparelho genito-urinário abrangendo os sistemas reprodutores masculino ou feminino e o sistema urinário."
+    },
+    {
+      "id": "a-125",
+      "key": "Apêndice",
+      "keyNormalized": "apendice",
+      "markdown": "Apêndice – do latim *Appendix*, o que pende, balança, *Appendere*, suspender."
+    },
+    {
+      "id": "a-126",
+      "key": "Apical",
+      "keyNormalized": "apical",
+      "markdown": "Apical \\- do latim *Apicis*, *Apex*, ponta. Relativo a uma ponta ou vértice; localizado numa extremidade."
+    },
+    {
+      "id": "a-127",
+      "key": "Ápice",
+      "keyNormalized": "apice",
+      "markdown": "Ápice – do latim *Apex*, ponta."
+    },
+    {
+      "id": "a-128",
+      "key": "Apócrina",
+      "keyNormalized": "apocrina",
+      "markdown": "Apócrina – do grego *Apo*, proveniente de, e *Krynos*, secreção. São denominadas glândulas apócrinas aquelas cuja secreção apresenta parte das células que a fabricaram, ou seja, parte das células é eliminada juntamente com o produto secretório. Alguns autores acreditam que essas glândulas são na realidade glândulas merócrinas, no entanto, a maioria dos livros de histologia ainda referem a presença dessas glândulas, tais como as glândulas mamarias, axilares e perianais."
+    },
+    {
+      "id": "a-129",
+      "key": "Apófise",
+      "keyNormalized": "apofise",
+      "markdown": "Apófise – do grego *Apo*, a partir de, e *Physis*, zona de crescimento. Este termo foi craido por Hipocrates para designar no século V a.C para designar uma excrescência, crescimento ou parte saliente do osso para articulação ou inserção muscular."
+    },
+    {
+      "id": "a-130",
+      "key": "Aponeurose",
+      "keyNormalized": "aponeurose",
+      "markdown": "Aponeurose – do grego, *Apó*, sobre, de e *Neuron*, cordão, fibra. O termo *Neuron* antigamente designava qualquer estrutura cilíndrica fibrosa, lisa e deslizante. Aribásio foi o primeiro a definir aponeurosis como uma lâmina fibrosa e fina."
+    },
+    {
+      "id": "a-131",
+      "key": "Apoptose",
+      "keyNormalized": "apoptose",
+      "markdown": "Apoptose – do grego *Ptoses*, queda ato de cair. Assim como as pétalas das flores e as folhas das árvores no outono. Conhecida como \"morte celular programada” (a definição correta é \"morte celular não seguida de autólise) é um tipo de \"autodestruição celular\" que ocorre de forma ordenada e demanda energia para a sua execução (diferentemente da necrose). Está relacionada com a manutenção da homeostase e com a regulação fisiológica do tamanho dos tecidos, mas pode também ser causada por um estímulo patológico (como a lesão ao DNA celular). O termo é derivado do grego, que se referia à queda das folhas das árvores no outono \\- um exemplo de morte programada fisiológica e apropriada que também implica renovação."
+    },
+    {
+      "id": "a-132",
+      "key": "Aqueduto",
+      "keyNormalized": "aqueduto",
+      "markdown": "Aqueduto – do latim *Aqua*, água, *Ductus*, condução, *Ducere*, conduzir, guiar. Em anatomia o termo é utilizado para uma passagem através de certa estrutura para conduzir liquido claro. Na Roma antiga os aquedutos eram engenhosos projetos de transporte de água potável, de especial importância para o suprimento de banhos e decisivos para higiene pública. Eram grandes extensões de encanamentos elevados que traziam água de rios vizinhos. Em anatomia o termo é usado para uma passagem através de certa estrutura, geralmente com a finalidade de conduzir líquido claro."
+    },
+    {
+      "id": "a-133",
+      "key": "Aquiles",
+      "keyNormalized": "aquiles",
+      "markdown": "Aquiles – Nome próprio (Grego). A expressão calcanhar de Aquiles, em sentido geral, significa ponto vulnerável. Em Anatomia designava o tendão calcâneo. Na mitologia Grega, Aquiles foi mergulhado nas águas do rio Estige seguro pelo calcanhar. Esse banho tornou seu corpo invulnerável a qualquer arma de ataque, no entanto, a parte não banhada ficou vulnerável. O termo foi primeiramente utilizado em anatomia por Phillipe Verheyen em 1693, Belga. Esse anatomista teve um acidente na juventude o que ocasionou uma amputação do pé e tal fato inclinou-o a estudar medicina e a se tornar anatomista. Foi professor de Anatomia (1689), depois de Cirurgia (1693) e segundo a lenda dissecou o próprio pé amputado. No fim da vida tornou-se teólogo."
+    },
+    {
+      "id": "a-134",
+      "key": "Aquoso",
+      "keyNormalized": "aquoso",
+      "markdown": "Aquoso – do latim *Aquosus*, aquoso, úmido."
+    },
+    {
+      "id": "a-135",
+      "key": "Aracnóide",
+      "keyNormalized": "aracnoide",
+      "markdown": "Aracnóide – do grego *Arachnè*, aranha, ou sua teia, e *Eidos*, semelhante. O termo foi aplicado á meninge entre a dura-máter e a pia-máter em 1664, por Fredeick Ruysch, anatomista holandês."
+    },
+    {
+      "id": "a-136",
+      "key": "Arciforme",
+      "keyNormalized": "arciforme",
+      "markdown": "Arciforme – do latim *Arcus*, arco e *Formis*, forma de. Em Histologia descreve-se na supra-renal a zona arciforme, ou seja, as células dessa região se dispõem em cordões que formam arcos, logo abaixo da cápsula."
+    },
+    {
+      "id": "a-137",
+      "key": "Arco",
+      "keyNormalized": "arco",
+      "markdown": "Arco – do latim *Arcus*, arco."
+    },
+    {
+      "id": "a-138",
+      "key": "Aréola",
+      "keyNormalized": "areola",
+      "markdown": "Aréola – do latim *Área*, espaço, como o sufixo diminutivo *Ola*. Aplica-se este termo em medicina especialmente ao espaço ao redor dos mamilos dos seios. O termo foi introduzido em Anatomia por caspar Bauhin, em 1605, para designar a área pigmentada ao redor da papila mamária (mamilo)."
+    },
+    {
+      "id": "a-139",
+      "key": "Argirofilia",
+      "keyNormalized": "argirofilia",
+      "markdown": "Argirofilia – do grego *Àrgyros*, prata e *Philia*, amor, amigo. Substâncias que são reveladas ou identificadas pela prata. Em Histologia temos as fibras reticulares que são impregnagas pela prata. Na realidade essas fibras são colágeno tipo III."
+    },
+    {
+      "id": "a-140",
+      "key": "Aritenóideo",
+      "keyNormalized": "aritenoideo",
+      "markdown": "Aritenóideo – do grego *Arytaina*, jarro, copo e *Oidés* forma de. Devido a semelhança do adito da laringe de animais com um jarro, foi dado o nome ao conjunto das cartilagens aritenóideas e ao ligamento interaritenóideo. Foi o anatomista Jean Riolan quem introduziu este termo, utilizando-o inclusive para os músculos associados àquelas cartilagens."
+    },
+    {
+      "id": "a-141",
+      "key": "Arqueado",
+      "keyNormalized": "arqueado",
+      "markdown": "Arqueado – do latim *Arcuatus*, arqueado, curvado como um arco. Foi James Douglas quem a descreveu num trabalho sobre peritônio."
+    },
+    {
+      "id": "a-142",
+      "key": "Arquencéfalo",
+      "keyNormalized": "arquencefalo",
+      "markdown": "Arquencéfalo – do grego *Arkh*, começo, elemento inicial e *EnKephal*(o), interior da cabeça. Termo utilizado em neuroanatomia e na formação do sistema nervoso. No arquencéfalo distinguem-se inicialmente três dilatações, que são as vesículas encefálicas primordiais denominadas: prosencéfalo, mesencéfalo e rombencéfalo. Com o subseqüente desenvolvimento do embrião, o prosencéfalo dá origem a duas vesículas, telencéfalo e diencéfalo."
+    },
+    {
+      "id": "a-143",
+      "key": "Artéria",
+      "keyNormalized": "arteria",
+      "markdown": "Artéria – do grego *Era*, ar e *Terein*, conservar, guardar. Os gregos antigos acreditavam que as artérias conduziam o ar. Hipócrates chamava “artéria” à traquéia e árvore bronquial e “*flebos*” aos vasos sanguíneos, pois os anatomistas gregos antigos acreditavam que as artérias continham ar e as veias, o sangue, pelo fato de que às dissecações, aqueles vasos mostravam-se vazios. Somente no século XVII, os trabalhos de Miguel Servetto, Realdo Colombo, Fabrizzio D\\`Àcquapendente e William Harvey demonstraram claramente a circulação sanguínea nas artérias."
+    },
+    {
+      "id": "a-144",
+      "key": "Arteríola",
+      "keyNormalized": "arteriola",
+      "markdown": "Arteríola – do latim *Arteriola*, diminutivo de *Artéria*. As arteríolas são vasos sanguíneos de dimensão pequena que resultam de ramificações das artérias. Através das artérias o sangue é libertado para os capilares. Regulam principalmente a resistência ao fluxo sanguineo, e, portanto, a pressão sanguínea periférica."
+    },
+    {
+      "id": "a-145",
+      "key": "Arteriosclerose",
+      "keyNormalized": "arteriosclerose",
+      "markdown": "Arteriosclerose – do grego *Era*, ar; *Terein*, conservar; *Skleros*, duro, e *Ose*, estado. Endurecimento dos tubos que conduzem ar ou “artérias”."
+    },
+    {
+      "id": "a-146",
+      "key": "Articulação",
+      "keyNormalized": "articulacao",
+      "markdown": "Articulação – do latim *Articulatio*, nó, junção e *Arctus*, ajustado, apertado."
+    },
+    {
+      "id": "a-147",
+      "key": "Artrologia",
+      "keyNormalized": "artrologia",
+      "markdown": "Artrologia – do grego *Arthron*, junção e *Logos*, estudo."
+    },
+    {
+      "id": "a-148",
+      "key": "Árvore",
+      "keyNormalized": "arvore",
+      "markdown": "Árvore – do latim *Arbor*, árvore."
+    },
+    {
+      "id": "a-149",
+      "key": "Árvore da vida",
+      "keyNormalized": "arvoredavida",
+      "markdown": "Árvore da vida – do latim *Árbor*, árvore e *Vitae*, da vida. No século XVIII, o óleo de cedro era usado como bálsamo e por isso esta árvore ficou conhecida como árvore da vida. Winslow, em 1740, deu o nome de *arbor vitae cerebelli* à substância branca do cerebelo, vista em corte sagital, pela semelhança com a fronde deste vegetal (*Thuya occidentalis*)."
+    },
+    {
+      "id": "a-150",
+      "key": "Ascendente",
+      "keyNormalized": "ascendente",
+      "markdown": "Ascendente – do latim *Ascendere*, subir elevar."
+    },
+    {
+      "id": "a-151",
+      "key": "Assexual",
+      "keyNormalized": "assexual",
+      "markdown": "Assexual – do grego *An*, não e do latim *Sexum*, sexo. Diz-se da reprodução que não há união sexual. Este termo também é utilizado em relação a pessoa que não sente atração sexual."
+    },
+    {
+      "id": "a-152",
+      "key": "Áster",
+      "keyNormalized": "aster",
+      "markdown": "Áster – do grego *Aster*, estrela. As fibras do áster são microtúbulos protéicos presentes ao redor dos centríolos."
+    },
+    {
+      "id": "a-153",
+      "key": "Astrálago",
+      "keyNormalized": "astralago",
+      "markdown": "Astrálago – do grego *Astrágalos*, dado de jogo. O mesmo que *tálus*. Os soldados romanos fabricavam seus dados a partir do osso de calcanhar de cavalos, o qual denominavam de *taxillus*, mais tarde abreviado para *talus*. A palavra *talus* é sinônimo de *astrálago* nanomenclatura anatômica."
+    },
+    {
+      "id": "a-154",
+      "key": "Astrócito",
+      "keyNormalized": "astrocito",
+      "markdown": "Astrócito – do grego *Ástron*, astro, estrela e *Kyto*, célula. Célula da neuroglia de origem ectodérmica com prolongamentos citoplásmicos fibrosos que lhe dão o aspecto de uma estrela."
+    },
+    {
+      "id": "a-155",
+      "key": "Astroglia",
+      "keyNormalized": "astroglia",
+      "markdown": "Astroglia \\- do grego *Ástron*, astro e *Glia*, cola. Conjunto de células com aspecto estrelado presentes na glía nervosa (neuroglia)."
+    },
+    {
+      "id": "a-156",
+      "key": "Atlas",
+      "keyNormalized": "atlas",
+      "markdown": "Atlas – do grego *Atlas*, eu sustento. Gigante mitológico de força descomunal, filho de Iápeto e Climene, que após a derrota dos Titãs para os Deuses foi condenado, por Júpiter, a sustentar o mundo nos ombros, sendo esta a imagem do Titã que esta perpetrada por muitos escultores. Na anatomia nomeia a primeira vértebra cervical que, por analogia sustenta a cabeça. Galeno chamava esta vértebra de Protospondio (do grego *Protos*, primeiro e *Spondylos*, espinha, vértebra). Foi apenas na época de Vesálio (1540) que se passou a denominar Atlas a primeira vértebra cervical."
+    },
+    {
+      "id": "a-157",
+      "key": "Atrio",
+      "keyNormalized": "atrio",
+      "markdown": "Atrio – do latim *Atrium*, sala íntima. Grande aposento central da casa romana com a lareira (lar) num dos cantos e um tanque de mármore (*impluvium*) no outro, sobre o qual havia uma abertura que captava água da chuva. Este aposento não apresentava janelas e apenas um orifício no teto para escape da fumaça. Os anatomistas devem ter dado este nome devido ao fato da câmara cardíaca ser de grande dimensão e ter a presença da veia cava superior, como se fosse uma chaminé."
+    },
+    {
+      "id": "a-158",
+      "key": "Atrofia",
+      "keyNormalized": "atrofia",
+      "markdown": "Atrofia – do grego *A*, privativo e *Trophe*, nutrição. Insuficiêcia de nutrição, que se caracteriza por desgaste ou diminuição de células, tecidos, órgão ou estruturas do corpo. A atrofia é uma forma de resposta adaptativa da célula a novas condições impostas pelo organismo. Ela consiste na redução do tamanho celular resultante da perda de proteínas e outros materiais celulares (assim como de organelas), a redução das células se reflete também na redução do tecido ou órgão afetado."
+    },
+    {
+      "id": "a-159",
+      "key": "Audição",
+      "keyNormalized": "audicao",
+      "markdown": "Audição – do latim *Audiere*, ouvir."
+    },
+    {
+      "id": "a-160",
+      "key": "Aurícula",
+      "keyNormalized": "auricula",
+      "markdown": "Aurícula – do latim *Auricula*, diminutivo de *Auris*, orelha externa. Significava o lóbulo do pavilhão da orelha externa. As aurículas dos átrios do coração foram assim denominadas por Erasístrato, pela semelhança com as orelhas de um cão."
+    },
+    {
+      "id": "a-161",
+      "key": "Autócrino",
+      "keyNormalized": "autocrino",
+      "markdown": "Autócrino – do grego *Aut*(o), que atua por si mesmo ou sobre si mesmo e *Krin*, segregar. São substâncias que exercem atividade sobre a mesma célula pela qual tem sido secretada."
+    },
+    {
+      "id": "a-162",
+      "key": "Autofagia",
+      "keyNormalized": "autofagia",
+      "markdown": "Autofagia \\- do grego *Aut*(o), que atua por si mesmo ou sobre si mesmo e *Phagia*, ação de comer. Mecanismo utilizado pelas células eucariotas para degradar seus proprios componentes visando normalmente a renovação citoplasmática, no entanto, em alguns casos pode ocorrer autofagia ocasionando morte celular."
+    },
+    {
+      "id": "a-163",
+      "key": "Autólise",
+      "keyNormalized": "autolise",
+      "markdown": "Autólise \\- do grego *Autos*, próprio, por si mesmo e *Lise*, quebra, destruição. A autólise ou citólise é o processo pelo qual uma célula se autodestrói espontaneamente. É comum em células danificadas ou em tecido morrendo."
+    },
+    {
+      "id": "a-164",
+      "key": "Autônomo",
+      "keyNormalized": "autonomo",
+      "markdown": "Autônomo – do grego *Autos*, próprio, mesmo e *Nómos*, regra, lei. Galeno foi o primeiro a sugerir este termo aplicando-o ao sistema nervoso."
+    },
+    {
+      "id": "a-165",
+      "key": "Autopsia",
+      "keyNormalized": "autopsia",
+      "markdown": "Autopsia \\- do grego *Autos,* próprio *\\+ Psia*, exame, observar. A verdade a melhor tradução é \"observar com os próprios olhos\", ou seja, não um exame \"em si mesmo\" mas \"por si mesmo\". Conforme o mesmo dicionário é sinônimo perfeito de necrópsia. Há quem diga que o termo autópsia deveria ser empregado para o exame em humanos e necrópsia o exame em animais. Erroneamente usado por alguns como autopsia si próprio, exame). A palavra que deveria ser utilizada deveria ser necropsia (*nekros,* morto e *psia*, exame), refere-se à dissecação de um cadáver, com diversos fins: educativos, ou de medicina forense, em que se pretende determinar as causas da morte. São exames realizados em cadáveres para esclarecer práticas criminosas, diagnósticos de finalidade da saúde ou clínica, tipos: a) Necropsia médico legal; b) Necropsia médico patológica. Alguns autores referem que o termo foi introduzido por Vesalius visto que ele mesmo começou a realizar o estudo dos cadáveres e não mais os barbeiros da época."
+    },
+    {
+      "id": "a-166",
+      "key": "Autossomas",
+      "keyNormalized": "autossomas",
+      "markdown": "Autossomas \\- do grego *Autos*, própria, próprio, e *Soma*, Corpo. Conjunto de cormosomas que estão presentes em todas as células de um organismo, que não são sexuais."
+    },
+    {
+      "id": "a-167",
+      "key": "Autotrófo",
+      "keyNormalized": "autotrofo",
+      "markdown": "Autotrófo \\- do grego *Autos*, própria, próprio e *Trophos*, alimentar. Ser capaz de sintetizar compostos orgânicos diretamente de compostos inorgânicos; ser vivo que fabrica o próprio alimento."
+    },
+    {
+      "id": "a-168",
+      "key": "Axila",
+      "keyNormalized": "axila",
+      "markdown": "Axila – do latim, *Axilla*, cavo do braço, talvez por composição de *Axis*, eixo e *Alla*, asa."
+    },
+    {
+      "id": "a-169",
+      "key": "Axis",
+      "keyNormalized": "axis",
+      "markdown": "Axis – do latim *Axis*, eixo e do grego *Axon*, eixo ou *Ago*, eu carrego. Hipócrates chamava a vértebra de *odonta*, por causa de seu processo e Galeno denominava-a de *dentiformis*. Celso parece ter sido o primeiro a designar a segunda vértebra cervical por este nome, pelo fato da\n\n\nprimeira girar sobre ela com em um eixo. Até a época de Vesálio (1540) apenas o processo odontóide (ou dente) desta vértebra era chamado de axis, por sua semelhança a um “pivô”. Pollux chamou-a inteiramente de *axis* e vesálio confirmou este nome para todo o osso."
+    },
+    {
+      "id": "a-170",
+      "key": "Axodendrito",
+      "keyNormalized": "axodendrito",
+      "markdown": "Axodendrito – do grego *Ax(o),* eixo, *Dendr(o),* arborização e *Īt(ēs)* elemento anatômico. Cada uma das fibrilas laterales do cilindroeixo de uma célula nervosa. No entanto este termo é utilzado normalmente para designar sinapse entre um axônio e dendrito."
+    },
+    {
+      "id": "a-171",
+      "key": "Axolema",
+      "keyNormalized": "axolema",
+      "markdown": "Axolema \\- do latim *Axis*, ou do grego *Áxon*, eixo e *Lemma*, membrana fina. Membrana que cobre o axônio."
+    },
+    {
+      "id": "a-172",
+      "key": "Axonema",
+      "keyNormalized": "axonema",
+      "markdown": "Axonema \\- do latim *Axis*, ou do grego *Áxon*, eixo e Nē-m(a), hilo. Feixe de microtúbulos e proteínas associadas que formam o eixo central de um cílio ou de um flagelo nas células eucariotas. Este termo foi introduzido por Entz (1901) na inglaterrra."
+    },
+    {
+      "id": "a-173",
+      "key": "Axônio",
+      "keyNormalized": "axonio",
+      "markdown": "Axônio – do latim *Axis*, ou do grego *Áxon*, eixo. O axônio é uma projeção, longa e fina de uma célula nervosa (neurônio), que conduz os impulsos elétricos para longe do corpo do neurônio."
+    },
+    {
+      "id": "a-174",
+      "key": "Axoplasma",
+      "keyNormalized": "axoplasma",
+      "markdown": "Axoplasma – do grego *Áxon*, eixo e do latim *Plasma*, criatura ou do *grego Plásm(a)*, líquido constituínte. Citoplasma do axônio de uma célula nervosa."
+    },
+    {
+      "id": "a-175",
+      "key": "Ázigos",
+      "keyNormalized": "azigos",
+      "markdown": "Ázigos – do grego *A*, sem, privado de e *Zygos*, par, casal. Aplica-se a todo órgão ímpar. Portanto significa ímpar, único. Dá nome a uma veia parietal torácica posterior, à direita, que parece receber todo o sangue das paredes do tórax. A intenção do nome ficou prejudicada quando Albrecht Von Haller chamou de “hemiázigos” à veia correspondente à esquerda que, entretanto, não lhe é igual (par)."
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "letter": "G",
+  "entries": [
+    {
+      "id": "g-1",
+      "key": "Galactóforo",
+      "keyNormalized": "galactoforo",
+      "markdown": "Galactóforo – do grego *Galakt*, leite e *Phor*, que leva. Que leva ou transporta leite, nome dado aos ductos excretores das glândulas mamárias."
+    },
+    {
+      "id": "g-2",
+      "key": "Gálea",
+      "keyNormalized": "galea",
+      "markdown": "Gálea – do latim *Galea*, casquete de couro, capacete. No exército romano, os centuriões (infantaria) usavam um capacete feito de couro, a *Galea*, que era também o nome de uma bandagem especial para a cabeça. Foi Giovanni Santorini quem primeiro empregou este termo para designar a aponeurose entre os ventres do músculo occipitofrontal."
+    },
+    {
+      "id": "g-3",
+      "key": "Gameta",
+      "keyNormalized": "gameta",
+      "markdown": "Gameta – do grego *Gamét*, noivo, *Gamete*, esposa; *Gametes*, marido. É uma célula reprodutora haplóide que, conjugando-se com outro de sexualidade oposta, constitui um ovo ou zigot"
+    },
+    {
+      "id": "g-4",
+      "key": "Gametogênese",
+      "keyNormalized": "gametogenese",
+      "markdown": "Gametogênese – do grego *Gamét*, noivo, *Gamete*, esposa; *Gametes*, marido e *Genesis*, que gera. Processo de formação dos gametas a partir de células germinativas indiferenciadas."
+    },
+    {
+      "id": "g-5",
+      "key": "Gânglio",
+      "keyNormalized": "ganglio",
+      "markdown": "Gânglio – do grego *Ganglion*, tumor, caroço, inchaço. Hipócrates usava o termo para designar uma tumoração subcutânea, como um cisto sinovial ou lipoma. Galeno utilizava a palavra para plexos de nervos periféricos. Posteriormente ele chamou de gânglios as formações nodulares do tronco simpático. O sentido atual do termo é devido á Raymond Vieussens."
+    },
+    {
+      "id": "g-6",
+      "key": "Gástrico",
+      "keyNormalized": "gastrico",
+      "markdown": "Gástrico – do latim *Gastricus*, relativo ao estômago, e do grego *Gaster*, ventre."
+    },
+    {
+      "id": "g-7",
+      "key": "Gastrocnêmio",
+      "keyNormalized": "gastrocnemio",
+      "markdown": "Gastrocnêmio – do grego *Gaster*, ventre e *Knéme*, perna. Hipócrates e Galeno já chamavam a região posterior da perna de “Gastrocnemia”. Este nome passou a designar os músculos dessa região."
+    },
+    {
+      "id": "g-8",
+      "key": "Gástrula",
+      "keyNormalized": "gastrula",
+      "markdown": "Gástrula – do grego *Gaster*, ventre, cavidade e *Ula*, pequena. Este termo foi criado por Haeckel em 1872 para designar a fase do desenvolvimento embrionário, que se sucede à blástula, durante a qual se formam os folhetos embrionários."
+    },
+    {
+      "id": "g-9",
+      "key": "Gelatinosa",
+      "keyNormalized": "gelatinosa",
+      "markdown": "Gelatinosa – do frânces *Gélatine*, substância fria, e do latim *Gelatus*, gelado, condensado. A palavra gelatina apareceu apenas no período medieval."
+    },
+    {
+      "id": "g-10",
+      "key": "Gema",
+      "keyNormalized": "gema",
+      "markdown": "Gema – do latim *Gemma*, gomo de videira, pedra preciosa."
+    },
+    {
+      "id": "g-11",
+      "key": "Gêmeo",
+      "keyNormalized": "gemeo",
+      "markdown": "Gêmeo – do latim *Gemellus*, gêmeo, duplo. Era um antigo termo para testículos. A palavra *Gemellus* também era grafada *Geminus* e alguns etimologistas alegam ser está composta de *Genitus* (nascido, gerado) e *Binus* (duplo)."
+    },
+    {
+      "id": "g-12",
+      "key": "Gene",
+      "keyNormalized": "gene",
+      "markdown": "Gene \\- do grego *Gennē*, que gera. Cada uma das unidades dispostas ao longo dos cormossomas que determina a aparição dos caracteres hereditários nos seres vivos."
+    },
+    {
+      "id": "g-13",
+      "key": "Genética",
+      "keyNormalized": "genetica",
+      "markdown": "Genética – do grego *Gennē*, que gera e *Ikē*, estudo, técnica. Parte da biologia que estuda ou lida com a herança familiar."
+    },
+    {
+      "id": "g-14",
+      "key": "Gengiva",
+      "keyNormalized": "gengiva",
+      "markdown": "Gengiva – do latim *Gingiva*, gengiva e *Gignere*, criar, fazer nascer. Este têrmo está associado ao aparecimento dos dentes (nascimento)."
+    },
+    {
+      "id": "g-15",
+      "key": "Geniculado",
+      "keyNormalized": "geniculado",
+      "markdown": "Geniculado – do latim *Geniculatus*, nodoso, ajoelhado, e *Genu*, nó, joelho. O termo provavelmente foi concebido mais a partir da forma angulosa ou articulada desta parte do corpo (joelho) do que por sua aparência saliente, nodosa."
+    },
+    {
+      "id": "g-16",
+      "key": "Genicular",
+      "keyNormalized": "genicular",
+      "markdown": "Genicular – do latim *Genicularis*, relativo a joelho."
+    },
+    {
+      "id": "g-17",
+      "key": "Genioglosso",
+      "keyNormalized": "genioglosso",
+      "markdown": "Genioglosso – do grego *Geneion*, queixo, e *Glossa*, língua.  \nGenio-Hióideo – do grego *Geneion*, queixo, *Hyo*, a letra U e *Óides*, forma de."
+    },
+    {
+      "id": "g-18",
+      "key": "Genital",
+      "keyNormalized": "genital",
+      "markdown": "Genital – do latim *Genitalis*, que gera, *Genitus*, nascido, gerado."
+    },
+    {
+      "id": "g-19",
+      "key": "Genoma",
+      "keyNormalized": "genoma",
+      "markdown": "Genoma – do grego *Gignomai*, nascer e do latim *Oma*, grupo. Representa o conjunto de genes de um indivíduo."
+    },
+    {
+      "id": "g-20",
+      "key": "Genótipo",
+      "keyNormalized": "genotipo",
+      "markdown": "Genótipo – do grego *Genos*, raça e *Typos*, impressão. É a constituição genética interna ou hereditária de um organismo sem levar em conta seu aspecto externo."
+    },
+    {
+      "id": "g-21",
+      "key": "Gínglimo",
+      "keyNormalized": "ginglimo",
+      "markdown": "Gínglimo – do grego *Ginglymós*, juntura, articulação. Hipócrates usava o termo “*ginglymoides*” e Galeno tomo a palavra grega e abreviou-a. era usada principalmente para a articulação do cotovelo e foi reintroduzida nas traduções latinas de suas obras."
+    },
+    {
+      "id": "g-22",
+      "key": "Giro",
+      "keyNormalized": "giro",
+      "markdown": "Giro – do latim *Gyrus*, circulo, volta, giro."
+    },
+    {
+      "id": "g-23",
+      "key": "Glabela",
+      "keyNormalized": "glabela",
+      "markdown": "Glabela – do latim *Glaber*, imberbe, sem pelos. Na Roma antiga, *Glaber* era o nome de um escravo ou servo ainda jovem, imberbe. Na idade média era o nome latino do osso frotal (por causa da falta de cabelo nesta parte). Embora já no século XVI designasse, na língua italiana popular, a região entre as sombrancelhas, com este sentido a palavra somente foi introduzida na anatomia no século XIX."
+    },
+    {
+      "id": "g-24",
+      "key": "Glande",
+      "keyNormalized": "glande",
+      "markdown": "Glande – do latim *Glans*, bolota."
+    },
+    {
+      "id": "g-25",
+      "key": "Glândula",
+      "keyNormalized": "glandula",
+      "markdown": "Glândula – do latim *Glândula*, diminutivo de *Glans*, bolota."
+    },
+    {
+      "id": "g-26",
+      "key": "Glenóide",
+      "keyNormalized": "glenoide",
+      "markdown": "Glenóide – do grego *Gléne*, cavidade arredondada rasa, e O*i*dés, foram de. Na Grécia antiga, a palavra *Gléne* também tinha outros significados (espelho, pupila ou reflexo). Galeno usava o termo para uma articulação esferóide rasa."
+    },
+    {
+      "id": "g-27",
+      "key": "Glia",
+      "keyNormalized": "glia",
+      "markdown": "Glia – do grego *Glí(ā),* que cola. Células do sistema nervoso que podem auxiliar os neurônios em suas funções."
+    },
+    {
+      "id": "g-28",
+      "key": "Glicano",
+      "keyNormalized": "glicano",
+      "markdown": "Glicano – do grego *Glyk*, doce e *Ano*, substância química. Polissacarídeo."
+    },
+    {
+      "id": "g-29",
+      "key": "Glicocálice",
+      "keyNormalized": "glicocalice",
+      "markdown": "Glicocálice \\- do grego *Glyk*, doce e do latim *Calic(em)*, cálice. Polisacárido ou glicoproteína que recobre o exterior da membrana ou da parede celular."
+    },
+    {
+      "id": "g-30",
+      "key": "Glicocorticóide",
+      "keyNormalized": "glicocorticoide",
+      "markdown": "Glicocorticóide \\- do grego *Glyk* doce, do latim *Córtex*, casca de árvore, invólucro e do grego *Oide*, semelhante, com aspecto de. É um termo híbrido que designa o hormônio esteróide produzido no córtex da supra-renal que afeta o metabolismo dos hidratos de carbono, proteínas e lipideos."
+    },
+    {
+      "id": "g-31",
+      "key": "Globo",
+      "keyNormalized": "globo",
+      "markdown": "Globo – do latim *Globus*, bola, esfera, globo. Diminutivo glóbulo."
+    },
+    {
+      "id": "g-32",
+      "key": "Globúlo",
+      "keyNormalized": "globulo",
+      "markdown": "Globúlo \\- do latim *Globus*, bola, esfera, globo, forma diminutiva."
+    },
+    {
+      "id": "g-33",
+      "key": "Glomérulo",
+      "keyNormalized": "glomerulo",
+      "markdown": "Glomérulo – do latim *Glomerulus* que é diminutivo de *Glomus*, novelo, bola de lã ou outro fio."
+    },
+    {
+      "id": "g-34",
+      "key": "Glomerulosa",
+      "keyNormalized": "glomerulosa",
+      "markdown": "Glomerulosa \\- do latim *Glomerulus* que é diminutivo de *Glomus*, novelo e do grego *Ō-sa*, forma, forma de. Em Histologia descreve-se na supra-renal a zona glomeurlosa, tambem denominada de arciforme, pois as células dessa região se dispõem em cordões que formam arcos ou novelos, logo abaixo da cápsula."
+    },
+    {
+      "id": "g-35",
+      "key": "Glomo",
+      "keyNormalized": "glomo",
+      "markdown": "Glomo – do latim *Glomus*, novelo, bola de lã ou outro fio."
+    },
+    {
+      "id": "g-36",
+      "key": "Glossofaríngeo",
+      "keyNormalized": "glossofaringeo",
+      "markdown": "Glossofaríngeo – do grego *Glossa*, língua e *Pharyngeo*, relativo á faringe. Gabrielle Fallopio foi o primeiro anatomista a descrevê-lo em detalhes por considerá-lo como um par de nervos individual."
+    },
+    {
+      "id": "g-37",
+      "key": "Glote",
+      "keyNormalized": "glote",
+      "markdown": "Glote – do latim *Glottis*, laringe, e *Glossa*, língua. Na Grécia, *Glottis* era o nome do bocal da flauta, uma peça em forma de pequena lingüeta, que possibilitava a produção do som, no instrumento. Galeno usou o termo para toda a laringe. Vesálio e Fabricius usaram a palavra para as pregas e o ventrículo. Em 1871, Luschka introduziu o têrmo ”*rima glottidis*” para a fenda formada pelo encontro das pregas laríngeas. Atualmente designa uma das regiões internas da laringe, compreendendo as pregas vestibular e vocal e o espaço entre elas."
+    },
+    {
+      "id": "g-38",
+      "key": "Glúteo",
+      "keyNormalized": "gluteo",
+      "markdown": "Glúteo – do grego *Gloutós*, anca, nádega. Para Hipócrates, a palavra designava qualquer estrutura saliente arredondada, mas posteriormente o termo passou a ser usado apenas com referência à área e à musculatura das nádegas."
+    },
+    {
+      "id": "g-39",
+      "key": "Gnátio",
+      "keyNormalized": "gnatio",
+      "markdown": "Gnátio – do grego *Gnathos*, mandíbula."
+    },
+    {
+      "id": "g-40",
+      "key": "Golgi",
+      "keyNormalized": "golgi",
+      "markdown": "Golgi – Camilo Golgi era um médico italiano que exerceu o cargo de professor de Anatomia nas Universidades de Turim e de Siena e foi catedrático de Histologia na de Pavia, da qual chegou a ser diretor da Faculdade de Medicina e Reitor. Apesar dos escassos meios com que contava, chegou a importantes resultados com as suas experiências, entre as quais se destaca o método da impregnação de células com nitrato de prata, que provocou uma revolução no estudo laboratorial dos tecidos nervosos. Empregando este método, identificou uma classe de células nervosas dotadas de extensões (ou dendritos) mediante as quais se ligam entre si a outras células nervosas. Esta descoberta permitiu a Wilhelm von Waldeyer-Haltz formular a hipótese de que as células nervosas são as unidades estruturais básicas do sistema nervoso, hipótese que mais tarde demonstraria Santiago Ramón y Cajal. Em 1876, depois do seu regresso à Universidade de Pavia, continuou o estudo das células nervosas, obtendo provas da existência de uma rede irregular de fibrilhas, cavidades e grânulos (a que depois seria dado o nome de aparelho reticular interno de Golgi e de Complexo de Golgi), que desempenha um papel essencial na célula, como a síntese da membrana, o armazenamento de lípidos e proteínas ou o transporte de partículas ao longo da membrana celular. Em 1906 Golgi recebeu o Nobel de Fisiologia ou Medicina juntamente com Santiago Ramón y Cajal, pelos seus estudos sobre a estrutura do sistema nervoso."
+    },
+    {
+      "id": "g-41",
+      "key": "Gônada",
+      "keyNormalized": "gonada",
+      "markdown": "Gônada – do grego *Gone*, semente. O que tem sementes"
+    },
+    {
+      "id": "g-42",
+      "key": "Gonfose",
+      "keyNormalized": "gonfose",
+      "markdown": "Gonfose – do grego *Gomphos*, prego, pino. Quem deu este nome às articulações na quais um osso encaixa em um soquete como um pino, foi Galeno, que também dava este nome aos dentes molares."
+    },
+    {
+      "id": "g-43",
+      "key": "Gônio",
+      "keyNormalized": "gonio",
+      "markdown": "Gônio – do grego *Gonion*, ângulo, esquina. Ponto craniométrico que corresponde ao ângulo da mandíbula."
+    },
+    {
+      "id": "g-44",
+      "key": "Gosto",
+      "keyNormalized": "gosto",
+      "markdown": "Gosto – do latim *Gustus*, gosto, paladar."
+    },
+    {
+      "id": "g-45",
+      "key": "Grácil",
+      "keyNormalized": "gracil",
+      "markdown": "Grácil – do latim *Gracilis*, delgado, esguio."
+    },
+    {
+      "id": "g-46",
+      "key": "Grande",
+      "keyNormalized": "grande",
+      "markdown": "Grande – do latim *Lato*, largo, extenso, vasto. O músculo grande dorsal é denominado em latim,\n\n*musculus latissimus* dorsi."
+    },
+    {
+      "id": "g-47",
+      "key": "Granulação",
+      "keyNormalized": "granulacao",
+      "markdown": "Granulação – do latim *Granulationis*, granulação e *Granum*, grão."
+    },
+    {
+      "id": "g-48",
+      "key": "Granular",
+      "keyNormalized": "granular",
+      "markdown": "Granular – do latim *Granularis*, provido de grãos. O mesmo que granuloso."
+    },
+    {
+      "id": "g-49",
+      "key": "Grânulo",
+      "keyNormalized": "granulo",
+      "markdown": "Grânulo – do latim *Granum*, grão, mais o sufixo *Ulo*, diminutivo. Pequeno grão."
+    },
+    {
+      "id": "g-50",
+      "key": "Granulócito",
+      "keyNormalized": "granulocito",
+      "markdown": "Granulócito \\- do latim *Granum*, grão; mais o sufixo *Ulo*, diminutivo; e do grego *Kytos*, célula. Células de origem mielóide normalmente presentes no sangue, cujo citoplasma possui grânulos e que atuam nos mecanismos de defesa, praticando a fagocitose."
+    },
+    {
+      "id": "g-51",
+      "key": "Granulômero",
+      "keyNormalized": "granulomero",
+      "markdown": "Granulômero \\- do latim *Granum*, grão; e *Meros*, forma.\n\nGranuloso(a) – do latim *Granulosus*, provido de grãos. Na pele temos a camada granulosa, ou seja, uma região da epiderme onde as células apresentam inúmeros grânulos no citoplasma. No cerebelo temos também a camada granulosa do cerebelo, onde os corpos dos neurônios são muito pequenos denominados “grãos do cerebelo”."
+    },
+    {
+      "id": "g-52",
+      "key": "Grosso",
+      "keyNormalized": "grosso",
+      "markdown": "Grosso – do latim *Crassus*, espesso, grosso, gordo."
+    },
+    {
+      "id": "g-53",
+      "key": "Gubernáculo",
+      "keyNormalized": "gubernaculo",
+      "markdown": "Gubernáculo – do latim *Gubernaculum*, leme, timão, guia, *Gubernare*, guiar, dirigir, comandar. Em sentido estrito, o leme ou timão de uma embarcação; de forma figurada ou mais ampla, qualquer estrutura ou pessoa que orienta ou guia alguma coisa ou alguém. Em anatomia, designa estruturas fibrosas (especialmente aquela presa ao pólo inferior do epidídimo e testículo) que orientam ou guiam seu trajeto (no exemplo, a descida ao escroto). O gubernáculo do testículo do testículo foi descrito e nomeado por John Hunter, em 1786\\. A palavra é a tradução literal do grego *Gubernao*, guiar, dirigir, comandar."
+    },
+    {
+      "id": "g-54",
+      "key": "Gustatório",
+      "keyNormalized": "gustatorio",
+      "markdown": "Gustatório – do latim *Gustatus*, do gosto, do paladar. Na antiga Roma, *Gustatorium* era uma pequena mesa de madeira leve onde se serviam refeições ligeiras (literalmente local de degustação)."
+    }
+  ]
+}

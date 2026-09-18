@@ -1,0 +1,35 @@
+{
+  "letter": "J",
+  "entries": [
+    {
+      "id": "j-1",
+      "key": "Janela",
+      "keyNormalized": "janela",
+      "markdown": "Janela – Deriva do latim *Jan*(*u*)*ella* diminutivo de *Janua* , janela, postigo. *Janua* era o nome dado a qualquer abertura numa parede, mas na Nomina Anatômica temos o termo oriundo do latim *Fenestra*, fresta, janela. Em latim, esta palavra significa um conjunto de estreitas aberturas retangulares, em série, colocadas na parede externa das casas romanas (semelhantes às seteiras dos castelos medievais), destinadas à circulação do ar no recinto. Daí, a palavra homônima em italiano, destinada às folhas de madeira feitas com fendas entre traves, colocadas para fechar as aberturas nas paredes."
+    },
+    {
+      "id": "j-2",
+      "key": "Jejuno",
+      "keyNormalized": "jejuno",
+      "markdown": "Jejuno \\- do latim *Jejunus*, vazio, assim chamado porque Galeno usava o termo *Nestis*, *Jujum*, abstinência, pois acreditava que esta parte do intestino era encontrada vazia após a morte. Por corrupção tivemos do latim *Jejunus* que já aparece nos textos de Celso. *Jejunum* era a primeira refeição entre os romanos antigos. Aristóteles e outros anatomistas gregos haviam notado que esta porção do intestino nos cadáveres parecia estar sempre vazia ou menos repleta que as outras, principalmente em relação ao intestino grosso."
+    },
+    {
+      "id": "j-3",
+      "key": "Joelho",
+      "keyNormalized": "joelho",
+      "markdown": "Joelho – do latim *Genuculu*, diminutivo de *Genu*, Joelho. O equivalente grego é *Gonatos*."
+    },
+    {
+      "id": "j-4",
+      "key": "Jugo",
+      "keyNormalized": "jugo",
+      "markdown": "Jugo – do latim *Jugum*, canga, coleira."
+    },
+    {
+      "id": "j-5",
+      "key": "Jugular",
+      "keyNormalized": "jugular",
+      "markdown": "Jugular \\- do latim *Jugulum*, garganta, lugar onde o pescoço se liga aos ombros. O latim clássico possuía a palavra *Jugum*, canga e *Jugulum*, parte do pescoço onde a canga era levada. *Jugum* também designava qualquer objeto colocado transversalmente como a canga (exemplo: viga de porta, travessa, trilho etc). A palavra *Jugularis*, relativo ao *Jugulum* foi introduzida pelo monge beneditino Nicolaus Rubertus, primeiro tradutor latino das obras de Galeno, que inventou o termo como uma trdução livre de “*flebos sphagites*” veia do sacrifico, porque os gregos acreditavam que o sangue que jorrava do pescoço degolado do animal sacrificado provinha da veia e não da artéria. Vesálio chamava-a “*interna jugularis vena*”. A adoção e generalização do termo são frequentemente imputados a Sylvio. O verbo *jugulare* significa degolar e daí a invenção da palavra jugular."
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "letter": "O",
+  "entries": [
+    {
+      "id": "o-1",
+      "key": "Óbex",
+      "keyNormalized": "obex",
+      "markdown": "Óbex – do latim *Obex*, barreira, obstáculo. Designa as pregas medulares colocadas transversalmente (como uma barreira) no “calamus scriptorum”."
+    },
+    {
+      "id": "o-2",
+      "key": "Oblíquo",
+      "keyNormalized": "obliquo",
+      "markdown": "Oblíquo – do latim *Obliquus*, obliquo, de través, torto."
+    },
+    {
+      "id": "o-3",
+      "key": "Oblonga",
+      "keyNormalized": "oblonga",
+      "markdown": "Oblonga – do latim *Oblonga*, feminino de *Oblongus*, alargado. A têrmo original, na nomina antômica é *medulla oblongata,* mas deveria ser *medulla prolongata* (medula alongada), pois o termo *oblongatus* não existia no latim clássico. Criado por Lorenz Heister, em 1740, e introduzido por Albrecht Haller em1750, o termo *oblongata* talvez teria sido derivado do latim *Oblongus*, alargado."
+    },
+    {
+      "id": "o-4",
+      "key": "Obturado",
+      "keyNormalized": "obturado",
+      "markdown": "Obturado – do latim *Obturatum*, fechado e *Obturare*, fechar, tapar, obstruir. O mesmo que obturatório."
+    },
+    {
+      "id": "o-5",
+      "key": "Obturatório",
+      "keyNormalized": "obturatorio",
+      "markdown": "Obturatório – do latim *Obturatorius*, que fecha e *Obturare*, fechar, obstruir. O mesmo que obturador. O nervo obturatório recebeu este nome porque inerva os músculos adutores da coxa, que têm por acão por fechar as coxas."
+    },
+    {
+      "id": "o-6",
+      "key": "Occipital",
+      "keyNormalized": "occipital",
+      "markdown": "Occipital – do latim *Occipitium*, parte posterior da cabeça."
+    },
+    {
+      "id": "o-7",
+      "key": "Occipúcio",
+      "keyNormalized": "occipucio",
+      "markdown": "Occipúcio – forma corrupta do latim *Occipitium*, occipúcio, parte posterior da cabeça. O termo pode ter sido composto do latim *Ob*, antes, oposto e *Caput*, cabeça, significando a parte da cabeça oposta à fronte (o sincipúcio). Note a palavra ocidente, talvez formada erroneamanete de latim *Ob*, antes, oposto e *Cadere*, cair, porque é efetivamente o ponto cardeal onde o sol caia."
+    },
+    {
+      "id": "o-8",
+      "key": "Ocludente",
+      "keyNormalized": "ocludente",
+      "markdown": "Ocludente \\- do latim *Ocludere*, cerrar, fechar com força."
+    },
+    {
+      "id": "o-9",
+      "key": "Oclusal",
+      "keyNormalized": "oclusal",
+      "markdown": "Oclusal – do latim *Ocludere*, cerrar, fechar com força."
+    },
+    {
+      "id": "o-10",
+      "key": "Oclusão",
+      "keyNormalized": "oclusao",
+      "markdown": "Oclusão \\- do latim *Ob*, contra e *Claudere*, fechar."
+    },
+    {
+      "id": "o-11",
+      "key": "Oculomotor",
+      "keyNormalized": "oculomotor",
+      "markdown": "Oculomotor – do latim *Oculus*, olho, *Motus*, movimento e *Actor*, agente."
+    },
+    {
+      "id": "o-12",
+      "key": "Oculta",
+      "keyNormalized": "oculta",
+      "markdown": "Oculta – do latim *Occulta*, feminino de *Occultus*, escondido."
+    },
+    {
+      "id": "o-13",
+      "key": "Odontoblasto",
+      "keyNormalized": "odontoblasto",
+      "markdown": "Odontoblasto \\- do grego *Odoûs, Odontos*, dente, e *Blastós*, broto. Célula de natureza conjuntiva, que forma uma camada de revestimento da polpa dentária e dá origem à dentina."
+    },
+    {
+      "id": "o-14",
+      "key": "Odontogênese",
+      "keyNormalized": "odontogenese",
+      "markdown": "Odontogênese \\- do grego *Odont(o),* dente e *Genesis*, formação. Este termo aparece pela primeira vez na Inglaterra em 1953 para designar a formação dos dentes."
+    },
+    {
+      "id": "o-15",
+      "key": "Odontóide",
+      "keyNormalized": "odontoide",
+      "markdown": "Odontóide – do grego *Odont(o),* dente e *Eid(és),* que tem forma, aspecto de. Eminência vertical em forma de dente que parte do corpo do axis para se articular com a face posterior do arco anterior do atlas."
+    },
+    {
+      "id": "o-16",
+      "key": "Odontologia",
+      "keyNormalized": "odontologia",
+      "markdown": "Odontologia \\- do grego *Odous*, dente e *Logos*, estudo."
+    },
+    {
+      "id": "o-17",
+      "key": "Óide",
+      "keyNormalized": "oide",
+      "markdown": "Óide \\- do grego *Eidos*, semelhante."
+    },
+    {
+      "id": "o-18",
+      "key": "Olécrano",
+      "keyNormalized": "olecrano",
+      "markdown": "Olécrano – do grego *Olekranon*, ponta do cotovelo, *Oléne*, cotovelo e *Kranion*, caeça ou *Krános*, capacete. A plavra correta deveria ser olenocranon, mas a forma corrupta olekranon prevaleceu."
+    },
+    {
+      "id": "o-19",
+      "key": "Olfato",
+      "keyNormalized": "olfato",
+      "markdown": "Olfato \\- do latim *Olfactus*, ação de cheirar."
+    },
+    {
+      "id": "o-20",
+      "key": "Olfatório",
+      "keyNormalized": "olfatorio",
+      "markdown": "Olfatório – do latim *Olfactorius*, farejador e *Olfactare*, cheirar, farejar."
+    },
+    {
+      "id": "o-21",
+      "key": "Olho",
+      "keyNormalized": "olho",
+      "markdown": "Olho – do latim *Oculu*, olho. O equivalente grego é *Ophtalmós*."
+    },
+    {
+      "id": "o-22",
+      "key": "Oligo",
+      "keyNormalized": "oligo",
+      "markdown": "Oligo \\- do grego, *Oligos*, pouco."
+    },
+    {
+      "id": "o-23",
+      "key": "Oligodendrócito",
+      "keyNormalized": "oligodendrocito",
+      "markdown": "Oligodendrócito \\- do grego, *Oligos*, poucos, *Dendr(o)* arborização e *Kyto*, célula. Célula da neuroglica que tem poucas ramificações."
+    },
+    {
+      "id": "o-24",
+      "key": "Oligodendróglia",
+      "keyNormalized": "oligodendroglia",
+      "markdown": "Oligodendróglia – do grego *Oligo*, escasso, pouco; *Dendr(o),* arborização e *Glí(ā),* cola. Conjunto de células da neuróglia que apresentam poucas ramificações."
+    },
+    {
+      "id": "o-25",
+      "key": "Oligomenorréia",
+      "keyNormalized": "oligomenorreia",
+      "markdown": "Oligomenorréia \\- do grego *Oligo*, escasso, pouco; *Mḗn,* menstruaçoes (sign. um mês), e *Rhoíā*\n\nflujo. Fluxo menstrual escasso ou com uma freqüência inferior a normal."
+    },
+    {
+      "id": "o-26",
+      "key": "Oliva",
+      "keyNormalized": "oliva",
+      "markdown": "Oliva – do latim *Oliva*, oliveira, azeitona."
+    },
+    {
+      "id": "o-27",
+      "key": "Ombro",
+      "keyNormalized": "ombro",
+      "markdown": "Ombro – do grego *Omos*, ombro ou do latim *Umerus*, espáduas. Os antigos gregos e romanos nomeavam confusamente o ombro e o braço, algumas vezes com o mesmo nome (em conjunto), outras, com nomes diferentes para estas partes, mas com termos que poderiam ser intercambiáveis."
+    },
+    {
+      "id": "o-28",
+      "key": "Omento",
+      "keyNormalized": "omento",
+      "markdown": "Omento – do latim *Omentum*, membrana rendada. A palavra tem origem obscura, mesmo em latim. Pode ter derivado de *Omen*, augúrio, presságio, por causa da prática de aruspicação, quando, ao abrir-se o abdome do animal sacrificado, deparava-se em primeiro lugar com esta membrana. A outra origem provável seria do latim *Operimentum*, coberta rendada, avental, porque recobre a maioria das entranhas. Antigamente em anatomia as meninges eram chamdas *Omenta Cerebri* e o periósteo era denomindado *Omenta ossium*, o que parece reforçar esta última hipótese etimológica. A palavra grega equivalente é *Epiploon*. O omento é formado por duas lâminas de epitélio pavimentoso simples sendo seu meio constituído por tecido conjuntivo frouxo. Este tecido funciona para o tamponamento de lesões nos órgão peritoniais, seria como uma espécie de *Band Aid* natural.\n\nOmo-hióideo – do grego *Omos*, ombro e *Hyo*, a letra U e *Óides*, forma de. O nome do músculo deriva do antigo nome da escápula omoplata."
+    },
+    {
+      "id": "o-29",
+      "key": "Oncogen",
+      "keyNormalized": "oncogen",
+      "markdown": "Oncogen – do grego *Onko*, massa, massa cancerosa e *Gen*, que forma, que gera. Gene que pode desencadear um tumor."
+    },
+    {
+      "id": "o-30",
+      "key": "Oncovírus",
+      "keyNormalized": "oncovirus",
+      "markdown": "Oncovírus – do grego *Onko*, massa, massa cancerosa e *Uīr(us),* veneno (vírus). Subfamilia de retrovírus (RNA) que integra os virus tumorais.\n\nOntogenia, Ontogênese \\- do grego *On*, ser e *Genesis*, criação. Desenvolvimento do indivíduo."
+    },
+    {
+      "id": "o-31",
+      "key": "Oócito",
+      "keyNormalized": "oocito",
+      "markdown": "Oócito \\- do grego *Oon*, ovo e *Kytos*, vaso ou célula. Já a palavra *ovócito* é uma palavra híbrida (de dupla origem) do latim *ōu(um)*, ovo e do grego *Kytos*, célula. Palavra introduzida por Boveri em 1892\\."
+    },
+    {
+      "id": "o-32",
+      "key": "Ooforectomia",
+      "keyNormalized": "ooforectomia",
+      "markdown": "Ooforectomia \\- do grego *Oon*, ovo; *Pherein*, carregar; e *Ek-tom-íā*, retirada cirúrgica. Retirada cirúrgica de um dos ovários."
+    },
+    {
+      "id": "o-33",
+      "key": "Ooforite",
+      "keyNormalized": "ooforite",
+      "markdown": "Ooforite \\- do grego *Oon*, ovo; *Pherein*, carregar, e *lte*, inflamação. É o mesmo que \"ovarite\", inflamação do ovário. O ovário ou \"oóforo\" é o portador ou \"carregador\" dos óvulos."
+    },
+    {
+      "id": "o-34",
+      "key": "Oogênese",
+      "keyNormalized": "oogenese",
+      "markdown": "Oogênese \\- do grego *Oon*, ovo e *Genesis*, produção."
+    },
+    {
+      "id": "o-35",
+      "key": "Oogônia (ovogônia)",
+      "keyNormalized": "oogoniaovogonia",
+      "markdown": "Oogônia (ovogônia) – do grego *Oon*, ovo e *Gon*, órgãos sexuais. Célula diploide precursora das células germinativas femininas que dão origem ao oócito, ou ovócito."
+    },
+    {
+      "id": "o-36",
+      "key": "Opérculo",
+      "keyNormalized": "operculo",
+      "markdown": "Opérculo – do latim *Operculum*, tampa, cobertura e *Operire*, tapar, cobrir."
+    },
+    {
+      "id": "o-37",
+      "key": "Oponente",
+      "keyNormalized": "oponente",
+      "markdown": "Oponente – do latim *Opponens*, oposto e *Opponere*, pôr diante, opor."
+    },
+    {
+      "id": "o-38",
+      "key": "Opsonina",
+      "keyNormalized": "opsonina",
+      "markdown": "Opsonina – do grego *Opso*(n), alimento cozido, e *In(a)* substância química. Termo introduzido na Inglaterra em 1903 para designar sustâncias que tornam o alimento mais facil de digerir. Substância termolábil do plasma sanguíneo que torna os micróbios ou células sanguíneas mais aptas de seres fagocitados pelos leucócitos."
+    },
+    {
+      "id": "o-39",
+      "key": "Óptica (Óptico)",
+      "keyNormalized": "opticaoptico",
+      "markdown": "Óptica (Óptico) \\- do grego *Optykós*, relativo a visão e *Opsein*, ver enxergar."
+    },
+    {
+      "id": "o-40",
+      "key": "Ora serrata",
+      "keyNormalized": "oraserrata",
+      "markdown": "Ora serrata – do latim *Ora*, litoral, costa e *Serratus*, serreado. A palavra “*Ora*” tinha também o sentido de borda, aresta."
+    },
+    {
+      "id": "o-41",
+      "key": "Oral",
+      "keyNormalized": "oral",
+      "markdown": "Oral \\- do latim *Orbis*, boca; *Os*, rima dos lábios."
+    },
+    {
+      "id": "o-42",
+      "key": "Orbicular",
+      "keyNormalized": "orbicular",
+      "markdown": "Orbicular – do latim *Orbicularis*, ao redor do olho e *Orbis*, circulo, órbita, *Oculus*, olho."
+    },
+    {
+      "id": "o-43",
+      "key": "Órbita",
+      "keyNormalized": "orbita",
+      "markdown": "Órbita \\- do latim *Orbis*, circulo na terra, sulco na terra, linha circular, curso. Em latim, a palavra orbita tinha vários significados: como mostrado acima, mas nenhum deles estava relacionado diretamente com olho ou à órbita, como hoje conhecemos. Em sentido figurado (e poético), órbita dava nome somente à revolução da trajetória lunar. Talvez por dar idéia de movimento circular, tenha o termo sido aplicado ao movimento dos olhos dentro dos encaixes ósseos, que passaram depois a receber o nome do movimento (por provável erro de tradução dos textos árabes durante a idade média). Uma palavra semelhante *Orbitas*, possui outro significado: privação, orfandade."
+    },
+    {
+      "id": "o-44",
+      "key": "Ordéolo",
+      "keyNormalized": "ordeolo",
+      "markdown": "Ordéolo \\- do latim *Hordeolum*, diminutivo de *Hordeum*, cevada. O ordéolo ou tersol assemelha-se um tanto a um grão de cevada."
+    },
+    {
+      "id": "o-45",
+      "key": "Orelha",
+      "keyNormalized": "orelha",
+      "markdown": "Orelha – do latim *Oricla*, *Auricula*, diminutivo de *Auris*, orelha. Erroneamente em medicina a palavra orelha é ás vezes pouco utilizada, dando-se preferência a “ouvido” que em latim é “*Auditus*” e que tem sentido verbal é o particípio passado do verbo ouvir. Valsava, no seu tratado “*De aure humano*”, em 1704, lançou as bases do moderno conhecimento sobre a audição, descrevendo em detalhes a orelha humana, dividindo-a em partes interna, média e externa. O equivalente grego é *Otós*."
+    },
+    {
+      "id": "o-46",
+      "key": "Organela",
+      "keyNormalized": "organela",
+      "markdown": "Organela – do grego *Organon*, instrumento ou utensílio e *Ergein*, trabalhar. Diminutivo de órgão."
+    },
+    {
+      "id": "o-47",
+      "key": "Órgão",
+      "keyNormalized": "orgao",
+      "markdown": "Órgão \\- do grego *Organon*, instrumento ou utensílio e *Ergein*, trabalhar. Só no século XVII é que o vocábulo começou a ser aplicado aos órgãos do corpo. Este termo é utilizado para designar parte do organismo constituída por diversos tecidos, e adaptada para exercer uma ou mais funções."
+    },
+    {
+      "id": "o-48",
+      "key": "Origem",
+      "keyNormalized": "origem",
+      "markdown": "Origem – do latim *Origo*, fonte, nascimento, origem."
+    },
+    {
+      "id": "o-49",
+      "key": "Orqui",
+      "keyNormalized": "orqui",
+      "markdown": "Orqui \\- do grego *Orchis*, testículo."
+    },
+    {
+      "id": "o-50",
+      "key": "Ortocromático",
+      "keyNormalized": "ortocromatico",
+      "markdown": "Ortocromático – do grego *Ortho*, reto, segundo a norma e *Khrōm*, cor. Que se cora positivamente, corretamente."
+    },
+    {
+      "id": "o-51",
+      "key": "Osmose",
+      "keyNormalized": "osmose",
+      "markdown": "Osmose \\- do grego *Osmos*, impulso e *Ose*, estado."
+    },
+    {
+      "id": "o-52",
+      "key": "Ossículo",
+      "keyNormalized": "ossiculo",
+      "markdown": "Ossículo \\- do latim *Ossiculum*, diminutivo de *Os*, osso."
+    },
+    {
+      "id": "o-53",
+      "key": "Osso",
+      "keyNormalized": "osso",
+      "markdown": "Osso \\- do latim *Os* (osso). Em grego, a palavra que designa este órgão era *Osteon*, Jean Riolan afirma que esta deu origem, na tradução latina, a *Ossu*, depois abreviada, por Platão, para *Os*."
+    },
+    {
+      "id": "o-54",
+      "key": "Osteoblasto",
+      "keyNormalized": "osteoblasto",
+      "markdown": "Osteoblasto \\- do grego *Osteon*, osso e *Blastos*, germe. São as células responsáveis por sintetizar a parte orgânica da matriz óssea (tanto colágeno quanto as proteínas não colágenas). É uma célula de origem embrionária proveniente de célula mesênquimal indiferenciada, e que dá posteriormente origem aos osteócitos (células do tecido ósseo). Encontram-se dispostos em uma camada contínua na superfície óssea, unidos uns aos outros por meio de junções adesivas. Quando ativos, os osteoblastos apresentam-se como células polarizadas, com forma cuboidal e de dimensões variadas, exibindo núcleo esférico e citoplasma basófilo. Quando não estão ativos e sem aparente função de síntese formam uma camada na superficie óssea denominada de revestimento ósseo e apresentam forma alongada, núcleo evidente ocupando grande parte do escasso citoplasma e poucas organelas."
+    },
+    {
+      "id": "o-55",
+      "key": "Osteócito",
+      "keyNormalized": "osteocito",
+      "markdown": "Osteócito \\- do grego *Osteon*, osso e *Kyto*, célula. Á medida que a matriz óssea é formada, alguns osteoblastos são aprisionados no interior da mesma, sendo então denominados de osteócitos. Esse processo recebe o nome de osteocitogenese. Os osteócitos são células terminalmente diferenciadas que residem em lacunas, rodeados por matriz mineralizada e constituem o tipo celular mais abundante do tecido ósseo. Durante a formação óssea, os osteoblastos recém-incorporados à matriz apresentam características morfológicas semelhantes às dos osteoblastos em atividade, sendo denominados de osteócitos jovens. Á medida que a matriz óssea sofre mineralização os osteócitos tornam-se elipsóides, com citoplasma reduzido e quase inteiramente ocupado pelo núcleo. Células presentes no interior do osso, em estruturas denominadas de lacunas, que são responsáveis pela sua manutenção."
+    },
+    {
+      "id": "o-56",
+      "key": "Osteoclasto",
+      "keyNormalized": "osteoclasto",
+      "markdown": "Osteoclasto \\- do grego *Osteon*, osso e *Klan*, destruir ou de *Klastos*, quebrar, degradar. Quem propôs este nome foi Albert Von Kolliker (1873) onde referiu que as células gigantes presentes na superfície óssea “seriam agentes de reabsorção óssea”. Este fato foi confirmado posteriormente e realmente essas células gigantes, polarizadas que apresentam tamanho entre 50 µm a 100 µm que exibem em média 5 a 8 núcleos das mais variadas formas e tamanhos estão relacionadas com a degradação óssea."
+    },
+    {
+      "id": "o-57",
+      "key": "Osteogênese",
+      "keyNormalized": "osteogenese",
+      "markdown": "Osteogênese \\- do grego Osteon, osso e *Genesis*, produção ou criação"
+    },
+    {
+      "id": "o-58",
+      "key": "Osteóide",
+      "keyNormalized": "osteoide",
+      "markdown": "Osteóide \\- do grego *Osteon*, osso e *Eidos*, semelhante. Consititui a matriz óssea não mineralizada, onde se encontram os osteoblastos."
+    },
+    {
+      "id": "o-59",
+      "key": "Osteologia",
+      "keyNormalized": "osteologia",
+      "markdown": "Osteologia \\- do grego *Osteon*, osso e *Logos*, estudo."
+    },
+    {
+      "id": "o-60",
+      "key": "Osteon",
+      "keyNormalized": "osteon",
+      "markdown": "Osteon – do grego *Osteon*, osso. Palavra introduzida por Biedermann em 1914 coincide com o grego ostéon que quer dizer osso. Ósteon ou sistema de Havers; é a unidade anatómica e funcional do tecido ósseo caracteristica dos ossos compactos; está constituido por um canal de Havers, ao redor do qual se agrupam de 5 a 20 lamelas com lacunas que contêm células ósseas, que são os osteocitos."
+    },
+    {
+      "id": "o-61",
+      "key": "Osteoplasto",
+      "keyNormalized": "osteoplasto",
+      "markdown": "Osteoplasto – do grego do grego *Osteon*, osso e *Plasto*, orgânulo. Este termo é tradicional no nosso ensino, mas tende a desaparecer dos textos sendo substituído por lacunas ósseas."
+    },
+    {
+      "id": "o-62",
+      "key": "Osteroporose",
+      "keyNormalized": "osteroporose",
+      "markdown": "Osteroporose – do grego *Oste(o),* osso e *Por(o*), poro e *Ō-sis*, processo patológico. Perda da massa óssea por perda da densidade e aumento dos espaços ocos do osso; produz porosidade e fragilidade."
+    },
+    {
+      "id": "o-63",
+      "key": "Óstio",
+      "keyNormalized": "ostio",
+      "markdown": "Óstio \\- do latim *Ostium*, abertura, porta. Originalmente a palavra designava obstáculo, o que fica no caminho, do latim *Obstare*, impedir, obstar. Depois, por transferência semântica passou a designar uma entrada. Alguns etimologistas acreditam que o termo derivou de “*Os*”, rima dos lábios, com o significado de entrada da boca."
+    },
+    {
+      "id": "o-64",
+      "key": "Ótico",
+      "keyNormalized": "otico",
+      "markdown": "Ótico – do grego *Otikos*, relativo a orelha e *Ous* ou *Otos*, orelha externa."
+    },
+    {
+      "id": "o-65",
+      "key": "Ouvido",
+      "keyNormalized": "ouvido",
+      "markdown": "Ouvido – Termo substituído por orelha na nomina anatômica, vide orelha."
+    },
+    {
+      "id": "o-66",
+      "key": "Oval",
+      "keyNormalized": "oval",
+      "markdown": "Oval – do latim *Ovalis*, ovalado e *Ovum*, ovo."
+    },
+    {
+      "id": "o-67",
+      "key": "Ovário",
+      "keyNormalized": "ovario",
+      "markdown": "Ovário \\- do latim *Ovarium*, nome dado ao escravo encarregado de cuidar dos ovos e pintos. Em anatomia o termo ovário é recente, introduzido por Niels Steno (Stensen), em 1667\\. Antes, os ovários eram denominados de “*testis mulieris*”, ou seja, testículos da mulher. É de origem latina, sendo utilizado na Roma antiga para designar o escravo encarregado de cuidar das galinhas e, sobretudo, dos ovos, que eram valiosos na época. Os escravos mais habilidosos, denominados de “*ovarii*”, eram estimados e disputados pelas famílias nobres. Isto se deve ao fato da alimentação dos romanos começarem sempre por um prato à base de ovos. Desse modo o termo ovário era interpretado, naquela ocasião, como sendo **o “**carregador de ovos” e, na atualidade, representa uma estrutura que “carrega ovócitos”**.**"
+    },
+    {
+      "id": "o-68",
+      "key": "Ovo",
+      "keyNormalized": "ovo",
+      "markdown": "Ovo \\- do latim *Oo(um)* ou do grego *Ovum*, que designa ovo."
+    },
+    {
+      "id": "o-69",
+      "key": "Ovulação",
+      "keyNormalized": "ovulacao",
+      "markdown": "Ovulação – do latim *Ou(um)*, ovo *Ul*, pequeno e *Ation*, processo. Processo de maduração e emissão de um óvulo por um folículo ovariano no ovário."
+    },
+    {
+      "id": "o-70",
+      "key": "Oxifila",
+      "keyNormalized": "oxifila",
+      "markdown": "Oxifila – do grego *Oxys*, ácido e *Philein*, amar. Estrutura que se cora com corantes ácidos."
+    },
+    {
+      "id": "o-71",
+      "key": "Oxigênio",
+      "keyNormalized": "oxigenio",
+      "markdown": "Oxigênio \\- do grego *Oxys*, ácido e *Gennao*, eu produzo. Esta palavra foi criada por Lavoisier."
+    },
+    {
+      "id": "o-72",
+      "key": "Oxitocina",
+      "keyNormalized": "oxitocina",
+      "markdown": "Oxitocina – do grego *Ox(y),* agudo, rápido e *Tok(o)*, parto com a designação *Īn(a)* que significa substância. Hormônio que tem a função de promover as contrações musculares uterinas durante o parto e a ejeção do leite durante a amamentação."
+    }
+  ]
+}

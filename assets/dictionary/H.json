@@ -1,0 +1,509 @@
+{
+  "letter": "H",
+  "entries": [
+    {
+      "id": "h-1",
+      "key": "Habênula",
+      "keyNormalized": "habenula",
+      "markdown": "Habênula – do latim *Habenula*, diminutivo *Habena*, tira, correia, rédea. A imagem do corpo pineal e das habênulas sugeriu, na Grécia antiga, o formato da cabeça de um cavalo e as rédeas, visualizadas pelo cavaleiro."
+    },
+    {
+      "id": "h-2",
+      "key": "Halo",
+      "keyNormalized": "halo",
+      "markdown": "Halo – do grego *Halos*, o halo redondo do sol ou da lua. Brilho em forma de anel da luz em volta de um corpo luminoso."
+    },
+    {
+      "id": "h-3",
+      "key": "Hálux",
+      "keyNormalized": "halux",
+      "markdown": "Hálux – corrupção ou aliteração do latim *Allex* ou *Hallus*, igual dedo grande."
+    },
+    {
+      "id": "h-4",
+      "key": "Hamato",
+      "keyNormalized": "hamato",
+      "markdown": "Hamato- do latim *Hamatus*, recurvado, emforma de gancho."
+    },
+    {
+      "id": "h-5",
+      "key": "Hâmulo",
+      "keyNormalized": "hamulo",
+      "markdown": "Hâmulo – do latim *Hamulus*, diminutivo de *Hamus*, gancho."
+    },
+    {
+      "id": "h-6",
+      "key": "Haplóide",
+      "keyNormalized": "haploide",
+      "markdown": "Haplóide – do grego *Haplo*, único e *Oide*, semelhante, forma. Termo utilizado inicialmente por E. Strasburger em 1905, para designar as células dos organismos eucariotas que tem apenas um conjunto do número de cromossomas característico da espécie."
+    },
+    {
+      "id": "h-7",
+      "key": "Haustro",
+      "keyNormalized": "haustro",
+      "markdown": "Haustro – do latim *Haustrum*, balde, caçamba. A palavra deve ser derivada do latim *Haustus*, esvaziado, *Haurire*, esvaziar. Na antiguidade, o *Haustrum*, no plural *Haustra* era o dispositivo usado para retirar água de um poço. Por extensão, passou a designar qualquer objeto com forma sacular. O termo foi introduzido em anatomia por Albrecht von Haller, no século XVIII."
+    },
+    {
+      "id": "h-8",
+      "key": "Hélice",
+      "keyNormalized": "helice",
+      "markdown": "Hélice – do grego *Elix*, caracol, *Eilein*, enrolar."
+    },
+    {
+      "id": "h-9",
+      "key": "Helicino",
+      "keyNormalized": "helicino",
+      "markdown": "Helicino – dogrego *Elikidos*, relativo a caracol, parecido com um caracol."
+    },
+    {
+      "id": "h-10",
+      "key": "Helicotrema",
+      "keyNormalized": "helicotrema",
+      "markdown": "Helicotrema – do grego *Helik*(o), espira e *Trē(mat),* buraco. Pequena abertura próxima ao ápice da cóclea onde se comunicam a escala vestibular e timpânica."
+    },
+    {
+      "id": "h-11",
+      "key": "Hemácia",
+      "keyNormalized": "hemacia",
+      "markdown": "Hemácia – do gregao *Haima*, sangue; *Cytus*, célula."
+    },
+    {
+      "id": "h-12",
+      "key": "Hematócrito",
+      "keyNormalized": "hematocrito",
+      "markdown": "Hematócrito \\- do grego *Haima*, sangue e *Krino*, eu separo."
+    },
+    {
+      "id": "h-13",
+      "key": "Hematologia",
+      "keyNormalized": "hematologia",
+      "markdown": "Hematologia \\- do grego *Haima*, sangue e *Logos*, estudo."
+    },
+    {
+      "id": "h-14",
+      "key": "Hematoma",
+      "keyNormalized": "hematoma",
+      "markdown": "Hematoma \\- do grego *Hemato*, derivado de *Haima*, sangue e *Oma*, tumor. Um tumor proveniente de derrame de sangue nos tecidos."
+    },
+    {
+      "id": "h-15",
+      "key": "Hematopoiese",
+      "keyNormalized": "hematopoiese",
+      "markdown": "Hematopoiese \\- do grego *Haima*, sangue e *Poiesis*, produção."
+    },
+    {
+      "id": "h-16",
+      "key": "Hematoxilina",
+      "keyNormalized": "hematoxilina",
+      "markdown": "Hematoxilina – do grego *Haim(ato),* sangue, *Xyl* (o), madeira e *In(a)*, substância quimica. Seria um corante da cor do sangue tirado da madeira. A hematoxilina é um composto que dependendo da oxidação pode ficar vermelho, azulado, ou mesmo bem preto. È obtida do tronco de uma planta leguminosa (*Haematoxylum campechianum*) conhecida também pelo nome de Pau Campeche. No Brasil temos substâncias desse teor obtidas em várias plantas, tais como o pau Brasil e o fruto da amoreira."
+    },
+    {
+      "id": "h-17",
+      "key": "Hemiázigo",
+      "keyNormalized": "hemiazigo",
+      "markdown": "Hemiázigo – do grego *Hemi*, metade, *A*, sem, privado. *Zygas*, par, casal, cópula."
+    },
+    {
+      "id": "h-18",
+      "key": "Hemicrânia",
+      "keyNormalized": "hemicrania",
+      "markdown": "Hemicrânia \\- do grego *Hemi*, metade e *Kranion*, crânio."
+    },
+    {
+      "id": "h-19",
+      "key": "Hemidesmossoma",
+      "keyNormalized": "hemidesmossoma",
+      "markdown": "Hemidesmossoma – do grego *Hemi*, metade e *Desmo*, que une, ligadura e *Soma*, corpo. Junção celular especializada geralmente entre uma célula epitelial e a membrana basal subjacente; morfologicamente se parece com a metade de um desmossoma."
+    },
+    {
+      "id": "h-20",
+      "key": "Hemisfério",
+      "keyNormalized": "hemisferio",
+      "markdown": "Hemisfério – do grego *Hemi*, metade e do latim *Sphoera*, esfera, globo."
+    },
+    {
+      "id": "h-21",
+      "key": "Hemo",
+      "keyNormalized": "hemo",
+      "markdown": "Hemo \\- do grego *Haima*, sangue."
+    },
+    {
+      "id": "h-22",
+      "key": "Hemofilia",
+      "keyNormalized": "hemofilia",
+      "markdown": "Hemofilia \\- do grego *Haima*, sangue e *Philia*, gostar. Não foi um neologismo muito feliz, como se vê."
+    },
+    {
+      "id": "h-23",
+      "key": "Hemoglobina",
+      "keyNormalized": "hemoglobina",
+      "markdown": "Hemoglobina \\- do grego *Haima*, sangue e Globina, abreviação de Globulina, do latim *Globus*, bola, talvez pela forma arredondada das hemácias."
+    },
+    {
+      "id": "h-24",
+      "key": "Hemólise",
+      "keyNormalized": "hemolise",
+      "markdown": "Hemólise \\- do grego *Haima*, sangue e *Lysis*, quebra. Ruptura da membrana dos glóbulos vermelhos e perda de seu conteúdo, em especial da hemoglobina, para a corrente sangüínea."
+    },
+    {
+      "id": "h-25",
+      "key": "Hemopoiése",
+      "keyNormalized": "hemopoiese",
+      "markdown": "Hemopoiése – do grego *Hemo*, sangue e *Poiesis*, produção. Diz-se do órgão ou local onde é produzido o sangue."
+    },
+    {
+      "id": "h-26",
+      "key": "Hemorragia",
+      "keyNormalized": "hemorragia",
+      "markdown": "Hemorragia \\- do grego *Haima*, sangue e *Rhagia*, derramar, extravasar. Extravasamento de sangue para fora dos vasos sanguineos que deviam contê-lo. Pode ocorrer por rompimento dos vasos devido ao aumento da pressão sangüínea ou acidentalmente, por ação de traumatismos."
+    },
+    {
+      "id": "h-27",
+      "key": "Hemossiderina",
+      "keyNormalized": "hemossiderina",
+      "markdown": "Hemossiderina \\- do grego *Haima*, sangue e *Sidero*, ferro. A hemossiderina é um pigmento anormal microscópico, de cor amarelo-dourado ou pardo de aspecto granuloso ou cristalino, endógena, encontrado no corpo humano resultante da degradação das hemácias ou após oferta excessiva do metal pela dieta (e.g., alimentos)."
+    },
+    {
+      "id": "h-28",
+      "key": "Heparina",
+      "keyNormalized": "heparina",
+      "markdown": "Heparina \\- do grego *Hepar*, fígado. A heparina foi assim chamada por ser encontrada inicialmente no fígado."
+    },
+    {
+      "id": "h-29",
+      "key": "Hepático",
+      "keyNormalized": "hepatico",
+      "markdown": "Hepático – dogrego *Hepatykós*, relativo ao fígado e *Hepar*, fígado."
+    },
+    {
+      "id": "h-30",
+      "key": "Hepatócito",
+      "keyNormalized": "hepatocito",
+      "markdown": "Hepatócito \\- do grego *Hepar*, fígado e *Kytos*, célula. As células que constituem o fígado."
+    },
+    {
+      "id": "h-31",
+      "key": "Hereditariedade",
+      "keyNormalized": "hereditariedade",
+      "markdown": "Hereditariedade \\- *do latim Here*, herdeiro. Seria a transmissão de caracteres físicos ou outros, dos pais para a prole."
+    },
+    {
+      "id": "h-32",
+      "key": "Hereditário",
+      "keyNormalized": "hereditario",
+      "markdown": "Hereditário – *do latim Here*, herdeiro. Que passa por hereditariedade de uma geração para outra."
+    },
+    {
+      "id": "h-33",
+      "key": "Hermafrodita",
+      "keyNormalized": "hermafrodita",
+      "markdown": "Hermafrodita \\- filho de *Hermes* e de *Aphodite* que herdou abeleza de ambos. Hermes \\= mercúrio e Afrodite – Vênus. Ao banhar-se na fonte de Sálmacis, a ninfa que aí vivia, apaixonou-se por ele. Ele recusou-a, mas a ninfa obteve dos deuses o poder de unir-se a ele para sempre e tornaram-se um único ser com ambos os sexos."
+    },
+    {
+      "id": "h-34",
+      "key": "Hetero",
+      "keyNormalized": "hetero",
+      "markdown": "Hetero \\- Prefixo grego *Heteros*, que significa dissemelhança, diferença, um ou outro entre ambos."
+    },
+    {
+      "id": "h-35",
+      "key": "Heterocromatina",
+      "keyNormalized": "heterocromatina",
+      "markdown": "Heterocromatina \\- do grego *Heteros*, diferente, distinto e *Chroma*, cor. Densidades diferentes de cor no interior do núcleo. Este termo foi utilizado pela primeria vez por Heitz em 1928 para designar alterações de cor na cromatina. As regiões densamente coradas dentro de um núcleo são chamadas de heterocromáticas, e as regiões pouco coradas são chamadas de eucromaticas. A distinção reflete o grau de compactação ou helicoidização do DNA no cromossoma."
+    },
+    {
+      "id": "h-36",
+      "key": "Heterocrômico",
+      "keyNormalized": "heterocromico",
+      "markdown": "Heterocrômico \\- do grego *Heteros*, diferente, um ou outro entre dois e *Chroma*, cor. Densidades diferentes de cor."
+    },
+    {
+      "id": "h-37",
+      "key": "Heterogêneo",
+      "keyNormalized": "heterogeneo",
+      "markdown": "Heterogêneo \\- do grego *Heteros*, diferente e *Genos*, origem."
+    },
+    {
+      "id": "h-38",
+      "key": "Heterólogo",
+      "keyNormalized": "heterologo",
+      "markdown": "Heterólogo \\- do grego *Heteros*, diferente e *Log(o),* relação, direito. Derivado ou procedente de uma espécie distinta da espécie de referência."
+    },
+    {
+      "id": "h-39",
+      "key": "Heteropicnose",
+      "keyNormalized": "heteropicnose",
+      "markdown": "Heteropicnose – do grego *Heteros*, que significa dissemelhança, um ou outro entre ambos, e *Picnose*, denso. Representa a porção dos cromossomas que aparecem mais densos no interior do núcleo. Geneticamente seriam as porções menos ativas dos cromossomas."
+    },
+    {
+      "id": "h-40",
+      "key": "Heterossoma",
+      "keyNormalized": "heterossoma",
+      "markdown": "Heterossoma \\- do grego *Hetero*, diferente e *Soma*, corpo. Cromossomas responsáveis pelo sexo do individuo XX para mulher, XY para o homem."
+    },
+    {
+      "id": "h-41",
+      "key": "Heterotrófico",
+      "keyNormalized": "heterotrofico",
+      "markdown": "Heterotrófico \\- do grego *Hétero*; diferente; *Trophé*, nutrição; Mia o sufico *Ico*, natureza de. Designação dada aos seres que, são incapazes de sintetizar sua própria matéria orgânica à custa de substâncias inorgânicas obtidos do meio ambiente. Para isso procuram-na em organismos de outras espécies ou na matéria em decomposição no ambiente, usando recursos como o predatismo, o parasitismo e o comensalismo."
+    },
+    {
+      "id": "h-42",
+      "key": "Heterozigoto",
+      "keyNormalized": "heterozigoto",
+      "markdown": "Heterozigoto – do grego *Hetero*, diferente e *Zygötus*, conjugado. Individuos que apresentam diferentes alelos nos cromossomas homólogos."
+    },
+    {
+      "id": "h-43",
+      "key": "Hialino",
+      "keyNormalized": "hialino",
+      "markdown": "Hialino \\- do grego *Hyalos*, vidro, transparente."
+    },
+    {
+      "id": "h-44",
+      "key": "Hialóideo",
+      "keyNormalized": "hialoideo",
+      "markdown": "Hialóideo – do grego *Hyalos*, cristal, vidro e *Oides*, forma de."
+    },
+    {
+      "id": "h-45",
+      "key": "Hialômero",
+      "keyNormalized": "hialomero",
+      "markdown": "Hialômero – do grego *Hyalos*, vidro, transparente e *Mer*(o), parte. Anel periférico incolor das plaquetas sanguíneas formado por microtúbulos que ajuda a manter sua forma."
+    },
+    {
+      "id": "h-46",
+      "key": "Hialoplasma",
+      "keyNormalized": "hialoplasma",
+      "markdown": "Hialoplasma \\- do grego *Hyalos*, vidro, transparente; e *Plassos*, molde. O citoplasma é preenchido por uma matéria coloidal e semifluída denominada hialoplasma, e neste fluido estão suspensos os organelos celulares."
+    },
+    {
+      "id": "h-47",
+      "key": "Hialurônico",
+      "keyNormalized": "hialuronico",
+      "markdown": "Hialurônico \\- do grego *Hyalo*, transparente, vidro. Substância encontrada em abundância no meio extracelular."
+    },
+    {
+      "id": "h-48",
+      "key": "Hiato",
+      "keyNormalized": "hiato",
+      "markdown": "Hiato \\- do grego *Hiatus*, abertura. Hiato é o nome dado, em anatomia, para aberturas que existem no corpo que permitem a passagem de estruturas."
+    },
+    {
+      "id": "h-49",
+      "key": "Hibridização",
+      "keyNormalized": "hibridizacao",
+      "markdown": "Hibridização – do latim *Hibrid*, híbrido e *Ā-tiōn(em*), processo de ação. Formação de híbridos pelo processo de cruzamento entre espécies diferentes."
+    },
+    {
+      "id": "h-50",
+      "key": "Hibrido",
+      "keyNormalized": "hibrido",
+      "markdown": "Hibrido \\- do latim Hybrida, mestiço. A prole dois indivíduos que diferem em um ou mais caracteres hereditários; um heterozigótico."
+    },
+    {
+      "id": "h-51",
+      "key": "Hidrófilo",
+      "keyNormalized": "hidrofilo",
+      "markdown": "Hidrófilo \\- do grego *Hydor*, água e *Phil(o),* amigo de. O que gosta de água."
+    },
+    {
+      "id": "h-52",
+      "key": "Hidrófobo",
+      "keyNormalized": "hidrofobo",
+      "markdown": "Hidrófobo \\- do grego *Hydor*, água e *Phobos*, temor, medo. O que não gosta de água."
+    },
+    {
+      "id": "h-53",
+      "key": "Hidrogênio",
+      "keyNormalized": "hidrogenio",
+      "markdown": "Hidrogênio \\- do grego *Hydor*, água e *Gennao*, produzo."
+    },
+    {
+      "id": "h-54",
+      "key": "Hidrólise",
+      "keyNormalized": "hidrolise",
+      "markdown": "Hidrólise \\- do grego *Hydor*, água e *Lysis*, decomposição."
+    },
+    {
+      "id": "h-55",
+      "key": "Hilo",
+      "keyNormalized": "hilo",
+      "markdown": "Hilo – do latim *Hilum*, hilo. Esta palavra era usada pelos romanos para designar o olho negro de uma fava (especialmente o feijão), isto é, a marca do local onde ela ficava aderida à vagem. O termo foi inicialmente aplicado ao rim (provavelmente por causa de sua forma), para o local onde penetravam os vasos sanguineos."
+    },
+    {
+      "id": "h-56",
+      "key": "Hímen",
+      "keyNormalized": "himen",
+      "markdown": "Hímen \\- do grego *Hymen*, membrana. Na mitologia grega, *Hymen* era o deus do casamento e seu culto era celebrado durante as núpcias do casal. *Hymeneu* era o nome do conjunto de hinos cantados durante a cerimônia. Na anatomia grega, a palavra não tinha significado especial, podendo nomear qualquer membrana, como o pericárdio, peritônio etc. Vesálio em 1550 parece ter sido um dos primeiros anatomista a usar o termo especificamente para a membrana que se situa no vestíbulo da vagina."
+    },
+    {
+      "id": "h-57",
+      "key": "Hióide",
+      "keyNormalized": "hioide",
+      "markdown": "Hióide – do grego *Hyo*, letra U e *Oides*, forma de. O osso foi descrito por Herófilo e, inicialmente chamou-se *Ipsiloides* (forma da letra Y). É um osso que se situa na parte anterior do pescoço humano. Não está articulado com mais nenhum osso. É apenas suportado pelos músculos do pescoço. Suporta, por sua vez, a base da língua."
+    },
+    {
+      "id": "h-58",
+      "key": "Hipercrômico",
+      "keyNormalized": "hipercromico",
+      "markdown": "Hipercrômico \\- do grego *Hyper*, excesso e *Chroma*, cor."
+    },
+    {
+      "id": "h-59",
+      "key": "Hiperemia",
+      "keyNormalized": "hiperemia",
+      "markdown": "Hiperemia \\- do grego *Hyper*, excesso; *Haima*, sangue e *Ia*, estado. Aumento de sangue em determinada parte do corpo."
+    },
+    {
+      "id": "h-60",
+      "key": "Hiperplasia",
+      "keyNormalized": "hiperplasia",
+      "markdown": "Hiperplasia \\- do grego *Hyper*, excesso e *plasis*, formação. Crescimento devido à proliferação celular, ou seja, aumento no número de células."
+    },
+    {
+      "id": "h-61",
+      "key": "Hipertrofia",
+      "keyNormalized": "hipertrofia",
+      "markdown": "Hipertrofia \\- do grego *Hyper*, excesso e *Trophe*, nutrição. Crescimento devido ao aumento do tamanho das células, e não do número."
+    },
+    {
+      "id": "h-62",
+      "key": "Hipocampo",
+      "keyNormalized": "hipocampo",
+      "markdown": "Hipocampo – do grego *Hyppokampos*, cavalo marinho; *Hippos*, cavalo e *Kámpos*, monstro marinho. Na mitologia grega, *hippokampos* era o nome dos animais marinhos atrelados ao carro-concha do deus dos mares Poseidon (Netuno, para os romanos). A parte anterior do corpo era em forma de cavalo e a parte posterior exibia uma longa cauda de peixe enrolada. Estes animais eram frequentemente esculpidos nas fontes romanas, sendo considerados de bom agouro. Giulio Cesare Arancio (1560) foi o primeiro a usar o termo para designar o hipocampo do cérebro, talvez pelasemelhança deste com a pata do animal mitológicio. Plinio usou o mesmo termo para nomear peixes teleósteos (os cavalos marinhos). Uma pequena parte do hipocampo ficou conhecida como “corno de Ammon” e duas são as possíveis explicações para seu nome. Para uns, a secção transversal da parte posterior do hipocampo assemelha-se a um chifre de carneiro (Ammon era um deus Egipcio rrepresentado por uma cabeça de carneiro). Para outros, é epônimo derivado do nome do anatomista que descreveu esta formação em detalhes (Friedrich August Von Ammon – 1799-1861)."
+    },
+    {
+      "id": "h-63",
+      "key": "Hipocôndrio",
+      "keyNormalized": "hipocondrio",
+      "markdown": "Hipocôndrio – do grego *Hypo*, abaixo, sob; *Chondros*, cartilagem Hipocrômico \\- do grego *Hypo*, abaixo e *Chroma*, cor. De cor desbotada."
+    },
+    {
+      "id": "h-64",
+      "key": "Hipoderme",
+      "keyNormalized": "hipoderme",
+      "markdown": "Hipoderme \\- do grego *Hypo*, abaixo e *Derma*, pele. Hipoderme ou tecido celular subcutâneo é uma camada de tecido conjuntivo frouxo, localizada abaixo da derme."
+    },
+    {
+      "id": "h-65",
+      "key": "Hipófise",
+      "keyNormalized": "hipofise",
+      "markdown": "Hipófise \\- do grego *Hypo*, sob e *Physis*, crescimento. Assim denominada por “crescer sob o encéfalo”. A hipófise é uma pequena glândula em forma de ervilha que pende da base do encéfalo, imediatamente por baixo do hipotálamo, situada dentro de uma concavidade do osso esfenóide conhecida como sela turca."
+    },
+    {
+      "id": "h-66",
+      "key": "Hipogástrico",
+      "keyNormalized": "hipogastrico",
+      "markdown": "Hipogástrico \\- do grego *Hypo*, baixo e *Gaster*, estômago."
+    },
+    {
+      "id": "h-67",
+      "key": "Hipoglosso",
+      "keyNormalized": "hipoglosso",
+      "markdown": "Hipoglosso \\- do grego *Hypo*, sob e *Glossa*, língua. Foi Jacob Winslow quem deu o nome ao nervo."
+    },
+    {
+      "id": "h-68",
+      "key": "Hiponíquio",
+      "keyNormalized": "hiponiquio",
+      "markdown": "Hiponíquio – do grego *Hypo*, abaixo, sob e *Onykon*, unha."
+    },
+    {
+      "id": "h-69",
+      "key": "Hipotálamo",
+      "keyNormalized": "hipotalamo",
+      "markdown": "Hipotálamo \\- do grego *Hypo*, abaixo e *Thalamos*, câmara interna."
+    },
+    {
+      "id": "h-70",
+      "key": "Hipotenar",
+      "keyNormalized": "hipotenar",
+      "markdown": "Hipotenar – Fo grego *Hypo*, abaixo, sob e *Thénar*, palma da mão. Literalmente *Thénar*, significa a parte da mão com que se agride, do grego *Teino*, bater, espancar e daí o nome da palma da mão. Rufo de Éfeso usou o termo hipotenar para todas as pequenas eminências palmares nas bases de cada um dos quatro dedos da mão (do indicador ao mínimo). Posteriormente, o termo ficou restrito apenas à eminência do último dedo."
+    },
+    {
+      "id": "h-71",
+      "key": "Hirco",
+      "keyNormalized": "hirco",
+      "markdown": "Hirco – do latim *Hircus*, bode. O termo refere-se aos pelos da axila por causa do odor que exalam, semelhante ao do pelo do bode."
+    },
+    {
+      "id": "h-72",
+      "key": "Hirsutismo",
+      "keyNormalized": "hirsutismo",
+      "markdown": "Hirsutismo \\- do latim *Hirusutus*, cabeludo ou peludo e *Ismo*, estado."
+    },
+    {
+      "id": "h-73",
+      "key": "Histamina",
+      "keyNormalized": "histamina",
+      "markdown": "Histamina \\- do grego *Histos*, tecido mais a palavra amina. Esta palavra foi criada para designar certos derivados da amônia. Esta amina é derivada da histidina, e tem ação vaso dilatadora, sendo liberada principalmente por células chamadas mastócitos."
+    },
+    {
+      "id": "h-74",
+      "key": "Histiócito",
+      "keyNormalized": "histiocito",
+      "markdown": "Histiócito \\- do grego *Histion*, tecido e *Kytos*, célula. Este termo foi criado por Aschoff e Kiyono em 1913, par designar grandes células que realizam fagocitose no sistema retículo-endotelial."
+    },
+    {
+      "id": "h-75",
+      "key": "Histogênese",
+      "keyNormalized": "histogenese",
+      "markdown": "Histogênese \\- do grego *Histos*, tecido e *Géne-sis*, gerar, formar. Como se formam ou diferenciam os tecidos."
+    },
+    {
+      "id": "h-76",
+      "key": "Histologia",
+      "keyNormalized": "histologia",
+      "markdown": "Histologia \\- do grego *Histos*, tecido e *Logos*, estudo. A palavra **tecido** deriva do Frances *Tissue*, que significa trama ou textura. A palavra tecido entrou em uso anatômico principalmente em virtude do trabalho e das obras de Bichat, um jovem e brilhante anatomista francês (1771-1802). Quando dissecava cadáveres ficou impressionado com o fato de que várias camadas e estruturas que descreveu ou dissecou eram de trama ou textura diferentes. Deve ser mencionado que a\n\n\nprimeira classificação dos tecidos foi feita por Bichat feita sem o auxilio do microscópio, pois se recusava a usar este instrumento. Atualmente Histologia é a Disciplina que estudo os tecidos e os órgãos exclusivamente ao microscópio, embora tenha começado com um anatomista que se recusava a usar este instrumento."
+    },
+    {
+      "id": "h-77",
+      "key": "Histona",
+      "keyNormalized": "histona",
+      "markdown": "Histona \\- A palavra \"*Histona*\" é datada do fim, do século XIX e deriva da palavra alemã \"*Histon*\", de origem incerta: talvez do grego *Histanai* ou de *Histos*, tecido. Em biologia, as histonas são as principais proteínas que compõem a cromatina. Atuam como a matriz na qual o DNA se enrola. Têm um papel importante na regulação dos genes. São encontradas no núcleo das células eucariotas. As histonas das *Archaea* (procarióticas) são semelhantes às histonas percursoras nos eucariotas. As histonas foram descobertas em 1884 por Albrecht Kossel."
+    },
+    {
+      "id": "h-78",
+      "key": "Histoquímica",
+      "keyNormalized": "histoquimica",
+      "markdown": "Histoquímica \\- do grego *Histos*, tecido e *Khymei*, química, alquimia e *Ikē*, estudo, técnica. Parte da Histologia dedicada ao estudo dos tecidos do ponto de vista de sua composição química."
+    },
+    {
+      "id": "h-79",
+      "key": "Holoblástico",
+      "keyNormalized": "holoblastico",
+      "markdown": "Holoblástico \\- do grego *Holos*, inteiro e *Blastos*, germe. É a clivagem na qual a célula-ovo inteira se divide.\n\nHolócrino *(a)* \\- do grego *Holos*, todo e *Krynos*, secreção, *Krinein*, segregar, separar. Este termo foi criado por Ranvier em 1887 para designar glândulas cuja secreção resulta da lise das células secretoras, tais como as sebáceas, em que a célula secretora é eliminada juntamente com a secreção."
+    },
+    {
+      "id": "h-80",
+      "key": "Homologia",
+      "keyNormalized": "homologia",
+      "markdown": "Homologia – Do grego *Homo(io),* igual e *Log(o),* relação, origem. Que tem a mesma origem filogenética, mas que podem ter funções diferentes."
+    },
+    {
+      "id": "h-81",
+      "key": "Homozigoto",
+      "keyNormalized": "homozigoto",
+      "markdown": "Homozigoto \\- – Do grego *Homo(io),* igual e *Zygötus*, conjugado."
+    },
+    {
+      "id": "h-82",
+      "key": "Horizontal",
+      "keyNormalized": "horizontal",
+      "markdown": "Horizontal – do grego *Horizontos*, linha que limita a região terreste visível."
+    },
+    {
+      "id": "h-83",
+      "key": "Hormônio",
+      "keyNormalized": "hormonio",
+      "markdown": "Hormônio \\- do grego *Horman*, excitar, estimular. Este termo foi criado por Starling e Vesey em 1905, a partir do participio da palavra Hormôn que significa impulsionar. Representa o produto da secreção de certos órgãos de corpo de animais ou de plantas, que, transportado pelo sangue ou pela seiva dos vegetais, excita, inibe ou regula a atividade de outros órgãos ou sistema de órgãos."
+    },
+    {
+      "id": "h-84",
+      "key": "Humor",
+      "keyNormalized": "humor",
+      "markdown": "Humor \\- do latim *Humor*, líquido. As origens da palavra \"*humor*\" assentam-se na medicina humoral dos antigos Gregos, que é uma mistura de fluídos, ou humores, controlados pela saúde e emoção humanas. Existe ainda a forma do latim *Humore* é uma forma de entretenimento e de comunicação humana, para fazer com que as pessoas riam e se sintam felizes."
+    }
+  ]
+}

@@ -1,0 +1,425 @@
+{
+  "letter": "F",
+  "entries": [
+    {
+      "id": "f-1",
+      "key": "Face",
+      "keyNormalized": "face",
+      "markdown": "Face – do latim *Facies*, face."
+    },
+    {
+      "id": "f-2",
+      "key": "Fagocitose",
+      "keyNormalized": "fagocitose",
+      "markdown": "Fagocitose – do grego *Phagos*, comer. *Kyto*, célula. Esta palavra é utilizada em citologia para designar o englobamento de partículas sólidas pela célula."
+    },
+    {
+      "id": "f-3",
+      "key": "Fagosoma",
+      "keyNormalized": "fagosoma",
+      "markdown": "Fagosoma \\- do grego *Phagos*, comer e *Soma*, corpo. Vesícula rodeada por membrana que rodeia as partículas introduzidas no interior da célula por fagocitose."
+    },
+    {
+      "id": "f-4",
+      "key": "Falange",
+      "keyNormalized": "falange",
+      "markdown": "Falange – do grego *Phalanx*, tropa e soldados. A *phalanx* era uma formação especial (em fileiras consecutivas) de batalha da infantaria do exército grego. Aristóteles usou o termo para os ossos dos dedos, por causa de seu arranjo em fileira, um atrás do outro."
+    },
+    {
+      "id": "f-5",
+      "key": "Falciforme",
+      "keyNormalized": "falciforme",
+      "markdown": "Falciforme – do latim *Falx, Falcis*, foice, *Formis* em forma de."
+    },
+    {
+      "id": "f-6",
+      "key": "Falo",
+      "keyNormalized": "falo",
+      "markdown": "Falo – do grego *Phallo*, pênis."
+    },
+    {
+      "id": "f-7",
+      "key": "Falsa",
+      "keyNormalized": "falsa",
+      "markdown": "Falsa – dolatim *Spuria*, feminino de *Spurius*, falso, ilegítimo."
+    },
+    {
+      "id": "f-8",
+      "key": "Faringe",
+      "keyNormalized": "faringe",
+      "markdown": "Faringe – do grego *Pharynx*, goela. Entre os gregos, apalavra Pharynx era usualmente empregada no lugar de Larynx. E Galeno usava o termo para a parte laríngea da faringe. Talvez a palavra Pharynx tenha derivado do grego Pharanx, fenda."
+    },
+    {
+      "id": "f-9",
+      "key": "Fáscia",
+      "keyNormalized": "fascia",
+      "markdown": "Fáscia – do latim *Fascia*, faixa, cinta, *Fascis*, feixe. A palavra *Fascia* em latim tinha diversos significados, todos com a idéia de atadura. Assim podia dar nome às faixas que seguravam os cabelos, cinto feminino etc. Os *Fasci* eram feixes de varas atados por uma faixa larga, e de um machado numa das extremidades. O termo Fáscia para designar estruturas largas e fibrosas é recente, antes do século XV, todas as expansões de tecido conjuntivo eram chamadas de aponeuroses."
+    },
+    {
+      "id": "f-10",
+      "key": "Fascículo",
+      "keyNormalized": "fasciculo",
+      "markdown": "Fascículo – do latim *Fasciculus*, diminutivo de *Fascis*, feixe."
+    },
+    {
+      "id": "f-11",
+      "key": "Fase",
+      "keyNormalized": "fase",
+      "markdown": "Fase – do grego *Phan*, mostrar-se. Antigamente era utilizado na astronomia, ou seja, o aparecimento de um astro celeste. Em medicina representa cada um dos diferentes estados sucessivos de um fenomeno natural da doença."
+    },
+    {
+      "id": "f-12",
+      "key": "Fauce",
+      "keyNormalized": "fauce",
+      "markdown": "Fauce – do latim *Faux*, plural *Fauces*, passagem estreita, garganta. Na antiga casa romana o *Atrium* era o local mais famíliar. Entre este e um pátio externo, com pilares e caramanchões (*Peristylo*) Havia duas estreitas passagens, usada apenas pelos escravos, chamadas de *Fauces*. Celso utilizou a palavra no singular para denominar a passagem da boca para a faringe."
+    },
+    {
+      "id": "f-13",
+      "key": "Fecundação",
+      "keyNormalized": "fecundacao",
+      "markdown": "Fecundação – do latim *Fecun*, que é fértil. Fecundaçãoé o processo em que um espermatozóide penetra, num ovócito II (ou oócito)."
+    },
+    {
+      "id": "f-14",
+      "key": "Feminino",
+      "keyNormalized": "feminino",
+      "markdown": "Feminino – do latim *Feminina,* da mulher. *Femina*, mulher, fêmea."
+    },
+    {
+      "id": "f-15",
+      "key": "Femoral",
+      "keyNormalized": "femoral",
+      "markdown": "Femoral – do latim, *Femoris*, da coxa."
+    },
+    {
+      "id": "f-16",
+      "key": "Fêmur",
+      "keyNormalized": "femur",
+      "markdown": "Fêmur – do latim *Femur*, coxa. Há controvérsia quanto à origem desta palavra. Para uns, seria derivado de *Fero*, eu levo ou carrego; para outros, poderia ser derivado de *Feo*, eu gero, ou produzo, numa associação incerta com o sexo do filho ou com a cópula. A palavra latina *Coxa* tinha outro significado, igual a quadril, semelhante a *ílium*."
+    },
+    {
+      "id": "f-17",
+      "key": "Fenestra",
+      "keyNormalized": "fenestra",
+      "markdown": "Fenestra – do latim *fenestra* (singular), janela; *fenestrae* (plural), janelas."
+    },
+    {
+      "id": "f-18",
+      "key": "Fenômeno",
+      "keyNormalized": "fenomeno",
+      "markdown": "Fenômeno – do grego *Phain*, mostrar-se *O*, menos. Toda a manifestação que se torna evidente, tanto de ordem material quanto espiritual."
+    },
+    {
+      "id": "f-19",
+      "key": "Fenótipo",
+      "keyNormalized": "fenotipo",
+      "markdown": "Fenótipo – do grego *Phain*, mostra-se *Typ(o),* forma. Realização visível do genótipo em um determinado ambiente."
+    },
+    {
+      "id": "f-20",
+      "key": "Feocromo",
+      "keyNormalized": "feocromo",
+      "markdown": "Feocromo – do grego *Phaio*, escuro e *Khrōm(o),* cromo. Aplicam-se a estruturas histológicas que se evidenciam com os sais de cromo."
+    },
+    {
+      "id": "f-21",
+      "key": "Fermento",
+      "keyNormalized": "fermento",
+      "markdown": "Fermento – do latim *Fer(uēre),* ferver e *Mnetum*, se usa no sentido de alimento. Antigamente usa-va-se no sentido de levedura. Em química se utiliza no sentido de enzima."
+    },
+    {
+      "id": "f-22",
+      "key": "Ferormônio",
+      "keyNormalized": "ferormonio",
+      "markdown": "Ferormônio – do grego *Pher/phor*, levar; *Hormôn*, que impulsiona, que excita. Substâncias químicas produzidas por um organismo que serve como um estímulo para determinados comportamentos ou respostas fisiológicas."
+    },
+    {
+      "id": "f-23",
+      "key": "Feto",
+      "keyNormalized": "feto",
+      "markdown": "Feto – do latim *Feo, Fetu,* prole. Chama-se de feto o estágio de desenvolvimento intrauterino que tem início após a oitava semana da fecundação, onde já podem ser observados: braços, pernas, olhos, nariz e boca e vai até o fim da gestação. Após o parto, o feto passa a ser considerado um recém-nascido."
+    },
+    {
+      "id": "f-24",
+      "key": "Fibra",
+      "keyNormalized": "fibra",
+      "markdown": "Fibra – do latim *Fibra*, fio, fibra de planta. Vesálio utilizou esta palavra com o sentido que hoje se conhece, isto é, de estrutura com características rígidas, fibrosas."
+    },
+    {
+      "id": "f-25",
+      "key": "Diminutivo",
+      "keyNormalized": "diminutivo",
+      "markdown": "Diminutivo \\- Fibrila. Mas o termo, no latim antigo, denominava pequenos segmentos de órgãos (lóbulos)."
+    },
+    {
+      "id": "f-26",
+      "key": "Fibrila",
+      "keyNormalized": "fibrila",
+      "markdown": "Fibrila – do latim *Fibr*, fibra e *Illa*, pequeno. Diminutivo de fibra."
+    },
+    {
+      "id": "f-27",
+      "key": "Fibrina",
+      "keyNormalized": "fibrina",
+      "markdown": "Fibrina – do latim *Fibr(am),* fibra e *Īn(a),* substância química. Proteína do processo de coagulação do sangue que forma agregados com outras moléculas de fibrina e produz coágulos. Normalmente é encontrada no sangue em uma forma inativa, fibrinogênio, que pela ação da trombina é transformado em fibrina."
+    },
+    {
+      "id": "f-28",
+      "key": "Fibrinogênio",
+      "keyNormalized": "fibrinogenio",
+      "markdown": "Fibrinogênio – do latim *Fibr(am),* fibra e do grego *Gen*, que gera, que forma."
+    },
+    {
+      "id": "f-29",
+      "key": "Fibroblasto",
+      "keyNormalized": "fibroblasto",
+      "markdown": "Fibroblasto \\- do latim, *Fibros*, fibras e *Blastos*, germe, formador. Nome dado às células do tecido conjuntivo responsáveis pela síntese da matriz extracellar, em especial das fibras colágenas e elásticas. Secretam também glicosaminoglicanos, proteoglicanos e glicoproteínas multiadesivas. São células fusiformes que possuem inúmeros prolongamentos com núcleo grande, ovóide, com cromatina fina e nucléolo evidente."
+    },
+    {
+      "id": "f-30",
+      "key": "Fibrócito",
+      "keyNormalized": "fibrocito",
+      "markdown": "Fibrócito \\- do latim, *Fibros*, fibras e do grego *Kytos*, célula. São células oriundas dos fibroblastos de menor tamanho, com núcleo fusiforme, menor e mais escuro. Representam fibroblastos com menor atividade metabólica."
+    },
+    {
+      "id": "f-31",
+      "key": "Fibronectina",
+      "keyNormalized": "fibronectina",
+      "markdown": "Fibronectina – do latim *Fibr(am),* fibra; *Nec*, o que une e *In(a)* substância química. Principal proteína de união das células e das fibras."
+    },
+    {
+      "id": "f-32",
+      "key": "Fibroso",
+      "keyNormalized": "fibroso",
+      "markdown": "Fibroso – do latim, *Fibrosus*, provido ou feito de fibras."
+    },
+    {
+      "id": "f-33",
+      "key": "Fíbula",
+      "keyNormalized": "fibula",
+      "markdown": "Fíbula – do latim *Fibula*, alfinete, broche, *Figere*, cavar, espetar. Somente em meados do século XVI o termo teve uso anatômico. A palavra e a tradução do grego *Peroné*, alfinete. Em Roma, as fíbulas eram pequenas hastes de metal com dua pontas agudas usadas para prender vestimentas ou adornos. Posteriormente receberam adornos delicados na sua parte superior, ficando com a forma atual de um broche."
+    },
+    {
+      "id": "f-34",
+      "key": "Fígado",
+      "keyNormalized": "figado",
+      "markdown": "Fígado – do latim *Eecur* fígado. A origem deste termo é muito interessante, este termo designa especificamente os fígados de gansos alimentados com figos (*Ficus*), considerados como uma fina iguaria para banquetes (correspondente ao atual “patê de fois gras” Frances). O fato refere-se a que estes animais eram engordados com figos, ficando aumentados e com degeneração gordurosa devido à alimentação forçada. Este processo era chamado *Iecur Ficatus*, algo como “fígado preparado com figos”. Como acontece em tantas expressões, uma das palavras – *Iecur* – desapareceu e restou o *Ficatus*, que virou “fígado” e acabou nomeando o órgão. Depois passou a designar o órgão como um todo em qualquer animal inclusive no homem. Os adjetivos e outros termos derivados a ele referentes são construídos a partir do grego *Hepar*, *Hepátos*, que significa fígado."
+    },
+    {
+      "id": "f-35",
+      "key": "Filamento",
+      "keyNormalized": "filamento",
+      "markdown": "Filamento – do latim *Filamentum*, fio delgado e delicado."
+    },
+    {
+      "id": "f-36",
+      "key": "Filiforme",
+      "keyNormalized": "filiforme",
+      "markdown": "Filiforme – do latim *Fīl(um),* fio e *Forme(m),* que tem forma de. Que tem forma de fio."
+    },
+    {
+      "id": "f-37",
+      "key": "Filo",
+      "keyNormalized": "filo",
+      "markdown": "Filo – do grego *Phyl(o),* raça, origem. Grupo taxonômico de organismos que do ponto de vista evolutivo, tem um ancestral comum ou geneticamente relacionado."
+    },
+    {
+      "id": "f-38",
+      "key": "Filogenia",
+      "keyNormalized": "filogenia",
+      "markdown": "Filogenia \\- do grego *Phyl(o),* raça, origem e *Gen*, tornar-se. A história evolutiva de uma espécie ou grupo tque em um ancestral comum ou geneticamente relacionado."
+    },
+    {
+      "id": "f-39",
+      "key": "Fímbria",
+      "keyNormalized": "fimbria",
+      "markdown": "Fímbria – do latim *Fimbriae*, franja, orla. As túnicas romanas com *Fimbriae* nas suas extremidades eram sempre muito ricas (bordadas com gemas e fios de prata e outro) e eram somente usadas por pessoas de destaque em ocasiões especiais. Petronius tronou Julio Cesar famoso por divulgar seu gosto pelo luxo porque o ditador era frequentemente visto, em sistuações não cerimoniosas, trajando vestes orladas."
+    },
+    {
+      "id": "f-40",
+      "key": "Fissura",
+      "keyNormalized": "fissura",
+      "markdown": "Fissura – do latim *Fissum*, fenda"
+    },
+    {
+      "id": "f-41",
+      "key": "Flácido",
+      "keyNormalized": "flacido",
+      "markdown": "Flácido – do latim *Flaccidus*, mole, macio."
+    },
+    {
+      "id": "f-42",
+      "key": "Flagelo",
+      "keyNormalized": "flagelo",
+      "markdown": "Flagelo – do latim *Flagellu(m),* filamento que se move, pequeno chicote."
+    },
+    {
+      "id": "f-43",
+      "key": "Flexor",
+      "keyNormalized": "flexor",
+      "markdown": "Flexor – do latim *Flectere*, curvatura, e *Actor*, agente."
+    },
+    {
+      "id": "f-44",
+      "key": "Flexura",
+      "keyNormalized": "flexura",
+      "markdown": "Flexura – do latim *Flexura*, curvatura, dobradura."
+    },
+    {
+      "id": "f-45",
+      "key": "Foice",
+      "keyNormalized": "foice",
+      "markdown": "Foice – do latim *Falx*, foice."
+    },
+    {
+      "id": "f-46",
+      "key": "Folha",
+      "keyNormalized": "folha",
+      "markdown": "Folha – do latim *Folium*, folha."
+    },
+    {
+      "id": "f-47",
+      "key": "Foliada",
+      "keyNormalized": "foliada",
+      "markdown": "Foliada – do latim *Foliatum*, frondoso, com folhas."
+    },
+    {
+      "id": "f-48",
+      "key": "Folículo",
+      "keyNormalized": "foliculo",
+      "markdown": "Folículo – do latim *Folliculus*, diminutivo de *Follis*, fole, bolsa."
+    },
+    {
+      "id": "f-49",
+      "key": "Fontanela",
+      "keyNormalized": "fontanela",
+      "markdown": "Fontanela – do frânces *Fontanelle*, pequena fonte. O mesmo que fontículo. A palavra também pode ter sido derivada do italiano “*Fontanella*”, diminutivo de fonte, através de sua forma popular Fontana. O nome pode estar associado às pulsações no local, ou porque na idade média, os cirurgiões tentavam curar as doenças oculares ou nervosas mais graves cauterizando o ponto onde as suturas coronal e sagital se encontram (o local do fontículo anterior ou bregma). A ferida resultante era mantida aberta pela instilação de substâncias irritantes, na esperança que ai se formasse um canal por onde a matéria venosa pudesse ser expelida e é provável que a secreção ou o sangue minando da ferida lembrasse o fluir das águas de uma fonte."
+    },
+    {
+      "id": "f-50",
+      "key": "Forame",
+      "keyNormalized": "forame",
+      "markdown": "Forame – do latim *Foramen*, abertura, buraco e Foro, *Forare*, furar, transpassar. Uma abertura ou perfuração através de um osso, membrana ou divisão."
+    },
+    {
+      "id": "f-51",
+      "key": "Formação",
+      "keyNormalized": "formacao",
+      "markdown": "Formação – do latim *Formatio*, formação, *Formare*, formar."
+    },
+    {
+      "id": "f-52",
+      "key": "Fórnice",
+      "keyNormalized": "fornice",
+      "markdown": "Fórnice – do latim *Fornix*, abóboda, arco de porta. O mesmo que fórnix."
+    },
+    {
+      "id": "f-53",
+      "key": "Fórnix",
+      "keyNormalized": "fornix",
+      "markdown": "Fórnix – do latim *Fornix*, abobada, arco de porta. Era o nome dado pelos arquitetos romanos aos arcos de tijolos ou a um aposento com teto curvo. As prostitutas romanas mais pobres trabalhavam ao ar livre, à noite, debaixo dos arcos dos aquedutos. *Fornix* também era o nome da moradia baixa e abobadada (na realidade um porão úmido), abaixo do rio Tibre, onde elas viviam. Daí, em português a palavra fornicação com sentido sexual, Em anatomia, nomeia especialmente uma estrutura cerebral conhecida por Galeno e descrita por Vesálio."
+    },
+    {
+      "id": "f-54",
+      "key": "Fosco",
+      "keyNormalized": "fosco",
+      "markdown": "Fosco – do latim *Fuscus*, embaçado, sem brilho."
+    },
+    {
+      "id": "f-55",
+      "key": "Fossa",
+      "keyNormalized": "fossa",
+      "markdown": "Fossa – do latim *Fossa*, fosso, vala, *Fodiere*, cavar, furar, vasar."
+    },
+    {
+      "id": "f-56",
+      "key": "Fotoperíodo",
+      "keyNormalized": "fotoperiodo",
+      "markdown": "Fotoperíodo – do grego *Phos*, luz e *Periodos*, ciclo. Período de exposição de um animal ou planta à luz, considerado especialmente no que diz respeito ao efeito da luz na reprodução, crescimento e desenvolvimento."
+    },
+    {
+      "id": "f-57",
+      "key": "Fotorreceptor",
+      "keyNormalized": "fotorreceptor",
+      "markdown": "Fotorreceptor – do grego *Phot*, luz e do latim *Recipio*, receber. Receptor sensível à luz, por exemplo, um cone ou bastonete retiniano."
+    },
+    {
+      "id": "f-58",
+      "key": "Fóvea",
+      "keyNormalized": "fovea",
+      "markdown": "Fóvea – do latim *Fovea*, cova, poço."
+    },
+    {
+      "id": "f-59",
+      "key": "Franjada",
+      "keyNormalized": "franjada",
+      "markdown": "Franjada – do latim *Fimbriata*, com franjas."
+    },
+    {
+      "id": "f-60",
+      "key": "Frênico",
+      "keyNormalized": "frenico",
+      "markdown": "Frênico – do grego *Phenikos*, relativo à mente ou ao diafragma. Na ilíada *Phren* significava a região do coração ou o próprio órgão. Depois a palavra ficou restrita à região entre o coração e o fígado (região diafragmática) e como esta área era considerada a sede das emoções, do pensamento a da fala, o termo *Phren*, metaforicamente, passou a designar alma, mente."
+    },
+    {
+      "id": "f-61",
+      "key": "Frênulo",
+      "keyNormalized": "frenulo",
+      "markdown": "Frênulo – do latim *Frenulum*, diminutivo de *Frenum*, freio de animal."
+    },
+    {
+      "id": "f-62",
+      "key": "Frontal",
+      "keyNormalized": "frontal",
+      "markdown": "Frontal – do latim *Frontalis*, *Frons* ou *Frontis*, da testa."
+    },
+    {
+      "id": "f-63",
+      "key": "Fronte",
+      "keyNormalized": "fronte",
+      "markdown": "Fronte – do latim *Frons*, ou *Frontis*, testa."
+    },
+    {
+      "id": "f-64",
+      "key": "Fundamental",
+      "keyNormalized": "fundamental",
+      "markdown": "Fundamental \\- do latim *Fundus*, fundo, base. Que serve de fundamento, base."
+    },
+    {
+      "id": "f-65",
+      "key": "Fundo",
+      "keyNormalized": "fundo",
+      "markdown": "Fundo – do latim *Fundus*, fundo, base."
+    },
+    {
+      "id": "f-66",
+      "key": "Fungiforme",
+      "keyNormalized": "fungiforme",
+      "markdown": "Fungiforme – do latim *Fungus*, cogumelo, e *Formis*, em forma de."
+    },
+    {
+      "id": "f-67",
+      "key": "Funículo",
+      "keyNormalized": "funiculo",
+      "markdown": "Funículo – do latim *Funiculus*, diminutivo de *Funis*, corda, amarra."
+    },
+    {
+      "id": "f-68",
+      "key": "Fúrcula",
+      "keyNormalized": "furcula",
+      "markdown": "Fúrcula – do latim *Furcula*, diminutivo de *Furca*, forca, forcado de dois dentes."
+    },
+    {
+      "id": "f-69",
+      "key": "Fusiforme",
+      "keyNormalized": "fusiforme",
+      "markdown": "Fusiforme – do latim *Fusus*, fuso, roca, *Formis*, em forma de."
+    },
+    {
+      "id": "f-70",
+      "key": "Fuso",
+      "keyNormalized": "fuso",
+      "markdown": "Fuso \\- do latim *Fusus*, fuso, roca."
+    }
+  ]
+}

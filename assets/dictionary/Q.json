@@ -1,0 +1,83 @@
+{
+  "letter": "Q",
+  "entries": [
+    {
+      "id": "q-1",
+      "key": "Quadrado",
+      "keyNormalized": "quadrado",
+      "markdown": "Quadrado – do latim *Quadratus*, quadrado, que tem quatro lados."
+    },
+    {
+      "id": "q-2",
+      "key": "Quadriceps",
+      "keyNormalized": "quadriceps",
+      "markdown": "Quadriceps – do latim *Quadri*, quadro, e *Caput*, cabeça"
+    },
+    {
+      "id": "q-3",
+      "key": "Quadril",
+      "keyNormalized": "quadril",
+      "markdown": "Quadril – do latim *Quadrus*, esquadro, quadrado, equilibrado."
+    },
+    {
+      "id": "q-4",
+      "key": "Queratina",
+      "keyNormalized": "queratina",
+      "markdown": "Queratina – do grego *Kerat*, de textura córnea, e *In*, substância. Sustância protéica muito rica em enxofre, que constitue a parte fundamental das camadas mais externas da epiderme nos vertebrados."
+    },
+    {
+      "id": "q-5",
+      "key": "Queratinócito",
+      "keyNormalized": "queratinocito",
+      "markdown": "Queratinócito \\- do grego *Kerat*, de textura córnea, e *In*, substância e *Kytos*, célula. A célula mais freqüente da epiderme que sintetiza queratina."
+    },
+    {
+      "id": "q-6",
+      "key": "Quiasma",
+      "keyNormalized": "quiasma",
+      "markdown": "Quiasma \\- do grego *Chiasma*, duas linhas cruzadas. Também pode vir do termo grego *Schisma*, dividir. O nome da letra grega *Chi* maiúscula é X. O verbo grego *Chiazein* significava marcar um erro, mostrar um engano porque era costume os gregos antigos marcarem os erros à margem de um manuscrito com este sinal."
+    },
+    {
+      "id": "q-7",
+      "key": "Quilifero",
+      "keyNormalized": "quilifero",
+      "markdown": "Quilifero \\- do grego, *Chylos*, suco, secreção e do latim *Fer-u(m)/-a(m),* que leva. Termo aplicado aos vasos que levam o quilo ao sangue."
+    },
+    {
+      "id": "q-8",
+      "key": "Quilo",
+      "keyNormalized": "quilo",
+      "markdown": "Quilo \\- do grego, *Chylos*, suco, secreção. Aplica-se especialmente aos sucos produzidos pela digestão. Em grego, as palavras *Chylós* (quilo) e *Chymós* (quimo) eram quase idênticas, a primeira tendo o significado de uma secreção ou suco preparado, produzido; e a segunda, uma secreção, em estado natural. Galeno acreditava que o alimento digerido era absorvido nos intestinos e transportado ao fígado, através da veia porta, como *Chylós*, esto é, uma secreção já elaborada."
+    },
+    {
+      "id": "q-9",
+      "key": "Quimera",
+      "keyNormalized": "quimera",
+      "markdown": "Quimera – do grego *Khímaira*, cabra. Monstro mitológico com cabeça de leão e corpo de cabra. Da-se esse nome a um organismo criado artificialmente que se desenvolve de um embrião que se compõem de células de dios indivíduos diferentes, portanto de dois genótipos distintos; também se aplica ao fenômeno parecido produzido por inxertos."
+    },
+    {
+      "id": "q-10",
+      "key": "Quimiorreceptor",
+      "keyNormalized": "quimiorreceptor",
+      "markdown": "Quimiorreceptor – do grego *Khymei*, química e *O*, repetição, com intensidade e *Coger*, recibe e do latim *Tōr(em),* que faz. Receptores adaptados a estímulos químicos, assim como o paladar, o olfato ou nos corpos carótido ou aórtico."
+    },
+    {
+      "id": "q-11",
+      "key": "Quimo",
+      "keyNormalized": "quimo",
+      "markdown": "Quimo \\- do grego *Chymos*, suco."
+    },
+    {
+      "id": "q-12",
+      "key": "Quinase (cinase)",
+      "keyNormalized": "quinasecinase",
+      "markdown": "Quinase (cinase) – do grego *Kīn(ē),* mover e *Asa*, enzima. Substância enzimática que converte uma pró-enzima em uma enzima, especificamente transferindo um grupo fosforilado do ATP (ou fosfato de alta energia) para outra molécula aceptora."
+    },
+    {
+      "id": "q-13",
+      "key": "Quitina",
+      "keyNormalized": "quitina",
+      "markdown": "Quitina – do grego *Khit(ṓn),* túnica, camada e *In(a),* substância. Polímero de cadeia longa é o principal polissacarídeo da parede celular dos fungos e tambme forma o exoesqueleto dos artrópodes."
+    }
+  ]
+}

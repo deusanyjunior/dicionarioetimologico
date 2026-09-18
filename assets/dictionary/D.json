@@ -1,0 +1,317 @@
+{
+  "letter": "D",
+  "entries": [
+    {
+      "id": "d-1",
+      "key": "Dartos",
+      "keyNormalized": "dartos",
+      "markdown": "Dartos – do grego *Dartós*, esfolado, sem pele, *Deìrein*, esfolar. A palavra deriva do sânscrito *Dartis*, que significa couro e parece ter sido inicialmente usada para nomear preparações anatômicas sem a pele. Este termo foi utilizado pela primeira vez por Rufo de Éfeso para designar o revestimento externo dos testículos, por causa de sua aparência. A palavra *Dàrton*, em grego,\n\n\ndesignava uma espécie de túnica rústica, mas é pouco provável que o músculo tenha recebido daí seu nome."
+    },
+    {
+      "id": "d-2",
+      "key": "Decidua",
+      "keyNormalized": "decidua",
+      "markdown": "Decidua – do latim *Deciduus*, caído, que cai, *Decidere*, cair. Parte da zona funcional do endométrio que se modifica durante a gravidez e que é rejeitada ao nascimento."
+    },
+    {
+      "id": "d-3",
+      "key": "Decíduo",
+      "keyNormalized": "deciduo",
+      "markdown": "Decíduo – do latim *Deciduus*, caído, que cai, *Decidere*, cair. Termo que designa estruturas que se destacam naturalmente de seus suportes. Em anatomia nomeia os dentes da primeira dentição (dentes de “leite”) e, na forma feminina (Decídua), a parte do endométrio onde o ovo se implanta."
+    },
+    {
+      "id": "d-4",
+      "key": "Declive",
+      "keyNormalized": "declive",
+      "markdown": "Declive – dolatim, *Declivis*, ladeira, inclinação."
+    },
+    {
+      "id": "d-5",
+      "key": "Decúbito",
+      "keyNormalized": "decubito",
+      "markdown": "Decúbito \\- do latim *Decubitus*, deitado. É um termo médico que se refere à posição da pessoa que está deitada, não necessariamente dormindo. Pode ser referido como: Decúbito dorsal (pessoa que deita com a barriga voltada para cima; Decúbito ventral pessoa que se deita de bruços;"
+    },
+    {
+      "id": "d-6",
+      "key": "Decúbito lateral",
+      "keyNormalized": "decubitolateral",
+      "markdown": "Decúbito lateral \\- esquerdo ou direito). Alguns decúbitos preferidos podem ser sinais de algumas doenças cardíacas e pneumológicas."
+    },
+    {
+      "id": "d-7",
+      "key": "Decussação",
+      "keyNormalized": "decussacao",
+      "markdown": "Decussação – do latim *Decussatio*, cruzado, *Decussare*, cruzar. Nome popular de antiga moeda romana que trazia seu valor cunhado. O algarismo X."
+    },
+    {
+      "id": "d-8",
+      "key": "Dedo",
+      "keyNormalized": "dedo",
+      "markdown": "Dedo – do latim *Ditus*, *Digitus*, dedo da mão ou do pé. Na Roma antiga, *Digitus* era também o nome de uma medida de comprimento, equivalente a 1/16 avos do pé. O equivalente em grego é *Dáctylus.*"
+    },
+    {
+      "id": "d-9",
+      "key": "Deferente",
+      "keyNormalized": "deferente",
+      "markdown": "Deferente – do latim *Deferre*, depositar, trazer para baixo. O ducto deferente recebeu este nome de Berengário da Carpi (1500), renomado anatomista da escola pré-vesaliana. No sentido de trazer para baixo, o nome estaria mal colocado, pois o ducto, inicialmente, conduz os espermatozóides para cima."
+    },
+    {
+      "id": "d-10",
+      "key": "Delgado",
+      "keyNormalized": "delgado",
+      "markdown": "Delgado – do latim *Tenue*, fino, delgado, delicado. Dá nome à porção do tubo alimentar que se situa entre o estômago e o intestino grosso. O termo grego equivalente é *Dolychos* (longo), que tem sentido mais preciso."
+    },
+    {
+      "id": "d-11",
+      "key": "Deltóide",
+      "keyNormalized": "deltoide",
+      "markdown": "Deltóide – do grego *Delta*, letra D, *Òides*, forma de. A letra delta, maiúscula escreve-se Δ (em forma de triângulo isósceles). Inicialmente o termo era usado apenas em sentido geográfico, significando a foz do rio Nilo, em forma triangular. Foi Jean Riolan quem deu este nome ao músculo do cíngulo peitoral."
+    },
+    {
+      "id": "d-12",
+      "key": "Dendrito",
+      "keyNormalized": "dendrito",
+      "markdown": "Dendrito – do grego *Déndron*, árvore. Na histologia representam as ramificações citoplasmáticas do neurônio, que partem do corpo da célula. Servem para ampliar a área de recepção eletroquímica recebida de outras células neurais para o corpo celular ou soma."
+    },
+    {
+      "id": "d-13",
+      "key": "Dente",
+      "keyNormalized": "dente",
+      "markdown": "Dente – do latim *Dente*, dente. A palavra parece ser uma forma abreviada de *Edens*, comestível, associada à *Edare*, comer. O plural de *Dens* é *Dentes*. A palavra grega para dente é *Odous* que, em português deu “Odonto” e é usada como afixo. Em anatomia também qualquer projeção ou saliência semelhante a um dentel (processo odontóide). O equivalente grego é *Odous*, *Ontos*."
+    },
+    {
+      "id": "d-14",
+      "key": "Denteado",
+      "keyNormalized": "denteado",
+      "markdown": "Denteado – do latm *Dentatus*, que tem dentes, dentado."
+    },
+    {
+      "id": "d-15",
+      "key": "Denticulado",
+      "keyNormalized": "denticulado",
+      "markdown": "Denticulado – do latim *Denticulatus*, com pequenos dentes. Os ligamentos denticulados da pia-mater foram notados pela primeria vez por Casper Bauhin."
+    },
+    {
+      "id": "d-16",
+      "key": "Dentina",
+      "keyNormalized": "dentina",
+      "markdown": "Dentina – do latim *Dentina*, substância dentária. Termo introduzido por Owen, composto de *Dens*\n\ne o sufixo *Ina*, substância."
+    },
+    {
+      "id": "d-17",
+      "key": "Depressor",
+      "keyNormalized": "depressor",
+      "markdown": "Depressor – do latim *Deprimere*, abaixar, descer e *Actor*, agente."
+    },
+    {
+      "id": "d-18",
+      "key": "Dermátomo",
+      "keyNormalized": "dermatomo",
+      "markdown": "Dermátomo – do grego *Derm*, pele, *Tomos*, corte. È uma palavra que significa literalmente \"corte de pele\". Um dermátomo é uma área da pele que é inervada por fibras nervosas que se originam de um único gânglio nervoso dorsal."
+    },
+    {
+      "id": "d-19",
+      "key": "Derme",
+      "keyNormalized": "derme",
+      "markdown": "Derme – do grego *Derma*, couro, pele. A palavra em português é masculina, portanto, o correto é o derma ou o derme. Alguns etimologistas preferem a forma derma ao invés de derme, que alegam ser anglicismo inútil. Mas, quanto ao gênero masculino, todos os lingüistas concordam."
+    },
+    {
+      "id": "d-20",
+      "key": "Descendente",
+      "keyNormalized": "descendente",
+      "markdown": "Descendente – do latim *Descenden,* que desce e *Descendere*, descer."
+    },
+    {
+      "id": "d-21",
+      "key": "Desmossoma",
+      "keyNormalized": "desmossoma",
+      "markdown": "Desmossoma – do grego *Desmo*, atadura, ligamento e *Soma,* corpo, corpúsculo. Espessamento especializado da membrana celular de algumas células que serve para fixá-las às células adjacentes."
+    },
+    {
+      "id": "d-22",
+      "key": "Detrusor",
+      "keyNormalized": "detrusor",
+      "markdown": "Detrusor – do latim *Detrudere*, repelir, expulsar, e *Actor*, agente."
+    },
+    {
+      "id": "d-23",
+      "key": "Diafanizar",
+      "keyNormalized": "diafanizar",
+      "markdown": "Diafanizar – do grego *Diáfanos,* transparente."
+    },
+    {
+      "id": "d-24",
+      "key": "Diáfise",
+      "keyNormalized": "diafise",
+      "markdown": "Diáfise – do grego *Dia*, entre, através, e *Physis*, sulco, crescimento. Em anatomia, a palavra foi inicialmente usada poro Platão para nomear ligamentos articulares e só passou a designar a parte média do osso longo – situada entre as extremidades “que crescem” – após os termos *Epiphysis* e *Apophysis* terem sido aplicados ao osso. Atualmente permanece apenas com esse significado. È interessante saber que este termo, na linguagem grega coloquial, também tinha outros sentidos como o “desabrochar de uma flor ou de um adolescente”, o “intervalo entre dois dentes” e “mancha na casa de um fruto”."
+    },
+    {
+      "id": "d-25",
+      "key": "Diafragma",
+      "keyNormalized": "diafragma",
+      "markdown": "Diafragma – do grego *Dia*, entre, através, e *Phagma*, parede, cerca. No início, usado para qualquer parede divisória ou septo (como o palato), o termo foi depois especificamente empregado por Galeno para desognar apenas o músuclo que separa as cavidades toráxica e abdominopélvica, Celso chamava-o *Seputm transversus*."
+    },
+    {
+      "id": "d-26",
+      "key": "Diagnóstico",
+      "keyNormalized": "diagnostico",
+      "markdown": "Diagnóstico – do grego *Diayvon*, discernimento, decisão. É o processo que se utiliza para chegar a uma conclusão. É também o nome dado à conclusão em si mesma. Em medicina, diagnóstico é a parte da consulta médica, ou do atendimento médico, voltada à identificação de uma eventual doença. Um conjunto de dados, formado a partir de sinais e sintomas, do histórico clínico, do exame físico e dos exames complementares (laboratoriais etc), é analisado pelo profissional de saúde e sintetizado em uma ou mais doenças. A partir dessa síntese, é feito o planejamento para a eventual intervenção (o tratamento) e/ou uma previsão da evolução (prognóstico) baseada no quadro apresentado"
+    },
+    {
+      "id": "d-27",
+      "key": "Diagonal",
+      "keyNormalized": "diagonal",
+      "markdown": "Diagonal – do grego *Dia*, entre, através e *Gonon*, ângulo."
+    },
+    {
+      "id": "d-28",
+      "key": "Diâmetro",
+      "keyNormalized": "diametro",
+      "markdown": "Diâmetro – do grego Dia, *entre*, através e *Metron*, medida, tamanho."
+    },
+    {
+      "id": "d-29",
+      "key": "Diástema",
+      "keyNormalized": "diastema",
+      "markdown": "Diástema – do grego *Diastema*, espaço, intervalo e *Dia*, entre, através e *Temein*, afastar."
+    },
+    {
+      "id": "d-30",
+      "key": "Dictiocinese",
+      "keyNormalized": "dictiocinese",
+      "markdown": "Dictiocinese – do grego *Dikty*(o), corpusculo celular e *Kīnēsi*(s), movimento. Migração e distribuição de dictiossomos para as células-filhas na mitose. Dictiossomos denominados corpos de Golgi, os dictiossomas são grupos de sáculos ou cisternas achatados, em forma de disco, que em geral se apresentam ramificados."
+    },
+    {
+      "id": "d-31",
+      "key": "Diencéfalo",
+      "keyNormalized": "diencefalo",
+      "markdown": "Diencéfalo – do grego *Dia*, entre, através e *Enkephalous*, cérebro. Aqui a palavra significa “o que esta entre o cérebro”, isto, é entre os dois hemisférios cerebrais."
+    },
+    {
+      "id": "d-32",
+      "key": "Diérese",
+      "keyNormalized": "dierese",
+      "markdown": "Diérese – do grego *Dierese*, dividir, separar. Em cirurgia, é o nome dado ao processo de divisão (corte) dos tecidos que possibilita o acesso a região a ser operada."
+    },
+    {
+      "id": "d-33",
+      "key": "Digástrico",
+      "keyNormalized": "digastrico",
+      "markdown": "Digástrico – do grego *Di*, dois, duplo e *Gastrikos*, relativo a ventre. Galeno usou este termo para designar o músculo supra-hióideo. Vesálio apenas o numerava e Albinus chamou-o de *biventer maxillae*. O termo foi introduzido por Riolan e adotado pro Douglas, persistindo a partir de então."
+    },
+    {
+      "id": "d-34",
+      "key": "Digestório",
+      "keyNormalized": "digestorio",
+      "markdown": "Digestório – do latim *Digestorium*, local de distribuição digestão."
+    },
+    {
+      "id": "d-35",
+      "key": "Digital",
+      "keyNormalized": "digital",
+      "markdown": "Digital – do latim *Digitalis*, relativo a ou em forma de dedo, *Digitus*, dedo."
+    },
+    {
+      "id": "d-36",
+      "key": "Dilatador",
+      "keyNormalized": "dilatador",
+      "markdown": "Dilatador – do latim *Dilatare*, alargar, ampliar e *Actor*, agente."
+    },
+    {
+      "id": "d-37",
+      "key": "Díploe",
+      "keyNormalized": "diploe",
+      "markdown": "Díploe – do grego Diploè, cobertura, *Diplòos*, duplo. Hipócrates usava o termo para as camadas fasciais que cobriam os ossos do crânio, mas Ruffo utilizava-o para o tecido entre as lâminas compactas dos ossos da abóbada craniana. Após os trabalhos de Breschet, em 1830, este sentido prevaleceu. Nos primórdios da cirurgia, a palavra foi utilizada para designar uma dobra de tecido com compressa ou gaze no seu interior."
+    },
+    {
+      "id": "d-38",
+      "key": "Diplóide",
+      "keyNormalized": "diploide",
+      "markdown": "Diplóide – do grego *Diplòos*, duplo. As células somáticas são ditas diplóides, ou seja, apresentam o dobro do número de cromossomas presente nas células germinativas. Pois são oriundas da junção dos cromossomas presentes nas células germinativas (ovócito e espermatozóide), que são ditas haplóides."
+    },
+    {
+      "id": "d-39",
+      "key": "Diplossomo",
+      "keyNormalized": "diplossomo",
+      "markdown": "Diplossomo \\- do grego *Diplòos*, duplo e *Soma*, corpo. A denominação diplossomo corresponde ao par de centríolos presente no interior do centro celular, próximo do núcleo, em disposição perpendicular, um em relação ao outro, sendo que um deles sempre estará orientado entre o núcleo e a membrana plasmática. Este par centriolar, não esta presente nas células dos vegetais superiores, fungos e algas."
+    },
+    {
+      "id": "d-40",
+      "key": "Direito",
+      "keyNormalized": "direito",
+      "markdown": "Direito – do Latim *Dexter*, direito, que está à direita. Os termos direito e esquerdo estão associados a antigos rituais de adoração ao Deus-Sol. Os heliólatras, que voltavam à face para o sol nascente (leste), apontavam o sul com a mão direita, dita que consideravam a “mão quente” enquanto a mão esquerda, dita “mão fria”, apontava o norte (onde o clima era mais frio). Daí, a destreza ou habilidade estarem associados à mão direita enquanto os atos advindos da mão esquerda serem consideredos desarmoniosos ou mal-afortunados."
+    },
+    {
+      "id": "d-41",
+      "key": "Disco",
+      "keyNormalized": "disco",
+      "markdown": "Disco – do latim *Discus* e do grego *Diskos*, disco."
+    },
+    {
+      "id": "d-42",
+      "key": "Distal",
+      "keyNormalized": "distal",
+      "markdown": "Distal – do latim *Distalis*, que está longínquo, distante."
+    },
+    {
+      "id": "d-43",
+      "key": "Divertículo",
+      "keyNormalized": "diverticulo",
+      "markdown": "Divertículo – do latim *Diverticulum*, afastado, alijado, *Divertere*, afastar. Em Roma, os *Divertícula* eram caminhos secundários como afluentes menores de um rio ou estradas vicinais. Neste sentido, o termo anatômico é impróprio porque estes caminhos não terminavam em fundo cego, como as estruturas assim denominadas. O termo apareceu no século XVIII e permaneceu desde então, possivelmente por má interpretação de quem o utilizou."
+    },
+    {
+      "id": "d-44",
+      "key": "Divisão",
+      "keyNormalized": "divisao",
+      "markdown": "Divisão – do latim *Divisio*, separação, repartição."
+    },
+    {
+      "id": "d-45",
+      "key": "DNA (abreviatura de ácido desoxirribonucléico)",
+      "keyNormalized": "dnaabreviaturadeacidodesoxirribonucleico",
+      "markdown": "DNA (abreviatura de ácido desoxirribonucléico) – do espanhol *Des*, não, do grego *Ox(y),* oxigênio, *Rib*, aldopentose, e do latim *Nucle(um),* núcleo, mais o radical grego *Ik-os/-ē*, do. Termo criado por Levene em 1931, a partir da desoxirribose. Polímero presente no núcleo das células que representa o material genético."
+    },
+    {
+      "id": "d-46",
+      "key": "Dolicocéfalo",
+      "keyNormalized": "dolicocefalo",
+      "markdown": "Dolicocéfalo – do grego *Dolikho*, largo e *Kephal*, cabeça. Aplica-se a pesoas cujo crânio é de figura muito oval, porque seu diâmetro maior excede em mási de um quarto o menor. Este tipo de crânio é muito comum entre os causasianos. Vide o termo braquicefálico."
+    },
+    {
+      "id": "d-47",
+      "key": "Dorsal",
+      "keyNormalized": "dorsal",
+      "markdown": "Dorsal – do latim *Dorsalis*, dorsal, das costas."
+    },
+    {
+      "id": "d-48",
+      "key": "Dorso",
+      "keyNormalized": "dorso",
+      "markdown": "Dorso – do latim *Dorsum*, dorso, relativo às costas."
+    },
+    {
+      "id": "d-49",
+      "key": "Doutor",
+      "keyNormalized": "doutor",
+      "markdown": "Doutor – do latim *Doctor*, professor. A palavra era usada nas primeiras universidades para se referir aos acadêmicos cujo domínio da disciplina que estudavam era considerado máximo. É um título acadêmico obtido por aqueles que apresentam uma tese de doutorado. Doutor é a pessoa que recebeu o último e mais alto grau académico conferido por uma universidade ou outro estabelecimento autorizado para isso, como também a que ensina uma ciência ou arte. Atribui-se esse título também aos médicos, mesmo que não tenham o grau acadêmico de doutor. A palavra doutor é uma das mais antigas das existentes em nossa língua e se repete em inglês (\"doctor\"), em espanhol (\"doctor\"), em francês (\"docteur\"), em italiano (\"dottore\"), em alemão (\"doktor\") e, com ligeiras variantes, praticamente em todas as línguas modernas. Suas raízes mais remotas podem ser rastreadas até entre o primeiro e o segundo milênio antes da nossa era, nas invasões indo-européias, que nos trouxeram a raiz \"dok-\", da qual provem a palavra latina \"docere\", que por sua vez Ducto – do latim, *Ductus*, condução, traçado. Este termo, significando tubo, é um exemplo da falta de habilidade da tradução latina do texto grego, pois a palavra *Ductus* não tinha nos clássicos, o sentido de sulco pra condução de líquidos."
+    },
+    {
+      "id": "d-50",
+      "key": "Dúctulo",
+      "keyNormalized": "ductulo",
+      "markdown": "Dúctulo – do latim *Ductulus*, diminutivo de *Ductus*."
+    },
+    {
+      "id": "d-51",
+      "key": "Duodeno",
+      "keyNormalized": "duodeno",
+      "markdown": "Duodeno – do latim *Duodeni*, a dúzia, doze. Herófilo descreveu o duodeno como tendo um comprimento equivalente à largura de doze dedos colocados juntos, mas esta descrição equivale a órgãos de animais. A palavra usada originalmente foi traduzida por Erasistrato do grego *Dodeka-dáktylon*, doze dedos. Porção proximal retroperitonial do intestino delgado tem o comprimento equivalente a largura de 12 dedos da mão.\n\nDura-máter – do latim *Dura*, dura, forte, severa e *Mater*, mãe protetora."
+    },
+    {
+      "id": "d-52",
+      "key": "Duro",
+      "keyNormalized": "duro",
+      "markdown": "Duro – do latim *Durus*, duro, forte, severo."
+    }
+  ]
+}

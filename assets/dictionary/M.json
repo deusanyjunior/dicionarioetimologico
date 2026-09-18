@@ -1,0 +1,815 @@
+{
+  "letter": "M",
+  "entries": [
+    {
+      "id": "m-1",
+      "key": "Macro",
+      "keyNormalized": "macro",
+      "markdown": "Macro \\- do grego *Makros*, grande."
+    },
+    {
+      "id": "m-2",
+      "key": "Macrófago",
+      "keyNormalized": "macrofago",
+      "markdown": "Macrófago \\- do grego *Makros*, grande e *Phago*, eu como. Tipo de célula do tecido conjuntivo, de volume grande, cuja função é fagocitar substâncias estranhas, células mortas e restos celulares.\n\n\nEste termo foi introduzido por Metschnikoff antes de 1887\\. O termo foi criado em oposição aos micrófagos que eram os pequenos comedores, hoje denominados de neutrófilos."
+    },
+    {
+      "id": "m-3",
+      "key": "Macroscópio",
+      "keyNormalized": "macroscopio",
+      "markdown": "Macroscópio – do grego *Makros*, grande e *Skop*, observar detalhadamente. Termo criado na Inglaterra em 1872, em contraposição ao termo microscópio. É o que se vê a vista simples, sem o auxilio do microscópio."
+    },
+    {
+      "id": "m-4",
+      "key": "Mácula",
+      "keyNormalized": "macula",
+      "markdown": "Mácula \\- do latim *Macula*, mancha. Este termo foi introduzido pela primeria vez por Von Sömmering em 1848, e reintroduzido por Zimmermann em 1929\\. Mácula lútea: Mancha amarela na retina, que inclui a fóvea que contêm grande quantidade de cones para a percepção das cores. Mácula densa: região de túbulo distal do néfron que entre em contato com a arteriola eferente que funciona como receptor sensível a quantidade de sódio excretada pela urina e atua inibindo a secreção de renina no aparelho justaglomerular."
+    },
+    {
+      "id": "m-5",
+      "key": "Magno",
+      "keyNormalized": "magno",
+      "markdown": "Magno – do latim *Maguns*, grande elevado, abundante. Geralmente a constituição de um país é chamada “Magna Carta”, em alusão ao documento inglês de 1215, outorgado pelo rei John aos barões ingleses, que a ele assim se referiram."
+    },
+    {
+      "id": "m-6",
+      "key": "Maior",
+      "keyNormalized": "maior",
+      "markdown": "Maior – do latim *Major*, maior. Comparativo de *Magnus*, grande, elevado, abundante."
+    },
+    {
+      "id": "m-7",
+      "key": "Malar",
+      "keyNormalized": "malar",
+      "markdown": "Malar – do latim *Malaris*, relativo às bochechas e *Mala*, maxila superior, parte superior da face. Os gregos, metaforicamente, chamavam *Malon* (maça, pomo) à eminência facial abaixo dos olhos, por causa do rubor e da forma arredondada desta região e o plural *Mala* designava as bochechas. Maça em latim é *Malum*."
+    },
+    {
+      "id": "m-8",
+      "key": "Malear",
+      "keyNormalized": "malear",
+      "markdown": "Malear – do latim *Mallearis*, relativo ao martelo, *Malleus*, martelo, malho."
+    },
+    {
+      "id": "m-9",
+      "key": "Maléolo",
+      "keyNormalized": "maleolo",
+      "markdown": "Maléolo \\- do latim Malleolus, diminutivo de *Malleus*, martelo, malho. Vesálio foi o primeiro anatomista a usar este termo para nomear eminências ósseas."
+    },
+    {
+      "id": "m-10",
+      "key": "Mama",
+      "keyNormalized": "mama",
+      "markdown": "Mama \\- do latim *Mamma*, do grego *Mastos*, mama. Deve ser lembrado que seio representa o espaço entre as mamas."
+    },
+    {
+      "id": "m-11",
+      "key": "Mamilo",
+      "keyNormalized": "mamilo",
+      "markdown": "Mamilo \\- Diminutivo do latim *Mamma*, seio."
+    },
+    {
+      "id": "m-12",
+      "key": "Mandíbula",
+      "keyNormalized": "mandibula",
+      "markdown": "Mandíbula \\- do latim *Mandibula*, maxila inferior, queixo e *Mandere*, mastigar. Em latim, a palavra *Maxilla* era usada, indiscriminadamente, para ambos os arcos dentais, isto é, o superior e o inferior. Daí antigamente serem comuns os termos “maxila superior e maxila inferior”. Somente no final do século XIX, maxila inferior foi substituída por mandíbula, termo que apareceu no latim apenas na idade média, provavelmente, formado do particípio passado *Mandi*, mastigado."
+    },
+    {
+      "id": "m-13",
+      "key": "Manúbrio",
+      "keyNormalized": "manubrio",
+      "markdown": "Manúbrio – do latim *Manubrium*, empunhadura, cabo de espada. A palavra é composta de *Manus*, mão e *Habere*, manter, ter. Vesálio notou que o esterno (para ele, os *Pectoris*) era formado por três partes, a superior em forma de punho de gládio (*manubrii gladi*), uma antiga espada curta grega, adotada pelos romanos. Nas arenas e circos romanos, os combatentes (geralmente prisioneiros de guerra ou condenados) que usavam esta espada eram chamados de gladiadores."
+    },
+    {
+      "id": "m-14",
+      "key": "Mão",
+      "keyNormalized": "mao",
+      "markdown": "Mão – do latim *Manus*, mão. Existe um provérbio latino que diz o seguinte: “Manus manum lavat”, que significa “uma mão lava a outra”. O eqivalente grego é *Kheir*, *Kheirós*."
+    },
+    {
+      "id": "m-15",
+      "key": "Margem",
+      "keyNormalized": "margem",
+      "markdown": "Margem- do latim *Margo*, margem, beira."
+    },
+    {
+      "id": "m-16",
+      "key": "Martelo",
+      "keyNormalized": "martelo",
+      "markdown": "Martelo – do latim *Malleus*, martelo. O martelo, na idade média, tinha forma semelhante ao utilizado na antiga Roma pelos açougueiros ou sacerdotes para atordoar os animais antes da matança ou sacrifício. Este instrumento era construído de madeira pesada e possuía forma geral arredondada. O martelo moderno, com cabeça e orelhas é invenção inglesa do século XVIII. Quem primeiro parece haver descrito a bigorna e o martelo (óssiculos da audição) foi Vesálio (1550), que notou semelhança de forma com os instrumentos do ferreiro e assim os denominou."
+    },
+    {
+      "id": "m-17",
+      "key": "Massa",
+      "keyNormalized": "massa",
+      "markdown": "Massa – do latim *Massa*, massa, pasta."
+    },
+    {
+      "id": "m-18",
+      "key": "Masseter",
+      "keyNormalized": "masseter",
+      "markdown": "Masseter – do grego *Maseter*, mastigador, *Masaomai*, eu mastigo. A palavra em latim deveria ser escrita com apenas um s, dada sua origem grega, e ter pronúncia oxítona. Provavelemnte houve confusão com o grego *Massein*, amassar, triturar."
+    },
+    {
+      "id": "m-19",
+      "key": "Mastigação",
+      "keyNormalized": "mastigacao",
+      "markdown": "Mastigação – do latim *Mastigatio*, mastigação e *Masticare*, mastigar, mascar."
+    },
+    {
+      "id": "m-20",
+      "key": "Mastite",
+      "keyNormalized": "mastite",
+      "markdown": "Mastite \\- do grego *Mastos*, seio e *Ite*, inflamação."
+    },
+    {
+      "id": "m-21",
+      "key": "Mastócito",
+      "keyNormalized": "mastocito",
+      "markdown": "Mastócito – do alemão *Mast*, comida e *Zellen*, relativo a, e do grego *Kytos*, célula. Esta palavra é oriunda do alemão Mastzelle com o sentido de 'célula com comida', denominada antes de 1898, por causa do seu tamanho. Em português era utilizado o termo *labrócito* que foi abandonado. Os mastócitos foram descritos pela primeira vez em 1878, por um estudante de medicina chamado Paul Ehrlich que identificou células no tecido conjuntivo que se coravam metacromaticamente. Célula volumosa com citoplasma granuloso, encontrada no tecido conjuntivo, que produz e secreta várias substâncias vasoativas tais como histamina e heparina."
+    },
+    {
+      "id": "m-22",
+      "key": "Mastóideo",
+      "keyNormalized": "mastoideo",
+      "markdown": "Mastóideo \\- do grego *Mastos*, mama e *Eidos*, semelhante. Daí o nome Amazonas para a tribo mitológica de mulheres guerreiras da Citia. A palavra deriva do grego *A*, sem e *Mastos*, mama, porque na adolescência tinham sua mama direita atrofiada ou amputada a fim de facilitar o manejo do arco e o carregamento do carcás (cuja tira atravessava o peito)."
+    },
+    {
+      "id": "m-23",
+      "key": "Mastologia",
+      "keyNormalized": "mastologia",
+      "markdown": "Mastologia – do grego *Mast(o),* mama e *Logos*, estudo."
+    },
+    {
+      "id": "m-24",
+      "key": "Masturbação",
+      "keyNormalized": "masturbacao",
+      "markdown": "Masturbação \\- Talvez do latim *Manustuprationem*, de *Manus*, mão e *Stuprare*, violentar. Violentar à mão."
+    },
+    {
+      "id": "m-25",
+      "key": "Matriz",
+      "keyNormalized": "matriz",
+      "markdown": "Matriz – do latim *Matrix*, forma, modelo, mãe, nutriz. Alguns autores latinos utilizaram, metaforicamente, a palavra para designar um molde, base ou massa na qual alguma coisa pudesse ser formada. Vem dai o termo matriz, para significar o molde que envolve as células nos tecidos. Em histologia significa o molde que envolve as células nos tecido."
+    },
+    {
+      "id": "m-26",
+      "key": "Maturação",
+      "keyNormalized": "maturacao",
+      "markdown": "Maturação \\- do latim *Matutare*, amadurecer, mais o sufixo *Ação*, ato de. Etapa em que o desenvolvimento de um órgão ou de uma estrutura atinge a idade adulta e passa a exercer suas funções."
+    },
+    {
+      "id": "m-27",
+      "key": "Maxila",
+      "keyNormalized": "maxila",
+      "markdown": "Maxila – do latim *Maxilla*, parte superior da face, bochechas."
+    },
+    {
+      "id": "m-28",
+      "key": "Máximo",
+      "keyNormalized": "maximo",
+      "markdown": "Máximo – do latim *Maximus*, superlativo de *Magnus*, grande, elevado, abundante."
+    },
+    {
+      "id": "m-29",
+      "key": "Meato",
+      "keyNormalized": "meato",
+      "markdown": "Meato *\\-* do latim *Meatus*, canal ou via."
+    },
+    {
+      "id": "m-30",
+      "key": "Medial",
+      "keyNormalized": "medial",
+      "markdown": "Medial – do latim *Medialis*, que está no meio e *Medius*, no meio central."
+    },
+    {
+      "id": "m-31",
+      "key": "Mediano",
+      "keyNormalized": "mediano",
+      "markdown": "Mediano – do latim *Medianus*, que esta no meio, central."
+    },
+    {
+      "id": "m-32",
+      "key": "Mediastino",
+      "keyNormalized": "mediastino",
+      "markdown": "Mediastino *–* do latim medieval *Mediastinum*, colocado no meio. No passado o termo era utilizado em anatomia para nomear divisões ou septos. Realdo Colombo, filósofo e anatomista italiano (1516-1559) descreveu o mediastino, as pleuras e a circulação pulmonar e suas observações sobre o coração e o fluxo de sangue serviram de base para os experimentos de William Harvey."
+    },
+    {
+      "id": "m-33",
+      "key": "Médio",
+      "keyNormalized": "medio",
+      "markdown": "Médio – do latim *Medium*, meio centro. Em sentido geral, o mesmo que mediano."
+    },
+    {
+      "id": "m-34",
+      "key": "Medula",
+      "keyNormalized": "medula",
+      "markdown": "Medula \\- do latim *Medulla*, miolo, medula, âmago. A palavra provavelmente deriva de *Medius* e daí “*in médium ossis*” para medula óssea. Em sentido familiar, a palavra nomeava órgãos internos indiscriminadamente (como miúdos em portugues). Em relação à medula espinal, o termo é a tradução do grego “*Mielos raquites*”, isto é “amago ou miolo da espinha”."
+    },
+    {
+      "id": "m-35",
+      "key": "Megacariócito",
+      "keyNormalized": "megacariocito",
+      "markdown": "Megacariócito *\\-* do grego *Megas,* grande; *Karyon*, semente ou núcleo e *Kytos,* célula. Célula grande da medula óssea responsável pela formação das plaquetas."
+    },
+    {
+      "id": "m-36",
+      "key": "Megacólon",
+      "keyNormalized": "megacolon",
+      "markdown": "Megacólon *\\-* do grego *Megas,* grande e *Kolon*, intestino grosso."
+    },
+    {
+      "id": "m-37",
+      "key": "Megaloblasto",
+      "keyNormalized": "megaloblasto",
+      "markdown": "Megaloblasto *\\-* do grego *Megas,* grande e *Blastos,* germe."
+    },
+    {
+      "id": "m-38",
+      "key": "Meiose",
+      "keyNormalized": "meiose",
+      "markdown": "Meiose – do grego *Meiõsis*, diminuição. É o nome dado ao processo de divisão celular através do qual uma célula tem o seu número de cromossomos reduzido à metade. Por este processo são formados os gametas e esporos."
+    },
+    {
+      "id": "m-39",
+      "key": "Melanina",
+      "keyNormalized": "melanina",
+      "markdown": "Melanina *\\-* do grego *Melas,* negro*,* preto e o sufixo *Ina*, Este termo foi introduzido por Vizio em 1843 para designar um pigmento preto que existe na forma de grânulos no citoplasma das células dos vertebrados que dão cor a pele, pelos etc."
+    },
+    {
+      "id": "m-40",
+      "key": "Melanócito",
+      "keyNormalized": "melanocito",
+      "markdown": "Melanócito \\- do grego *Melas,* negro e *Kytos*, célula. O melanócito é uma célula neuro-cutânea que surge a partir da crista neural no período embrionário. Produz melanina, substância pigmentar que envolve a célula protegendo seu núcleo dos raios solares."
+    },
+    {
+      "id": "m-41",
+      "key": "Melanosoma",
+      "keyNormalized": "melanosoma",
+      "markdown": "Melanosoma \\- do grego *Melas,* negro e *Soma*, corpo, corpúsculo. Grânulo presente no citoplasma dos melanocitos no interior do qual se forma a melanina."
+    },
+    {
+      "id": "m-42",
+      "key": "Melatonina",
+      "keyNormalized": "melatonina",
+      "markdown": "Melatonina \\- do grego *Melas,* negro*,* preto e *Tono*, tensão e *In*, substância química. Este termo foi introduzido por Lerner em 1958 significando uma substância química que estimulava a serotonina produzida pela substância negra do encéfalo. A melatonina (N-acetil-5-metoxitriptamina) é um hormônio produzido em várias partesdo corpo humano, tais como retina e pineal. A glândula pineal participa na organização temporal dos ritmos biológicos, atuando como mediadora entre o ciclo claro/escuro ambiental e os processos regulatórios fisiológicos, incluindo a regulação endócrina da reprodução, a regulação dos ciclos de atividade-repouso e sono/vigília assim como a regulação do sistema imunológico."
+    },
+    {
+      "id": "m-43",
+      "key": "Membrana",
+      "keyNormalized": "membrana",
+      "markdown": "Membrana – do latim *Membrana*, membrana, película, lâmina. A palavra parece derivar diretamente do latim *Membrum*, membro do corpo, porque inicialmente, o termo designava apenas a pele que os revestia. Também pode ser uma forma corrupta vulgar do grego *Hymen*, membrana."
+    },
+    {
+      "id": "m-44",
+      "key": "Membrana basal",
+      "keyNormalized": "membranabasal",
+      "markdown": "Membrana basal \\- do latim *Membrana*, membrana, película, lâmina. e do grego *Básis*, apoio, fundação. Em histologia o nome é dado a uma fina camada de matriz extracelular especializada, sintetizada em conjunto pelas células epiteliais e os fibroblastos presentes na lâmina própria. Esta constituída pela lâmina basal (lâminas lúcida e densa) e outra lâmina denominada de reticular que contem várias moléculas em especial colágenas tipo III, IV e VII. É considerada como que fazendo parte do epitélio, tendo a função de unir esta estrutura ao tecido conjuntivo."
+    },
+    {
+      "id": "m-45",
+      "key": "Membranácea",
+      "keyNormalized": "membranacea",
+      "markdown": "Membranácea – do latim *Membranaceus*, relativo à membrana."
+    },
+    {
+      "id": "m-46",
+      "key": "Membro",
+      "keyNormalized": "membro",
+      "markdown": "Membro – do latim *Membrum*, membro do corpo."
+    },
+    {
+      "id": "m-47",
+      "key": "Meninge",
+      "keyNormalized": "meninge",
+      "markdown": "Meninge *\\-* do grego *Meninx*, membrana. O termo *Meninx* era usado pelos gregos para designar vários tipos de membranas ou peles. Erasítratofoi o primeiro a descrever as membranas do encéfalo e medula espinal e Aristóteles divulgou o nome destas lâminas. A palavra grega *Myrinx*, parece ser uma corrupção de *Mininx* e foi utilizada, desde aquela época, para a membrana do tímpano (orelha média). A inflamação da mambrana do tímpano é conhecida como miringite."
+    },
+    {
+      "id": "m-48",
+      "key": "Menisco",
+      "keyNormalized": "menisco",
+      "markdown": "Menisco *\\-* do grego *Meniskos,* crescente, derivado de *Men*, lua. Na Grécia, o nome era usado para adornos e/ou formações militares em forma de meia lua ou lua crescente."
+    },
+    {
+      "id": "m-49",
+      "key": "Menopausa",
+      "keyNormalized": "menopausa",
+      "markdown": "Menopausa – do latim *Men*, mês, e *Pausis*, cessação. Assinala o fim reprodutivo da mulher."
+    },
+    {
+      "id": "m-50",
+      "key": "Menor",
+      "keyNormalized": "menor",
+      "markdown": "Menor – do latim *Minor*, menor."
+    },
+    {
+      "id": "m-51",
+      "key": "Menstruação",
+      "keyNormalized": "menstruacao",
+      "markdown": "Menstruação *\\-* do latim *Menstruum*, solvente. Acreditavam os antigos que o sangue menstrual era um poderoso solvente."
+    },
+    {
+      "id": "m-52",
+      "key": "Menstrual",
+      "keyNormalized": "menstrual",
+      "markdown": "Menstrual – do latim *Mensis*, mensal."
+    },
+    {
+      "id": "m-53",
+      "key": "Mental",
+      "keyNormalized": "mental",
+      "markdown": "Mental – do latim *Mentalis*, relativo ao queixo e *Mentum*, queixo."
+    },
+    {
+      "id": "m-54",
+      "key": "Mento",
+      "keyNormalized": "mento",
+      "markdown": "Mento – do latim *Mentum*, queixo."
+    },
+    {
+      "id": "m-55",
+      "key": "Meridiano",
+      "keyNormalized": "meridiano",
+      "markdown": "Meridiano – do latim *Meridianus*, do meio dia.\n\nMerócrino *(a) –* do grego *Meros*, parte e *Krynos*, secreção, *Krinein*, separar. Aplica-se às células em que não há perda de citoplasma por ocasião da secreção, ou seja, só é eliminada a secreção. A maioria das glândulas do nosso corpo são merócrinas, tais como a tireóide, sudoríparas, supra-renais etc."
+    },
+    {
+      "id": "m-56",
+      "key": "Mesencéfalo",
+      "keyNormalized": "mesencefalo",
+      "markdown": "Mesencéfalo – do grego *Mesos*, meioe *Enkephalos*, encéfalo, cérebro. Termo sugerido por François Chaussier e adotado por Richard Owen e Thomas Huxley."
+    },
+    {
+      "id": "m-57",
+      "key": "Mesênquima",
+      "keyNormalized": "mesenquima",
+      "markdown": "Mesênquima *\\-* do grego *Mesos,* meio e *Enchyma*, suco. É um tecido embrionário, encontrado nas primeiras fases do desenvolvimento embrionário, e que, aos poucos, por processos específicos de diferenciação celular, vai dando origem aos diferentes tipos de tecidos. Surge a partir do mesoderma (folheto embrionário intermediário)."
+    },
+    {
+      "id": "m-58",
+      "key": "Mesentério",
+      "keyNormalized": "mesenterio",
+      "markdown": "Mesentério *\\-* do grego *Mesos,* meio e *Enteron*, intestino. É uma lâmina de tecido que prende ou suspende os órgãos na cavidade do corpo e é contínua com o peritônio que forra esta cavidade."
+    },
+    {
+      "id": "m-59",
+      "key": "Mesial",
+      "keyNormalized": "mesial",
+      "markdown": "Mesial – do latim *Mesialis* e *Mesion*, relativo ao meio."
+    },
+    {
+      "id": "m-60",
+      "key": "Meso",
+      "keyNormalized": "meso",
+      "markdown": "Meso \\- do grego *Mesos,* meio."
+    },
+    {
+      "id": "m-61",
+      "key": "Mesoapêndice",
+      "keyNormalized": "mesoapendice",
+      "markdown": "Mesoapêndice – do grego *Mesos*, meio e *Appendix*, pendurado."
+    },
+    {
+      "id": "m-62",
+      "key": "Mesocolo",
+      "keyNormalized": "mesocolo",
+      "markdown": "Mesocolo – do grego *Mesos*, meio e *Kolon*, intestino grosso."
+    },
+    {
+      "id": "m-63",
+      "key": "Mesoderma",
+      "keyNormalized": "mesoderma",
+      "markdown": "Mesoderma *\\-* do grego *Mesos,* meio e *Derma*, pele. Na embriologia repesenta as células ou camadas de células embrionárias que se desenvolvem entre o ectoderma e o endoderma."
+    },
+    {
+      "id": "m-64",
+      "key": "Mesométrio",
+      "keyNormalized": "mesometrio",
+      "markdown": "Mesométrio – do latim *Mesos* e *Metra*, útero."
+    },
+    {
+      "id": "m-65",
+      "key": "Mesonefro",
+      "keyNormalized": "mesonefro",
+      "markdown": "Mesonefro \\- do gredo *Mesos*, meio, intermediário e *Nephron*, rim. Rim segmentado, de localização mediana no corpo, existente em peixes e anfíbios na idade adulta. No homem corresponde a um rim embrionário que é substituído pelos metanefron, ou rim adulto."
+    },
+    {
+      "id": "m-66",
+      "key": "Mesosalpinge",
+      "keyNormalized": "mesosalpinge",
+      "markdown": "Mesosalpinge – do grego *Mesos*, meio e *Salpinx*, tuba, trompa."
+    },
+    {
+      "id": "m-67",
+      "key": "Mesotélio",
+      "keyNormalized": "mesotelio",
+      "markdown": "Mesotélio \\- do grego *Mesos,* meio; *Telio*, vaso, canal. Camada existente nos vasos sangüíneos."
+    },
+    {
+      "id": "m-68",
+      "key": "Mesotendão",
+      "keyNormalized": "mesotendao",
+      "markdown": "Mesotendão – do grego *Mesos*, meio e do latim *Tendon*, tendão, cordão esticado."
+    },
+    {
+      "id": "m-69",
+      "key": "Mesovário",
+      "keyNormalized": "mesovario",
+      "markdown": "Mesovário – do grego *Mesos*, meio e do latim *Ovum*, ovo."
+    },
+    {
+      "id": "m-70",
+      "key": "Metabolismo",
+      "keyNormalized": "metabolismo",
+      "markdown": "Metabolismo *\\-* do grego *Metabole*, mudar e *Ismo*, conjunto. Conjunto de transformações que as substâncias químicas sofrem no interior dos organismos vivos."
+    },
+    {
+      "id": "m-71",
+      "key": "Metacarpo",
+      "keyNormalized": "metacarpo",
+      "markdown": "Metacarpo – do grego *Meta*, depois de, entre, após e *Karpus*, punho. Aristóteles afirmava que o metacarpo possuía cinco ossos. Galeno sustentava que havia apenas quatro ossos nesta região, considerando o osso metacarpiano do polegar apenas uma falange."
+    },
+    {
+      "id": "m-72",
+      "key": "Metacêntrico",
+      "keyNormalized": "metacentrico",
+      "markdown": "Metacêntrico \\- do grego *Meta*, depois de, entre. Designa cromossomos cujos centrômeros estão localizados na sua porção média."
+    },
+    {
+      "id": "m-73",
+      "key": "Metacromasia",
+      "keyNormalized": "metacromasia",
+      "markdown": "Metacromasia \\- do grego *Met,* depois de, além de e *Cromos,* Côr*.* Utiliza-se essa palavra em histologia para designar substâncias presentes nos tecidos que mudam a cor original dos corantes utilizados. Um exemplo disso é quando se utiliza o azul de metileno (corante azul) que cora em vermelho substâncias ácidas presentes nos tecidos."
+    },
+    {
+      "id": "m-74",
+      "key": "Metafase",
+      "keyNormalized": "metafase",
+      "markdown": "Metafase \\- do grego *Meta*, em meio de e *Phás*(is), fase. Segunda fase da mitose e/ou da meiose, caracterizada pela organização do fuso mitótico e a disposição dos cromosomas na placa equatorial."
+    },
+    {
+      "id": "m-75",
+      "key": "Metáfise",
+      "keyNormalized": "metafise",
+      "markdown": "Metáfise – do grego *Meta*, depois, entre e *Physis*, crescimento, sulco. Metáfise é uma região do osso compreendida entre a epífise e a diáfise responsável pelo crescimento em comprimento, ou altura de um indivíduo."
+    },
+    {
+      "id": "m-76",
+      "key": "Metâmero",
+      "keyNormalized": "metamero",
+      "markdown": "Metâmero \\- do grego *Meta*, depois e *Mero*, parte. Em sentido estrito, um metâmero é uma porção do corpo que contém todas as partes orgânicas essenciais. Em sentido lato é cada um dos segmentos semelhantes em que se divide o corpo de um animal. No homem aparecem alguns indicios de metamerização residual nas estruturas associadas à coluna vertebral."
+    },
+    {
+      "id": "m-77",
+      "key": "Metamorfose",
+      "keyNormalized": "metamorfose",
+      "markdown": "Metamorfose \\- do grego *Meta,* depois de *e Morph,* forma, *Osis*, Processo. Depois do nascimento, os animais podem sofrer dois tipos de desenvolvimento: direto ou indireto. No desenvolvimento indireto os animais que nascem diferem significativamente dos da forma adulta, assim os indivíduos passam pela metamorfose. Já no desenvolvimento direto, os animais já nascem com a forma definitiva, pois são muito semelhantes aos adultos, como por exemplo, o ser humano."
+    },
+    {
+      "id": "m-78",
+      "key": "Metanéfron",
+      "keyNormalized": "metanefron",
+      "markdown": "Metanéfron \\- do gredo *Meta*, depois de e *Nephron*, rim. No homem corresponde ao rim definitivo, ou rim adulto."
+    },
+    {
+      "id": "m-79",
+      "key": "Metanéfron",
+      "keyNormalized": "metanefron",
+      "markdown": "Metanéfron \\- do grego *Meta,* depois de e *Nephro*, rim. No desenvolvimetno humano aparecem vários tipos de rins, sendo que o rim definitivo é do tipo metanéfron."
+    },
+    {
+      "id": "m-80",
+      "key": "Metaplasia",
+      "keyNormalized": "metaplasia",
+      "markdown": "Metaplasia *\\-* do grego *Metaplasis*, transformação, que deriva de *Meta*, sair de e *Plasis*, formação: formação diferente da original."
+    },
+    {
+      "id": "m-81",
+      "key": "Metarteríola",
+      "keyNormalized": "metarteriola",
+      "markdown": "Metarteríola \\- do grego *Meta*, depois de, além de e *Arteri*, tubo, e do latim *Ola*, pequeno. As metarteríolas são vasos sanguíneos de dimensão pequena que resultam de ramificações das arteríolas e se continuam com os capilares. Não apresentam uma camada muscular continua apresentando fibras musculares lisas rodeando e vaso em locais intermitentes. Esta região forma um esfíncter que se denomina de esficnter precapilar que está encarregado de abrir ou fechar o capilar no momento em que passa o sangue."
+    },
+    {
+      "id": "m-82",
+      "key": "Metástase",
+      "keyNormalized": "metastase",
+      "markdown": "Metástase *\\-* do grego *Meta*, depois de e *Stasis,* permanecer. É a formação de uma nova lesão tumoral a partir da primeira, mas sem continuidade entre as duas. Isso implica que as células neoplásicas se desprendem do tumor primário caminham através do intersticio, ganham uma via de desseminação, são levadas para um local distante e lá formam uma nova colônia neoplásica."
+    },
+    {
+      "id": "m-83",
+      "key": "Metatálamo",
+      "keyNormalized": "metatalamo",
+      "markdown": "Metatálamo – do grego *Meta*, depois de, e *Thalamos*, quarto de dormir, leito nupcial."
+    },
+    {
+      "id": "m-84",
+      "key": "Metatarso",
+      "keyNormalized": "metatarso",
+      "markdown": "Metatarso \\- do grego *Meta*, depois, entre e Tarsos, tornozelo. A palavra foi cunhada por analogia a metacarpo. Este termo foi introduzido por André Laurentius em 1589 na sua obra “Historia anatômica *humani corporis*”"
+    },
+    {
+      "id": "m-85",
+      "key": "Metazoário",
+      "keyNormalized": "metazoario",
+      "markdown": "Metazoário *\\-* do grego *Meta*, depois e *Zoon*, animal. Esta denominação aplica-se a todos os membros do reino animal depois dos protozoários."
+    },
+    {
+      "id": "m-86",
+      "key": "Metencéfalo",
+      "keyNormalized": "metencefalo",
+      "markdown": "Metencéfalo – do grego *Meta*, depois, entre e *Enkephalos*, encéfalo, cérebro. Thomas Huxley, em 1871, dividiu a parte posterior do encéfalo (chamado rombencéfalo por Wilhelm His) em metencéfalo e mielencéfalo. O metencéfalo dá origem à ponte e ao cerebelo."
+    },
+    {
+      "id": "m-87",
+      "key": "Método",
+      "keyNormalized": "metodo",
+      "markdown": "Método – do grego *Met-hodos* que significa, literalmente, \"caminho para chegar a um fim\". Em filosofia, ou até na esfera científica (teórica \\- Filosofia da Ciência), temos o método que delimita o *modus* da obtenção do conhecimento: a epistemologia. O Discurso sobre o método de Descartes, obra seminal de 1619, e um dos momentos do Iluminismo, abriu o caminho para a ciência moderna e para o método científico em geral. Em ciência, o método científico é constituído por uma série de passos codificados que se têm de tomar, de forma mais ou menos esquemática para atingir um determinado objetivo científico."
+    },
+    {
+      "id": "m-88",
+      "key": "Metópica",
+      "keyNormalized": "metopica",
+      "markdown": "Metópica – do grego *Metópio*, espaço entre os olhos ou sombrancelhas. O termo é composto do grego *Meta*, depois, entre e *Ops*, olho. *Metopion* também era o antigo nome do osso frontal e daí derivou a denominação desta sutura."
+    },
+    {
+      "id": "m-89",
+      "key": "Micção",
+      "keyNormalized": "miccao",
+      "markdown": "Micção *\\-* do latim *Micturire*, urinar."
+    },
+    {
+      "id": "m-90",
+      "key": "Micro",
+      "keyNormalized": "micro",
+      "markdown": "Micro *\\-* do grego *Mikros*, pequeno."
+    },
+    {
+      "id": "m-91",
+      "key": "Micróbio",
+      "keyNormalized": "microbio",
+      "markdown": "Micróbio \\- do grego *Mikros*, pequeno e Bios, vida. Organismo microscópico, animal ou vegetal, que, no estado de germe ou adulto, produz no homem ou nos outros animais moléstias infecciosas e virulentas."
+    },
+    {
+      "id": "m-92",
+      "key": "Micrófago",
+      "keyNormalized": "microfago",
+      "markdown": "Micrófago – do grego *Mīkr(o),* pequeno e *Phag(o),* comer. Aparece na literatura pela primeira vez em 1890 por oposição a palavra macrófago. Foi dado este nome aos polimorfonucleares, em especial os neutrófilos, em oposição aos macrófagos que eram os grandes comedores."
+    },
+    {
+      "id": "m-93",
+      "key": "Microfibrila",
+      "keyNormalized": "microfibrila",
+      "markdown": "Microfibrila – do grego *Mikros*, pequeno e do latim *Fibr*, fibra."
+    },
+    {
+      "id": "m-94",
+      "key": "Microglia",
+      "keyNormalized": "microglia",
+      "markdown": "Microglia \\- do grego *Mikros*, pequeno e *Glia*, cola. A micróglia é a menor célula da neuróglia, na realidade são macrófagos que migram para o sistema nervoso e adquirem uma forma especial nessa região."
+    },
+    {
+      "id": "m-95",
+      "key": "Microscópio",
+      "keyNormalized": "microscopio",
+      "markdown": "Microscópio *\\-* do grego *Mikros*, pequeno e *Skopein,* examinar. O termo foi criado para designar um instrumento que permite observar pequenos objetos. Galileu descobriu que se dispusessem duas lentes num tubo obteria um aparelho que, olhando de uma das extremidades, permitia a visualização pormenorizada de objetos distantes – o telescópio. O mesmo aparelho, quando olhado pelo extremo oposto, permitia visibilizar objetos pequenos, invisíveis a olho nu – o microscópio. É neste ponto que se estabelece uma transição do imensamente grande, para o infinitamente pequeno. Em 1590, os irmãos holandeses Francis e Zacharias Janssens, construiram o primeiro microscópio óptico composto. Em 1665, o inglês Robert Hooke, publicou os resultados das suas investigações, realizadas para a Royal Society de Londres, no livro “Micrographia”. Hooke fabricou um microscópio óptico composto bastante mais aperfeiçoado relativamente ao de Jansen e examinou um pedaço de cortiça. Nela observou numerosas cavidades microscópicas, às quais chamou “poros” ou “células” e que lembram a disposição de um favo de mel. Antony van Leeuwenhoek (1632-1723) fez algumas das mais importantes descobertas na história da biologia. Em 1668 aprendeu a polir lentes, uma vez que costumava usar uma lupa para avaliar a qualidade dos tecidos que vendia em sua loja, e fez assim o seu primeiro microscópio. Há quem diga que teria sido inspirado pelo trabalho de Robert Hooke, após ter visto a capa de uma cópia do Micrographia numa livraria. Após algumas experiências com microscópios compostos, abandonou o seu uso uma vez que não era exequível uma ampliação superior a 20 ou 30 vezes. A sua perícia no polimento de lentes permitiu-lhe construir um\n\n\nmicroscópio óptico simples (apenas com uma lente de boa qualidade) que ampliava mais de 200 vezes. Foi assim que se tornou um pioneiro na observação de diferentes espécies microscópicas: protistas, algas e bactérias, que desenhou e enviou a Royal Society de Londres. Os seus microscópios eram individualmente feitos para cada amostra e alguns dos seus “infinitamente pequenos” eram observados com uma ampliação de cerca de 300 vezes, uma façanha considerável, mesmo em comparação com alguns instrumentos modernos. O microscópio de Hooke, apesar de composto (com uma lente ocular e uma objetiva) apenas tinha um poder ampliador de 30 vezes. Com a ajuda de um microscópio simples, Leeuwenhoek observou e desenhou os “infinitamente pequenos”."
+    },
+    {
+      "id": "m-96",
+      "key": "Micrótomo",
+      "keyNormalized": "microtomo",
+      "markdown": "Micrótomo \\- do grego *Mikros*, pequeno e *Tomos,* cortar. O micrótomo é o aparelho que faz cortes muito finos, variando geralmente de 1 à 10 μm (micrómetros) de espessura, em pequenas amostras de material biológico (geralmente tecidos) emblocadas em resinas específicas(parafina etc) para análise em microscópio de luz."
+    },
+    {
+      "id": "m-97",
+      "key": "Microtúbulo",
+      "keyNormalized": "microtubulo",
+      "markdown": "Microtúbulo – do grego *Mikros*, pequeno e do latim *Tubules*, diminutivo de *Tubus*, tubo. Microtúbulos são estruturas tubulares que formam os componentes básicos dos centríolos, corpos basais, cílios e flagelos."
+    },
+    {
+      "id": "m-98",
+      "key": "Microvilosidade",
+      "keyNormalized": "microvilosidade",
+      "markdown": "Microvilosidade \\- do grego *Mikros*, pequeno; mais elemento composto vilosidade. Região da membrana plasmática com grande número de expansões digitiformes relacionada com a absorção de substâncias."
+    },
+    {
+      "id": "m-99",
+      "key": "Mielencéfalo",
+      "keyNormalized": "mielencefalo",
+      "markdown": "Mielencéfalo – do grego *Myelos*, medula e *Enkephalos*, encéfalo, cérebro. Thomas Huxley, em 1871, dividiu a parte posterior do encéfalo (chamado rombencéfalo por Wilhelm His) em metencéfalo e mielencéfalo. O meilencéfalo dá origem ao bulbo."
+    },
+    {
+      "id": "m-100",
+      "key": "Mielina",
+      "keyNormalized": "mielina",
+      "markdown": "Mielina *\\-* do grego *Myelos*, miolo, medula. A mielina foi descrita pela primeira vez em 1854 por Rudolf Virchow. A mielina é uma substância lipídica, de cor verde reluzente e de caráter birrefringente, que faz parte da membrana celular. A mielina está presente na chamada bainha de mielina (formada pelos oligodendrócitos ou células de Schwann), que envolvem os axônios, como se fosse um rocambole, em algumas fibras nervosas. Esta substância faz com que essas fibras tenham uma condução de impulsos nervosos mais rápidos (condução saltatória). As fibras envoltas por mielina são chamadas precisamente mielínicas. As fibras que não possuem um revestimento de mielina chamam-se fibras amielínicas e possuem uma condução de impulso mais lenta."
+    },
+    {
+      "id": "m-101",
+      "key": "Mieloblasto",
+      "keyNormalized": "mieloblasto",
+      "markdown": "Mieloblasto *\\-* do grego *Myelos*, medula e *Blastos,* germe. É o mielócito imaturo."
+    },
+    {
+      "id": "m-102",
+      "key": "Mielóclto",
+      "keyNormalized": "mieloclto",
+      "markdown": "Mielóclto *\\-* do grego *Myelos*, medula e *Kytos*, célula."
+    },
+    {
+      "id": "m-103",
+      "key": "Mientérico",
+      "keyNormalized": "mienterico",
+      "markdown": "Mientérico – do grego *Mys*, músculo e *Enteron*, intestinos.\n\nMilo-hióideo – do grego *Myle*, mó, mola e *Hyo*, a letra U e *Oidés*, forma de. O músculo tem este nome porque os antigos acreditavam que sua ação, movendo a mandíbula, fazia-se, preferencialmente, sobre os dentes molares. Por formarem a maior parte do soalho da boca, foram anteriormente chamados “*Musculi diaphagma oris*”."
+    },
+    {
+      "id": "m-104",
+      "key": "Mineralocorticóide",
+      "keyNormalized": "mineralocorticoide",
+      "markdown": "Mineralocorticóide – do latim *Miner*, mineral e do grego *Cortic*, córtex e *Óide*, aspecto. Mineralocorticóides é uma classe de hormonios esteróides, caracterizados pela sua semelhança com a aldosterona e a sua influência no equilíbrio eletrolítico (balanço de íons “sódio e potássio” e água) do corpo."
+    },
+    {
+      "id": "m-105",
+      "key": "Minimo",
+      "keyNormalized": "minimo",
+      "markdown": "Minimo – do latim *Minimus*, superlativo de *Parvus*, pequeno, pouco."
+    },
+    {
+      "id": "m-106",
+      "key": "Miocárdio",
+      "keyNormalized": "miocardio",
+      "markdown": "Miocárdio *\\-* do grego *Myo*, músculo *e Kardia,* coração."
+    },
+    {
+      "id": "m-107",
+      "key": "Miócito",
+      "keyNormalized": "miocito",
+      "markdown": "Miócito \\- do grego *Myo*, músculo e *Kytos*, célula."
+    },
+    {
+      "id": "m-108",
+      "key": "Mioepitelial",
+      "keyNormalized": "mioepitelial",
+      "markdown": "Mioepitelial \\- do grego *Myo*, músculo e *Epi*, sobre e *Thel*, revestimento. São células estritamente epiteliais, pela sua origem, que possuem a particularidade de que são capazes de se contrair como as fibras musculares."
+    },
+    {
+      "id": "m-109",
+      "key": "Miofibrila",
+      "keyNormalized": "miofibrila",
+      "markdown": "Miofibrila \\- do grego *Myo*, músculo e do latim *Fibr*, fibra e *Ila*, pequeno. Fibrila contrátil constitutíva da fibra muscular."
+    },
+    {
+      "id": "m-110",
+      "key": "Miofibroblasto",
+      "keyNormalized": "miofibroblasto",
+      "markdown": "Miofibroblasto \\- do grego *Myo*, “camundongo”, músculo; e do latim, *Fibros*, fibras e *Blastos*, germe, formador. Os miofibroblastos participam na síntese da matriz extracelular e na produção de forças\n\n\nmecânicas que propmovem a contração da ferida, atuando na reorganização da matriz.. Sua atividade contrátil é responsável pelo fechamento de feridas após a lesão, processo conhecido como contração da ferida."
+    },
+    {
+      "id": "m-111",
+      "key": "Mioglobina",
+      "keyNormalized": "mioglobina",
+      "markdown": "Mioglobina \\- do grego *Myo*, “camundongo”, músculo e do Latim *Glob*, globo e *In(a),* substância química. Pigmento proteíco de cor vermelha que contêm ferro presente nos músculos, similar a hemoglobina."
+    },
+    {
+      "id": "m-112",
+      "key": "Miologia",
+      "keyNormalized": "miologia",
+      "markdown": "Miologia \\- do grego *Myo*, “camundongo”, músculo e *Logos*, estudo. Parte da anatomia descritiva que estuda os músculos."
+    },
+    {
+      "id": "m-113",
+      "key": "Miométrio",
+      "keyNormalized": "miometrio",
+      "markdown": "Miométrio *\\-* do grego *Myo,* “camundongo”, músculo e *Metra,* útero, matriz*.*"
+    },
+    {
+      "id": "m-114",
+      "key": "Miosina",
+      "keyNormalized": "miosina",
+      "markdown": "Miosina – do grego *Myo,* “camundongo”, músculo *Īn(a),* substância química. Proteína que forma os filamentos grossos contráteis do músculo."
+    },
+    {
+      "id": "m-115",
+      "key": "Misto",
+      "keyNormalized": "misto",
+      "markdown": "Misto – do latim *Mixtus*, misturado e *Miscere*, misturar."
+    },
+    {
+      "id": "m-116",
+      "key": "Mitocôndria",
+      "keyNormalized": "mitocondria",
+      "markdown": "Mitocôndria – do grego *Mitos*, fio e *Chondrion*, grânulos. Estas organelas foram visibilizadas ao microscópio de luz como sendo delicados bastones, filamentos ou grânulosque estão presentes no interior de todas as células, com exceção das hemácias de mamíferos."
+    },
+    {
+      "id": "m-117",
+      "key": "Mitose",
+      "keyNormalized": "mitose",
+      "markdown": "Mitose *\\-* do grego *Mitos*, fio. Processo de divisão das células (cromossomos)."
+    },
+    {
+      "id": "m-118",
+      "key": "Mitral",
+      "keyNormalized": "mitral",
+      "markdown": "Mitral *\\-* do latim *Mitra*. A válvula mitral recebeu esse por assemelhar-se (embora um tanto vagamente) a uma mitra, ou seja, o chapéu com pontas de um bispo."
+    },
+    {
+      "id": "m-119",
+      "key": "Modiolo",
+      "keyNormalized": "modiolo",
+      "markdown": "Modiolo – do latim *Modiolus*, diminutivo de *Modius*, cântaro, trépano. Em Roma, o *Modius* (ou *Modium*) era uma medida de capacidade para sólidos (alqueire), especialmente cereais, e dava nome às vasilhas ou a um cântaro usado (s) em poços ou cisternas. Mas a palavra designava ainda um instrumento cirúrgico (um trépano) e também a parte central de uma roda, onde se fixam o eixo e os raios. Ambos os objetos possuem semelhança de forma com o órgão da orelha interna, descrito por Bartolommeo Eustachio, em 1563\\."
+    },
+    {
+      "id": "m-120",
+      "key": "Molar",
+      "keyNormalized": "molar",
+      "markdown": "Molar – do latim *Molaris*, relativo à mó, Mola, mó, pedra de moinho. Porque à semelhança da mó, estes dentes trituram grãos colocados entre eles."
+    },
+    {
+      "id": "m-121",
+      "key": "Molécula",
+      "keyNormalized": "molecula",
+      "markdown": "Molécula \\- do latim *Moles*, massa, com o sufixo diminutivo *Cula*."
+    },
+    {
+      "id": "m-122",
+      "key": "Monócito",
+      "keyNormalized": "monocito",
+      "markdown": "Monócito *\\-* do grego *Monos,* único e *Kytos, célula.* Monócito é o leucócito com núcleo único, grande, arredondado ou ovalado."
+    },
+    {
+      "id": "m-123",
+      "key": "Mononuclear",
+      "keyNormalized": "mononuclear",
+      "markdown": "Mononuclear *\\-* do grego *Monos*, único e do latim *Nucleos*, pequena semente."
+    },
+    {
+      "id": "m-124",
+      "key": "Monte",
+      "keyNormalized": "monte",
+      "markdown": "Monte – do latim *Mons*, monte, montanha. Para as mulheres, o nome era “*mons venerii*” (monte de Vênus) e, para os homens, “*mons jovis*” (monte de Jupiter). Atualmente, para ambos temos “*mons púbis*” (monte do adolescente)."
+    },
+    {
+      "id": "m-125",
+      "key": "Morfogenese",
+      "keyNormalized": "morfogenese",
+      "markdown": "Morfogenese – do grego *Morph*, forma e *Géne-sis*, gerar, formar. Aplica-se este termo à formação e diferenciação dos tecidos."
+    },
+    {
+      "id": "m-126",
+      "key": "Morfologia",
+      "keyNormalized": "morfologia",
+      "markdown": "Morfologia – do grego *Morph*, forma e *Log*, estudo. Parte da biologia que estuda a forma dos seres orgânicos e as modificações e as transformações que nele ocorrem."
+    },
+    {
+      "id": "m-127",
+      "key": "Mórula",
+      "keyNormalized": "morula",
+      "markdown": "Mórula \\- Diminutivo do latim *Morus*, amora."
+    },
+    {
+      "id": "m-128",
+      "key": "Motor",
+      "keyNormalized": "motor",
+      "markdown": "Motor – do latim *Motus*, movimento, e *Actor*, agente."
+    },
+    {
+      "id": "m-129",
+      "key": "Móvel",
+      "keyNormalized": "movel",
+      "markdown": "Móvel – do latim *Mobilis*, móvel, ágil."
+    },
+    {
+      "id": "m-130",
+      "key": "Mucina",
+      "keyNormalized": "mucina",
+      "markdown": "Mucina *\\-* do latim *Mucus*, secreção viscosa."
+    },
+    {
+      "id": "m-131",
+      "key": "Muco",
+      "keyNormalized": "muco",
+      "markdown": "Muco \\- do latim *Mucus*, secreção viscosa."
+    },
+    {
+      "id": "m-132",
+      "key": "Mucosa",
+      "keyNormalized": "mucosa",
+      "markdown": "Mucosa – do latim *Mucus*, catarrro e do grego *Mucha*, catarro."
+    },
+    {
+      "id": "m-133",
+      "key": "Multiforme",
+      "keyNormalized": "multiforme",
+      "markdown": "Multiforme – do latim *Multus*, muitos e *Formis*, em forma de, Multipenado – do latim *Multus*, muitos e *Pennatus*, penado."
+    },
+    {
+      "id": "m-134",
+      "key": "Músculo",
+      "keyNormalized": "musculo",
+      "markdown": "Músculo \\- do latim *Musculus*, diminutivo de *Mus*, camundongo. Devido à contração muscular os antigos viram certa semelhança entre o músculo isolado e um camundongo. Alguns anatomistas\n\n\nacreditam que esta palavra tenha derivado do latim *Musculus*, significando especificamente os músculos do corpo, deve ter sido formada como um diminutivo corrupto do grego *Mys*, músculo. Mas alguns etimologistas alegam que a vogal grega “i” dificilmente daria “u” em latim, por causa da eufonia. Então, sendo o diminutivo do latim *Mus*, camundongo, a comparação entre camundongos e músculos pode ter sido sugerida pela maneira sutil como os últimos deslizam sob a pele ou pela semelhança de forma (o ventre pareceria o corpo e o tendão a cauda do animal). Platão e Aristóteles achavam que os músculos seriam apenas revestimentos para o corpo. Galeno (século II) foi o primeiro a estudá-los sistematicamente e descreveu mais de 300 músculos no seu livro “*Peri myon anatomes*”, mas considerava-os em conjunto e numerava-os dentro do grupo, poucos sendo os que tinham nome próprio. Vesálio em 1553, no seu famoso livro “*De Humani Corporis Fabrica*”, também utilizou a nomenclatura numérica, muito confusa. No século XVII, Sylvio e depois Jean Riolan fizeram as primeiras tentativas para uma nomenclatura própria para os músculos. Esta somente foi alcançada no século XVIII, por iniciativa de anatomistas como James Douglas, Jacob Winslow e Albinus."
+    },
+    {
+      "id": "m-135",
+      "key": "Mutação",
+      "keyNormalized": "mutacao",
+      "markdown": "Mutação *\\-* do latim *Mutare*, mudar."
+    }
+  ]
+}

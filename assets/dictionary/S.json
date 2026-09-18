@@ -1,0 +1,629 @@
+{
+  "letter": "S",
+  "entries": [
+    {
+      "id": "s-1",
+      "key": "Sacarose",
+      "keyNormalized": "sacarose",
+      "markdown": "Sacarose \\- do grego *Sakcharon*, açúcar."
+    },
+    {
+      "id": "s-2",
+      "key": "Sacciforme",
+      "keyNormalized": "sacciforme",
+      "markdown": "Sacciforme – do latim *Saccus*, saco, odre e *Formis*, em forma de."
+    },
+    {
+      "id": "s-3",
+      "key": "Saco",
+      "keyNormalized": "saco",
+      "markdown": "Saco – do latim *Saccus*, saco, odre. Os antigos romanos chamavam *Saccus* ao pequeno recipiente de couro usado para guardar vinho ou para um pequeno saco com ervas usado colado ao corpo, com fins medicinais."
+    },
+    {
+      "id": "s-4",
+      "key": "Sacro",
+      "keyNormalized": "sacro",
+      "markdown": "Sacro – do latim *Sacrum*, sagrado, intocável, não profano. Os gregos e Galeno chamavam este osso de “*ieron osteon*” (osso grande), mas a palavra *ieron* tinha também o significado de “ilustre, importante, poderoso, glorioso”. Por este último sentido, a expressão foi traduzida para o latim com “*os sacrum*”. A partir desta confusão, diversas hipóteses foram aventadas para explicar a denominação deste osso. Para uns, guardaria as vísceras que seriam oferecidas como “*iguaria especial nos sacrificios*”, para outros porque seria o maior segmento da coluna vertebral; seria considerado como uma das bases da ressureição, por causa de sua resitência à deterioração ou porque abrigava os “*sagrados*” órgãos da reprodução. A palvra “*sacrifício*” é composta do latim *Sacrum* (sagrado) e *Officium* (trabalho)."
+    },
+    {
+      "id": "s-5",
+      "key": "Saculiforme",
+      "keyNormalized": "saculiforme",
+      "markdown": "Saculiforme \\- Em forma de “sacos” ou bolsas."
+    },
+    {
+      "id": "s-6",
+      "key": "Sáculo",
+      "keyNormalized": "saculo",
+      "markdown": "Sáculo – do latim *Sacculus*, diminutivo de *Saccus*, saco, odre."
+    },
+    {
+      "id": "s-7",
+      "key": "Safena",
+      "keyNormalized": "safena",
+      "markdown": "Safena – origem duvidos pode ter vindo do grego *Saphena*, visível, claro, ou também do árabe *Al*\\-*safin*, secreto, escondido. O termo pode ter derivado da visibilidade óbvia das veias da perna, manifestada comumente pelas varizes. Mas esta palavra grega não tinha aplicação em anatomia e nem à veia em questão. A palavra “*al-safin*” (escondido, secreto) aparece nos textos de Avicena nomeando as veias do membro inferior e possivelmente os tradutores usaram, por homofonia, a palavra grega inadequada. Como a medicina árabe utilizasse costumeiramente as sangrias, as veias superficiais foram detalhadamente estudadas e o termo deve ter surgido por comparação com o trajeto das veias do membro superior, que são visíveis por toda sua extensão, ao contrário do que ocorre com as veias safenas (magna e parva), visíveis apenas parcialmente e, portanto, impróprias para aquele procedimento, por estarem escondidas ou ocultas."
+    },
+    {
+      "id": "s-8",
+      "key": "Sagital",
+      "keyNormalized": "sagital",
+      "markdown": "Sagital \\- do latim *Sagitta*, seta, dardo. Dai significar: 1º \\- em forma de seta. 2º \\- reta, em direção ântero-posterior. Parece que a idéia de comparar esta sutura com um dardo vem da sua descrição nos trabalhos de *Ibn Jami*. O termo “sagital” foi introduzido por Henle e dado à sutura interparietal por causa de sua forma, semelhante a uma seta."
+    },
+    {
+      "id": "s-9",
+      "key": "Saliva",
+      "keyNormalized": "saliva",
+      "markdown": "Saliva \\- do latim *Saliva*, suco da boca. Líquido alcalino claro, meio viscoso, segregado pelas glândulas salivares, vertido na cavidade bucal, e que serve para amolecer, facilitar a deglutição e iniciar a digestão de alguns alimentos."
+    },
+    {
+      "id": "s-10",
+      "key": "Salpinge",
+      "keyNormalized": "salpinge",
+      "markdown": "Salpinge \\- do grego *Salpinx*, trompa, trombeta. Estrutura em forma de trompa, tuba, trompa de Falopio. Existe duas estruturas em anatomia que receberam esse nome devido a sua estrutura ter aparência de tuba. Seria a tuba do útero (trompa de Falopio) e a tuba auditiva (trompa de Eustáquio)."
+    },
+    {
+      "id": "s-11",
+      "key": "Salpingopalatino",
+      "keyNormalized": "salpingopalatino",
+      "markdown": "Salpingopalatino – do grego *Salpinx*, trombeta e *Palatinum*,relativo ao palato."
+    },
+    {
+      "id": "s-12",
+      "key": "Sangue",
+      "keyNormalized": "sangue",
+      "markdown": "Sangue – do latim *Sanguis*, sangue. Líquido geralmente de cor roxa, que circula pelas artérias e veias do corpo dos animais. É constituído por uma parte líquida o plasma e por células em suspenção: hemácias, leucócitos e plaquetas. Sua função é distribuir oxígenio, nutrientes e outras sustâncias para as células do organismo, e recolher destas os produtos de descarte (excreção)."
+    },
+    {
+      "id": "s-13",
+      "key": "Sarcolema",
+      "keyNormalized": "sarcolema",
+      "markdown": "Sarcolema \\- do grego *Sarx*, carne e *Lemma*, folha, mebrana fina. Membrana muito fina que envolve por completo cada uma das fibras musculares. Corresponde à membrana celular das fibras musuclares."
+    },
+    {
+      "id": "s-14",
+      "key": "Sarcômero",
+      "keyNormalized": "sarcomero",
+      "markdown": "Sarcômero \\- do grego *Sarx*, *Sarkos*, carne e *Meros*, parte. Unidade estrutural e funcional das fibras musculares estriadas. Segmento da miofibrila, que se repete ao longo dela, e de cuja contração resulta no encurtamento da fibra muscular."
+    },
+    {
+      "id": "s-15",
+      "key": "Sarcoplasma",
+      "keyNormalized": "sarcoplasma",
+      "markdown": "Sarcoplasma \\- do grego *Sarx*, *Sarkos*, carne e *Plás-m(a),* líquido constituinte. Citoplasma das células musculares."
+    },
+    {
+      "id": "s-16",
+      "key": "Sarcosoma",
+      "keyNormalized": "sarcosoma",
+      "markdown": "Sarcosoma \\- do grego *Sarx*, *Sarkos*, carne e *Sōm(a),* Corpúsculo celular. Corresponde as mitocôndrias presentes no citoplasma das fibras musculares."
+    },
+    {
+      "id": "s-17",
+      "key": "Sartório",
+      "keyNormalized": "sartorio",
+      "markdown": "Sartório – do latim *Sartor*, alfaiate. O músculo recebeu este nome por causa de sua ação flexora e adutora da perna e, ao mesmo tempo, rotadora lateral, fazendo com que uma perna cruze sobre a outra, na típica posição de costura adotada pelos alfaiates romanos."
+    },
+    {
+      "id": "s-18",
+      "key": "Sebácea",
+      "keyNormalized": "sebacea",
+      "markdown": "Sebácea – do latim *Sebaceus*, gorduroso e *Sebum*, sebo, untado. Glândula da pele que secreta e elimina gordura."
+    },
+    {
+      "id": "s-19",
+      "key": "Seborréia",
+      "keyNormalized": "seborreia",
+      "markdown": "Seborréia \\- do latim *Sebum*, sebo e do grego *Rhoia*, fluxo."
+    },
+    {
+      "id": "s-20",
+      "key": "Secção",
+      "keyNormalized": "seccao",
+      "markdown": "Secção – do latim *Sectio*, corte, separação, divisão."
+    },
+    {
+      "id": "s-21",
+      "key": "Secreção",
+      "keyNormalized": "secrecao",
+      "markdown": "Secreção – do latim *Sē*, parte e *Crē*, separar. Em latim *Secrētiōn*(em) significa, separação. No entanto também pode ter vindo do grego *Ekkrisis*, secreção."
+    },
+    {
+      "id": "s-22",
+      "key": "Secretina",
+      "keyNormalized": "secretina",
+      "markdown": "Secretina – do latim *Se*, parte; *Crē*, separar e *In(a),* substância. Hormônio gastrointestinal que é liberadp noduodeno quando chega o ácido proveniente do estômago; sua função é estimular a secreção do pâncreas."
+    },
+    {
+      "id": "s-23",
+      "key": "Secundário",
+      "keyNormalized": "secundario",
+      "markdown": "Secundário – do latim *Secundarius*, não essencial, em segundo lugar."
+    },
+    {
+      "id": "s-24",
+      "key": "Segmento",
+      "keyNormalized": "segmento",
+      "markdown": "Segmento – do latim *Segmentum*, parte, pedaço, fatia."
+    },
+    {
+      "id": "s-25",
+      "key": "Segundo",
+      "keyNormalized": "segundo",
+      "markdown": "Segundo – do latim *Secundus*, segundo, depois do primeiro."
+    },
+    {
+      "id": "s-26",
+      "key": "Seio",
+      "keyNormalized": "seio",
+      "markdown": "Seio \\- do latim *Sinus*, bolso, vaso, vela de barco, arco, espaço oco. Como se pode observar a palavra *Sinus* em latim, tinha diversas conotações diferentes, todas elas com o sentido “oco, escavado” ou “encurvado e saliente”. Designava uma dobra de tecido no vestido das mulheres para caregar e amamentar os filhos (mas não designava as mamas). É possível que esta confusão entre o local e órgão tenha gerado o sentido popular. Em anatomia, o termo é aplicado, propriamente no sentido de bolso, a cavidades e recessos com uma só entrada, como os seios paranasais e os seios das válvulas aórtica e pulmonar. No sentido de canal (como nos seios da dura-máter, no seio do tarso ou nos do pericário), o termo está incorreto."
+    },
+    {
+      "id": "s-27",
+      "key": "Sela",
+      "keyNormalized": "sela",
+      "markdown": "Sela – do latim *Sella*, cadeira, e *Sedere*, sentar. A palavra provavelmente originou-se por aliteração do latim *Sedella* (assento), móvel simples e rústico, sem apoio para a cabeça ou o dorso, feito de tiras de couro trançadas sobre uma armação de madeira. Os gregos e romanos não tinham selas de couro e, portanto, a palavra significava, originalmente, apenas um local para sentar. As selas de couro e os estribos somente foram introduzidos no Ocidente no século IV,\n\n\npelos otomanos. Em anatomia, a sela turca (usada originalmente pela cavalaria do exército otomano) designa o reposteiro ósseo para a glândula hipófise."
+    },
+    {
+      "id": "s-28",
+      "key": "Selar",
+      "keyNormalized": "selar",
+      "markdown": "Selar – do latim *Sellaris*, relativo ao assento, à cadeira."
+    },
+    {
+      "id": "s-29",
+      "key": "Sêmen",
+      "keyNormalized": "semen",
+      "markdown": "Sêmen \\- do latim *Semen*, semente. Conjunto de espermatozóides e substãncias fluídas que são produzidas no aparelho genital masculino dos animais e da espécie humana."
+    },
+    {
+      "id": "s-30",
+      "key": "Semicanal",
+      "keyNormalized": "semicanal",
+      "markdown": "Semicanal – do latim *Semi*, metade, meio, e *Canalis*, canal, fosso, tubo."
+    },
+    {
+      "id": "s-31",
+      "key": "Semicircular",
+      "keyNormalized": "semicircular",
+      "markdown": "Semicircular – do latim *Semi*, metade, meio e *Circularis*, relativo ao círculo."
+    },
+    {
+      "id": "s-32",
+      "key": "Semilunar",
+      "keyNormalized": "semilunar",
+      "markdown": "Semilunar – do latim *Semi*, metade, meio e *Lunaris*, lunar, relativo à lua."
+    },
+    {
+      "id": "s-33",
+      "key": "Semimembranáceo",
+      "keyNormalized": "semimembranaceo",
+      "markdown": "Semimembranáceo – do latim *Semi*, metade, meio e *Membranosus*, membranoso."
+    },
+    {
+      "id": "s-34",
+      "key": "Seminal",
+      "keyNormalized": "seminal",
+      "markdown": "Seminal – do latim *Seminalis*, relativo a sêmen e *Semen*, semente."
+    },
+    {
+      "id": "s-35",
+      "key": "Seminífero",
+      "keyNormalized": "seminifero",
+      "markdown": "Seminífero \\- do latim *Semen*, semente e *Ferus*, carregar, levar, transportar."
+    },
+    {
+      "id": "s-36",
+      "key": "Semipenado",
+      "keyNormalized": "semipenado",
+      "markdown": "Semipenado – do latim *Semi*, metade, meio e *Pennatus*, penado."
+    },
+    {
+      "id": "s-37",
+      "key": "Semitendíneo",
+      "keyNormalized": "semitendineo",
+      "markdown": "Semitendíneo – do latim *Semi*, metade, meio e *Tendinosus*, tendinoso."
+    },
+    {
+      "id": "s-38",
+      "key": "Senil",
+      "keyNormalized": "senil",
+      "markdown": "Senil \\- do latim *Senilis*, relativo a envelhecimento prematuro ou mórbido."
+    },
+    {
+      "id": "s-39",
+      "key": "Sensitivo",
+      "keyNormalized": "sensitivo",
+      "markdown": "Sensitivo – do latim *Sensitivus*, sensível, emotivo, impressionável."
+    },
+    {
+      "id": "s-40",
+      "key": "Sensorial",
+      "keyNormalized": "sensorial",
+      "markdown": "Sensorial – do latim *Sensorialis*, relativo aos sentidos, à sensibilidade. O termo deriva do latim tardio (medieval) “*Sensorium*”, significando local das sensações, cunhado por Boécio."
+    },
+    {
+      "id": "s-41",
+      "key": "Sentido",
+      "keyNormalized": "sentido",
+      "markdown": "Sentido – do latim Sensus, sentido e Sentire, sentir."
+    },
+    {
+      "id": "s-42",
+      "key": "Septo",
+      "keyNormalized": "septo",
+      "markdown": "Septo – do latim *Septum*, cerca de madeira, tapume, e *Sepire*, cercar. Originalmente a palavra era *Saeptum* (cercado) e *Saepire* (cercar com sebe). Na antiga Roma, o *Saepta* (plural, *Septorum*) era um recinto cercado onde os cidadãos eram encerrados por centúrioes e de onde saiam para votar, um de cada vez. Passou por extensão, em anatomia, a designar uma parede divisória."
+    },
+    {
+      "id": "s-43",
+      "key": "Septomarginal",
+      "keyNormalized": "septomarginal",
+      "markdown": "Septomarginal – do latim *Septum*, cerca de madeira, tapume e *Marginalis*, relativo à margem."
+    },
+    {
+      "id": "s-44",
+      "key": "Serosa",
+      "keyNormalized": "serosa",
+      "markdown": "Serosa – origem incerta. Talvez do latim *Serosus*, ligado, atado, ou uma corrupção do latim  \n*Serum*, soro, parte aquosa do leite. *Serosus* poderia derivar do latim *Serere* (ligar, atar),\n\nsignificando também o agente da ação; ou de *Serum* (soro lácteo) e esta, provavelmente do latim *Serus* (tardio), porque era a porção restante do leite no processo de fabricação do queijo ou manteiga. Esta última associação seria devida à característica do líquido secretado pela membrana, semelhante ao soro, passando o nome a designar ambos (membrana e secreção)."
+    },
+    {
+      "id": "s-45",
+      "key": "Serotino",
+      "keyNormalized": "serotino",
+      "markdown": "Serotino – do latim *Serotinus*, vespertino, *Serus*, tardio, ao anoitecer. O terceiro dente molar recebeu este nome porque erupta tardiamente, depois do esperado."
+    },
+    {
+      "id": "s-46",
+      "key": "Serotonina",
+      "keyNormalized": "serotonina",
+      "markdown": "Serotonina – termo híbrido do latim *Ser(um),* Soro, do grego *Ton(o),* Tensão e *In(a)* quím., Substância. Neurotransmisor do sistema nervoso central com ação vasoconstritora."
+    },
+    {
+      "id": "s-47",
+      "key": "Serrátil",
+      "keyNormalized": "serratil",
+      "markdown": "Serrátil – do latim *Serratus*, serreado e *Serrare*, serrar. O mesmo que serreada. Os músculos serráteis receberam este nome por causa de sua origem múltipla, com aspecto denteado, como uma serra."
+    },
+    {
+      "id": "s-48",
+      "key": "Serreada",
+      "keyNormalized": "serreada",
+      "markdown": "Serreada – do latim *Serratus*, serreado, e *Serra*, serrote, o mesmo que serratil."
+    },
+    {
+      "id": "s-49",
+      "key": "Sesamo",
+      "keyNormalized": "sesamo",
+      "markdown": "Sesamo – do grego *Sēsamom*, planta ou semento de gergelim."
+    },
+    {
+      "id": "s-50",
+      "key": "Sesamóide",
+      "keyNormalized": "sesamoide",
+      "markdown": "Sesamóide – do grego *Sesamen*, gergelim e *Oidé*, forma de. Por causa da semelhança entre estes pequenso ossos e as sementes do gergelim."
+    },
+    {
+      "id": "s-51",
+      "key": "Sexo",
+      "keyNormalized": "sexo",
+      "markdown": "Sexo – do latim *Sexu*, sexo. Em anatomia corresponderia aos órgãos sexuais que distinguem enter o macho e a fêmea, tendo uma função específica para a perpetuação da espécie."
+    },
+    {
+      "id": "s-52",
+      "key": "Sialorréia",
+      "keyNormalized": "sialorreia",
+      "markdown": "Sialorréia \\- do grego *Sialon*, saliva e *Rhoia*, fluxo."
+    },
+    {
+      "id": "s-53",
+      "key": "Sigmóide",
+      "keyNormalized": "sigmoide",
+      "markdown": "Sigmóide \\- do grego *Sigma* (a letra grega S) e *Eidos*, semelhante. Antigamente a letra S maiúscula lembrava a nossa letra C. O termo era originalmente aplicado a várias estruturas encurvadas, sendo comum nas obras de Oribásio e Galeno. Nomeia a parte final dos colos e um dos seios da dura-máter, por causa de suas formas."
+    },
+    {
+      "id": "s-54",
+      "key": "Simbiose",
+      "keyNormalized": "simbiose",
+      "markdown": "Simbiose – do grego *Sýn,* com, união; *Bios* vida e *O-sis*, processo. Associação de indivíduos animais ou vegetais de diferentes espécies, em que os associados “ou simbiontes” tem proveito da vida em comum. Em grego symbíōsis que significava 'convivência' mas não era usado com referência a animais, este termo foi reintroduzido em inglês em 1622; com o atual significado biológico proviente do alemão Symbiose antes de 1877\\."
+    },
+    {
+      "id": "s-55",
+      "key": "Simetria",
+      "keyNormalized": "simetria",
+      "markdown": "Simetria – do grego *Sýn*, união, com e *Metr(o),* medida. Adequada proporção das partes de um todo entre si e com o próprio todo. Regularidade no arranjo das peças ou pontos de um corpo ou figura, para ter um centro, um eixo ou plano de simetria."
+    },
+    {
+      "id": "s-56",
+      "key": "Simpático",
+      "keyNormalized": "simpatico",
+      "markdown": "Simpático – do grego *Sympathetikos*, simpático e *Syn*, junto com e *Pathos*, afeição, ânimo. Galeno admitia que o tronco simpático fosse apenas uma parte do nervo vago, devido provavelmente às comunicações deste como os primeiros gânglios cervicais."
+    },
+    {
+      "id": "s-57",
+      "key": "Vesalio embora tenha",
+      "keyNormalized": "vesalioemboratenha",
+      "markdown": "Vesalio embora tenha \\- lhe reconhecido a natureza diversa, continuou achando-o dependente daquele nervo. Thomas Willis foi o primeiro anatomista a perceber a real essência do tronco simpático, atribuindo-lhe este nome por causa de suas comunicações com quase todos os nervos do corpo. Durante séculos, a parte simpática do sistema nervoso autônomo recebeu também os nomes de *Nervus Magnus Harmonicus* e *Nervus Consensualis Magnus*."
+    },
+    {
+      "id": "s-58",
+      "key": "Simples",
+      "keyNormalized": "simples",
+      "markdown": "Simples – do latim *Simplex*, simples, singelo, único."
+    },
+    {
+      "id": "s-59",
+      "key": "Simporte",
+      "keyNormalized": "simporte",
+      "markdown": "Simporte \\- do grego *Sýn*, união, com e *Port*, transportar. Transporte de dois solutos através de uma membrana na mesma direção, aumento do fluxo simultâneo."
+    },
+    {
+      "id": "s-60",
+      "key": "Sinapse",
+      "keyNormalized": "sinapse",
+      "markdown": "Sinapse \\- do grego *Syn*, junto e *Haptein*, tocar. Esta palavra foi criada para significar o ponto de contato dos neurônios."
+    },
+    {
+      "id": "s-61",
+      "key": "Sinaptonêmico",
+      "keyNormalized": "sinaptonemico",
+      "markdown": "Sinaptonêmico – do grego *Sýn*, união, junto; *Hap*, tocar, estar em contato e *Nē-m(a),* fio. Estrutura proteíca que ocupa a zona intermediária entre os cromossomos em sinapse no zigóteno."
+    },
+    {
+      "id": "s-62",
+      "key": "Sinatrose",
+      "keyNormalized": "sinatrose",
+      "markdown": "Sinatrose \\- do grego *Syn*, junto, união; *Arthr(o),* articulação e *Ō-sis*, processo. Termo criado por Galeno no século II d.C. Articulação não móvel, como ocorre nos ossos do crânio que estão unidos por tecido fibroso ou cartilaginoso, sem uma cavidade articular."
+    },
+    {
+      "id": "s-63",
+      "key": "Sincicio",
+      "keyNormalized": "sincicio",
+      "markdown": "Sincicio \\- do grego *Syn*, junto e *Kyto*, célula. Uma célula ou massa protoplasmática com inúmeros núcleos."
+    },
+    {
+      "id": "s-64",
+      "key": "Sinciciotrofoblasto",
+      "keyNormalized": "sinciciotrofoblasto",
+      "markdown": "Sinciciotrofoblasto – do grego *Syn*, união, juntamente; *Throfos* (alimentação) e *Blastos* (formadora). É uma camada sincicial que se desenvolve a partir do trofoblasto, situada por fora do citotrofoblasto, na qual começam a surgir as lacunas trofoblásticas que levam a formação de vilosidades entre o embrião e placenta."
+    },
+    {
+      "id": "s-65",
+      "key": "Sincondrose",
+      "keyNormalized": "sincondrose",
+      "markdown": "Sincondrose – do grego *Syn*, junto, com e *Chondros*, cartilagem."
+    },
+    {
+      "id": "s-66",
+      "key": "Sindesmose",
+      "keyNormalized": "sindesmose",
+      "markdown": "Sindesmose \\- do grego *Syn*, junto e *Desmos*, ligamento. Sindesmose é uma sínfise fibrosa."
+    },
+    {
+      "id": "s-67",
+      "key": "Síndrome",
+      "keyNormalized": "sindrome",
+      "markdown": "Síndrome – do grego *Sýn*, com, Junto, união e *Drom*(o), carreira. *Syndrom*ḗ foi utilizado inicialmente por Galeno para significar tumulto. Este termo foi reintroduzido em 1519 com o significado atual para designar um conjunto de síntomas e sinais que ocorrem em uma mesma patologia e que em seu conjunto definem o diagnóstico e o quadro clínico de uma condição médica. Síndrome não é doença, é uma condição médica."
+    },
+    {
+      "id": "s-68",
+      "key": "Sinéquia",
+      "keyNormalized": "sinequia",
+      "markdown": "Sinéquia \\- do grego *Synechia*, continuidade. Significa “aderência”."
+    },
+    {
+      "id": "s-69",
+      "key": "Sinergia",
+      "keyNormalized": "sinergia",
+      "markdown": "Sinergia – do grego *Sýn*, com, Junto, união e *Ergíā*, atuação. Termo utilizado por Aristóteles (IV a.C) para designar cooperação, foi reintroduzido inicialmente com esse significado em 1660; e na Inglaterra com o atual significado fisiológico em 1847\\. Contribuição ativa de vários órgãos ou medicamentos para realizar uma determinada função.\n\nSínfise \\-- do grego *Synphisis*, crescer junto. *Syn*, junto, com e *Physis*, sulco, crescimento."
+    },
+    {
+      "id": "s-70",
+      "key": "Singâmico",
+      "keyNormalized": "singamico",
+      "markdown": "Singâmico \\- do grego *Sýn*, junto, união e *Gamíā*, união sexual. União dos gametas para formar o zigoto."
+    },
+    {
+      "id": "s-71",
+      "key": "Singular",
+      "keyNormalized": "singular",
+      "markdown": "Singular – do latim *Singularis*, isolado, solitário, singular."
+    },
+    {
+      "id": "s-72",
+      "key": "Sinoatrial",
+      "keyNormalized": "sinoatrial",
+      "markdown": "Sinoatrial – do latim *Sinus*, golfo, bolso, vaso e *Atrialis*, relativo ao átrio."
+    },
+    {
+      "id": "s-73",
+      "key": "Sinostose",
+      "keyNormalized": "sinostose",
+      "markdown": "Sinostose – do grego *Sýn*, União, *Oste(o),* osso e *Ó-sis*, processo. União de ossos adjacentes por meio de matéria óssea, como as soldaduras dos ossos de crânio."
+    },
+    {
+      "id": "s-74",
+      "key": "Sinóvia",
+      "keyNormalized": "sinovia",
+      "markdown": "Sinóvia \\- do grego *Syn*, com e do latim *Ovum*, ovo. A sinóvia tem aparência de clara de ovo. O termo foi introduzido por Paracelso, provavelmente pela semelhança de cor e consistência do liquido articular com a clara do ovo. Mas ele usava a palavra sinovia também para designar qualquer fluído corporal claro (liquido pleural, peritoneal e cerebroespinhal)."
+    },
+    {
+      "id": "s-75",
+      "key": "Síntese",
+      "keyNormalized": "sintese",
+      "markdown": "Síntese \\- do grego *Syn*, junto e *Thé*\\-sis, disposição; e do latim *Synthesis*, composição. Processo de obtenção de um composto a partir de sustâncias mais simples."
+    },
+    {
+      "id": "s-76",
+      "key": "Sinusóide",
+      "keyNormalized": "sinusoide",
+      "markdown": "Sinusóide \\- do latim *Sinus*, seio ou cavidade e do grego *Eidos*, semelhante."
+    },
+    {
+      "id": "s-77",
+      "key": "Sistema",
+      "keyNormalized": "sistema",
+      "markdown": "Sistema – do grego *Systima*, conjunto e *Syn*, junto, com e *Istemain*, estar situado, ficar. Vide o termo aparelho. É um conjunto de elementos ligados harmonicamente, de modo a formar um todo organizado. É uma definição que acontece em várias disciplinas, como biologia, medicina, informática, administração. Conforme mencionado vem do grego *Syistima* significa \"combinar\", \"ajustar\", \"formar um conjunto\". Em biologia seria um conjunto de órgãos que no conjunto realizam uma determinada função, tal como no sistema digestório, urinário, respiratório etc."
+    },
+    {
+      "id": "s-78",
+      "key": "Sístole",
+      "keyNormalized": "sistole",
+      "markdown": "Sístole \\- do grego *Syn*, junto e *Stellein*, apertar. Contração do músculo cardíaco ou qualquer víscera oca. No coração, distinguem-se sístoles auriculares ou atriais e as sístoles ventriculares."
+    },
+    {
+      "id": "s-79",
+      "key": "Sódio",
+      "keyNormalized": "sodio",
+      "markdown": "Sódio \\- Eis uma palavra cuja origem permanece desconhecida."
+    },
+    {
+      "id": "s-80",
+      "key": "Sóleo",
+      "keyNormalized": "soleo",
+      "markdown": "Sóleo – do latim *Solea*, sola de sandália, sôlha (peixa achatado). Seu nome provém provavlemente da forma semelhante à solha, um peixe de corpo achatado (*Pleuronectus solea*)."
+    },
+    {
+      "id": "s-81",
+      "key": "Solitário",
+      "keyNormalized": "solitario",
+      "markdown": "Solitário – do latim *Solitarius*, isolado, separado, solitário."
+    },
+    {
+      "id": "s-82",
+      "key": "Soma",
+      "keyNormalized": "soma",
+      "markdown": "Soma \\- do grego *Soma*, corpo."
+    },
+    {
+      "id": "s-83",
+      "key": "Somático",
+      "keyNormalized": "somatico",
+      "markdown": "Somático – do grego *Somatykos*, somático, relativo ao corpo. Os médicos gregos tinham sua doutrina apoiada na divisão do corpo humano, filosoficamente, em três partes: *Soma*, *Phrén* e *Psyché* (corpo, mente e alma). Usavam a palavra *Somatykos* (do corpo) em oposição à *Phrenykos* (da mente) mas não à *Psychikos*. A *Psyché* não era considerada como geradora de doenças, na Medicina grega."
+    },
+    {
+      "id": "s-84",
+      "key": "Somatopleura",
+      "keyNormalized": "somatopleura",
+      "markdown": "Somatopleura – do grego *Sōm(a),* corpo e *Pleur(á),* Costelas. Parede lateral do embrião que consiste em uma camada ectodérmica alinhada com o mesoderma."
+    },
+    {
+      "id": "s-85",
+      "key": "Somito",
+      "keyNormalized": "somito",
+      "markdown": "Somito \\- do grego *Sōm(a),* corpo *Eīt(ēs),* elemento anatômico. Cada um dos elementos em que se divide o mesoderma do tronco do embrião."
+    },
+    {
+      "id": "s-86",
+      "key": "Soro",
+      "keyNormalized": "soro",
+      "markdown": "Soro – do latim *Ser(um),* soro. Suspensão aquosa de substâncias compatíveis com os organismos vivos devido as suas características físico-quimicas (osmóticas, pH e iônicas)."
+    },
+    {
+      "id": "s-87",
+      "key": "Subclávio",
+      "keyNormalized": "subclavio",
+      "markdown": "Subclávio – do latim *Sub*, abaixo, sob e *Clavius* (*Clavicularis*), relativo à clavícula."
+    },
+    {
+      "id": "s-88",
+      "key": "Subdural",
+      "keyNormalized": "subdural",
+      "markdown": "Subdural – do latim *Sub*, baixo de; *Dūra(m),* dura e *Mātre(m),* mãe. O que se localiza abaixo da duramater."
+    },
+    {
+      "id": "s-89",
+      "key": "Submandibular",
+      "keyNormalized": "submandibular",
+      "markdown": "Submandibular – do latim *Sub*, abaixo, sob, *Mandibula*, queixo."
+    },
+    {
+      "id": "s-90",
+      "key": "Substância",
+      "keyNormalized": "substancia",
+      "markdown": "Substância – do latim *Substantia*, material, essência, substância e *Sustare*, existir."
+    },
+    {
+      "id": "s-91",
+      "key": "Subtálamo",
+      "keyNormalized": "subtalamo",
+      "markdown": "Subtálamo \\- do latim *Sub*, abaixo, sob e do grego *Thalam*, leito nupcial. Pequena área que fica na região posterior do diencéfalo, abaixo do sulco hipotalâmico, na transição do mesencéfalo com o diencéfalo. Sua principal estrutura é o núcleo subtalâmico."
+    },
+    {
+      "id": "s-92",
+      "key": "Suco",
+      "keyNormalized": "suco",
+      "markdown": "Suco – do latim *Sūcu(m),* suco, secreção. No aspecto fisiológico representa a secreção de células ou de glândulas, tal como: suco gástrico, secreção enzimática, ácida, do estômago, secretada pela mucosa gástrica; sua natureza ácida facilita a degradação dos alimentos para sua absorção; ou secreção enzimática de natureza alcalina da porção exócrina do pâncreas, que é liberada no intestino; facilita a degradação dos hidratos de carbono para sua absorção."
+    },
+    {
+      "id": "s-93",
+      "key": "Sudoripara",
+      "keyNormalized": "sudoripara",
+      "markdown": "Sudoripara \\- do latim *Sudor*, suor e *Fer-u(m)/a(m),* que leva. Glândula da pele que elimina o suor. Glândula túbulo-enovelada."
+    },
+    {
+      "id": "s-94",
+      "key": "Sulco",
+      "keyNormalized": "sulco",
+      "markdown": "Sulco – do latim *Sulcus*, fenda, greta."
+    },
+    {
+      "id": "s-95",
+      "key": "Suor",
+      "keyNormalized": "suor",
+      "markdown": "Suor \\- do latim *Suor*."
+    },
+    {
+      "id": "s-96",
+      "key": "Supercílio",
+      "keyNormalized": "supercilio",
+      "markdown": "Supercílio – do latim *Super*, acima, sobre e *Cilium*, cílio, pestana."
+    },
+    {
+      "id": "s-97",
+      "key": "Superficial",
+      "keyNormalized": "superficial",
+      "markdown": "Superficial – do latim *Superficialis*, na superfície, e *Superficies*, a face superior. A palavra *Superficies* é composta de *Super*, acinma, sobre e *Ficies*, corrupção de *Facies*, face, lado de uma coisa ou objeto, portanto “o que está em cima, à vista."
+    },
+    {
+      "id": "s-98",
+      "key": "Superior",
+      "keyNormalized": "superior",
+      "markdown": "Superior – do latim *Superior*, comparativo de *Superus*, em cima, sobre."
+    },
+    {
+      "id": "s-99",
+      "key": "Supinador",
+      "keyNormalized": "supinador",
+      "markdown": "Supinador – do latim *Supinare*, deitar de costas e *Actor*, agente. Vesálio usou os termos “*Pronum*” e “*Supinum*” para a ação dos músculos radiais que viram a mão superior e inferiormente. Assim temos: “*Musculus radium in pronum* (ou *supinum*) *ducens*”.\n\nSupra-renal – do latim *Supra*, acima, sobre e *Renalis*, relativo aos rins. Termo alternativo para designar a glândula adrenal. No entanto o nome mais adequado segundo a nomina anatômica é supra-renal."
+    },
+    {
+      "id": "s-100",
+      "key": "Suprema",
+      "keyNormalized": "suprema",
+      "markdown": "Suprema – do latim *Supremus* (forma feminina), superlativo de *Superus*, em cima, sobre."
+    },
+    {
+      "id": "s-101",
+      "key": "Sura",
+      "keyNormalized": "sura",
+      "markdown": "Sura – do latim *Sura*, parte posterior da perna. O mesmo que panturrilha. Geralmente usado par designar a parte posterior (abaulada) da perna."
+    },
+    {
+      "id": "s-102",
+      "key": "Suspensor",
+      "keyNormalized": "suspensor",
+      "markdown": "Suspensor – do latim *Suspendere*, suspender, levantar, pendurar e *Actor*, agente."
+    },
+    {
+      "id": "s-103",
+      "key": "Sustentáculo",
+      "keyNormalized": "sustentaculo",
+      "markdown": "Sustentáculo – do latim *Sustentaculum*, apoio, suporte."
+    },
+    {
+      "id": "s-104",
+      "key": "Sutura",
+      "keyNormalized": "sutura",
+      "markdown": "Sutura \\- do latim *Sutura*, costura, alinhavado. A palavra Sutura, para as articulações fibrosas dos ossos do crânio, parece ter sido introduzida por Galeno ou Celso, como tradução do termo equivalente do grego *Raphén*. Relativo também ao ato de costurar tecidos animais."
+    }
+  ]
+}
