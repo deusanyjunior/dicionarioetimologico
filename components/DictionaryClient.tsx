@@ -3,7 +3,7 @@
 import { useMemo, useState } from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
-import { searchEntries } from '@/lib/search';
+import { normalizeTerm, searchEntries } from '@/lib/search';
 import type { DictionaryEntry } from '@/lib/types';
 
 const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
@@ -14,9 +14,16 @@ export function DictionaryClient({ entries }: { entries: DictionaryEntry[] }) {
   const [letter, setLetter] = useState('');
   const results = useMemo(() => submitted ? searchEntries(submitted, entries) : letter ? entries.filter((entry) => entry.keyNormalized.startsWith(letter.toLowerCase())) : [], [submitted, letter, entries]);
   const suggestions = useMemo(() => {
-    const value = query.trim().toLowerCase();
-    if (!value || value === submitted.toLowerCase()) return [];
-    return entries.filter((entry) => entry.key.toLowerCase().includes(value)).slice(0, 8);
+    const value = normalizeTerm(query.trim());
+    if (!value || value === normalizeTerm(submitted)) return [];
+    return entries
+      .filter((entry) => entry.keyNormalized.includes(value))
+      .sort((a, b) => {
+        const aStartsWith = a.keyNormalized.startsWith(value) ? 0 : 1;
+        const bStartsWith = b.keyNormalized.startsWith(value) ? 0 : 1;
+        return aStartsWith - bStartsWith || a.keyNormalized.localeCompare(b.keyNormalized, 'pt-BR');
+      })
+      .slice(0, 8);
   }, [entries, query, submitted]);
 
   function submit(event: React.FormEvent) { event.preventDefault(); setSubmitted(query); setLetter(''); }

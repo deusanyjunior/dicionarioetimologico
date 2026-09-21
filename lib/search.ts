@@ -14,12 +14,12 @@ export function searchEntries(query: string, entries: DictionaryEntry[]) {
   const variants = [term];
   for (let end = term.length - 1; end >= 2; end -= 1) variants.push(term.slice(0, end));
   for (let start = 1; start <= term.length - 2; start += 1) variants.push(term.slice(start));
-  const found = new Map<string, { entry: DictionaryEntry; priority: number }>();
+  const found = new Map<string, { entry: DictionaryEntry; priority: number; startsWithTerm: boolean }>();
   variants.forEach((variant, priority) => {
     entries.forEach((entry) => {
       if (!entry.keyNormalized.includes(variant) || found.has(entry.id)) return;
-      found.set(entry.id, { entry, priority });
+      found.set(entry.id, { entry, priority, startsWithTerm: entry.keyNormalized.startsWith(term) });
     });
   });
-  return [...found.values()].sort((a, b) => a.priority - b.priority || a.entry.keyNormalized.localeCompare(b.entry.keyNormalized, 'pt-BR')).map(({ entry }) => entry);
+  return [...found.values()].sort((a, b) => a.priority - b.priority || Number(!a.startsWithTerm) - Number(!b.startsWithTerm) || a.entry.keyNormalized.localeCompare(b.entry.keyNormalized, 'pt-BR')).map(({ entry }) => entry);
 }
