@@ -1,5 +1,6 @@
-const CACHE_NAME = 'dicionario-etimologico-v1';
-const APP_SHELL = ['/', '/sobre', '/manifest.webmanifest', '/icon.svg', '/assets/logo.svg', '/assets/epm.png', '/assets/unifesp.png'];
+const CACHE_NAME = 'dicionario-etimologico-v2';
+const BASE_URL = new URL('./', self.registration.scope);
+const APP_SHELL = ['', 'sobre/', 'manifest.webmanifest', 'icon.svg'].map((path) => new URL(path, BASE_URL).toString());
 
 self.addEventListener('install', (event) => {
   event.waitUntil(caches.open(CACHE_NAME).then((cache) => cache.addAll(APP_SHELL)));
@@ -16,13 +17,14 @@ self.addEventListener('fetch', (event) => {
 
   const request = event.request;
   const isNavigation = request.mode === 'navigate';
+  const offlineFallback = new URL('', BASE_URL).toString();
 
   if (isNavigation) {
     event.respondWith(fetch(request).then((response) => {
       const copy = response.clone();
       caches.open(CACHE_NAME).then((cache) => cache.put(request, copy));
       return response;
-    }).catch(() => caches.match(request).then((cached) => cached || caches.match('/'))));
+    }).catch(() => caches.match(request).then((cached) => cached || caches.match(offlineFallback))));
     return;
   }
 

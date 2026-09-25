@@ -5,7 +5,7 @@ import { useEffect } from 'react';
 export function ServiceWorkerRegistration() {
   useEffect(() => {
     if (!('serviceWorker' in navigator)) return;
-    navigator.serviceWorker.register('/sw.js').catch((error) => {
+    navigator.serviceWorker.register(`${process.env.NEXT_PUBLIC_BASE_PATH || ''}/sw.js`).catch((error) => {
       console.error('Não foi possível registrar o service worker:', error);
     });
   }, []);
