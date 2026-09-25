@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Dicionário etimológico</title>
+  <desc id="desc">Ícone de um livro aberto com a letra D</desc>
+  <rect width="64" height="64" rx="16" fill="#075d61"/>
+  <path d="M12 18.5c7-3.2 13.2-2.5 20 2v29c-6.8-4.5-13-5.2-20-2z" fill="#fff"/>
+  <path d="M52 18.5c-7-3.2-13.2-2.5-20 2v29c6.8-4.5 13-5.2 20-2z" fill="#d9f0eb"/>
+  <path d="M32 20.5v29" fill="none" stroke="#147d7a" stroke-width="2"/>
+  <path d="M18 26c3.5-1 7.2-.4 10.5 1.2M18 32c3.5-1 7.2-.4 10.5 1.2M46 26c-3.5-1-7.2-.4-10.5 1.2M46 32c-3.5-1-7.2-.4-10.5 1.2" fill="none" stroke="#147d7a" stroke-linecap="round" stroke-width="2"/>
+  <circle cx="32" cy="13" r="6" fill="#a9ded5"/>
+  <text x="32" y="16.5" text-anchor="middle" font-family="Georgia,serif" font-size="8" font-weight="700" fill="#075d61">D</text>
+</svg>
