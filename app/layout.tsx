@@ -3,6 +3,7 @@ import './globals.css';
 import { BackToTop } from '@/components/BackToTop';
 import { Footer } from '@/components/Footer';
 import { Header } from '@/components/Header';
+import { PWAInstallPrompt } from '@/components/PWAInstallPrompt';
 import { ServiceWorkerRegistration } from '@/components/ServiceWorkerRegistration';
 
 export const metadata: Metadata = {
@@ -19,5 +20,5 @@ export const viewport: Viewport = {
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="pt-BR"><body><Header /><main>{children}</main><Footer /><BackToTop /><ServiceWorkerRegistration /></body></html>;
+  return <html lang="pt-BR"><body><Header /><main>{children}</main><Footer /><BackToTop /><ServiceWorkerRegistration /><PWAInstallPrompt /></body></html>;
 }
