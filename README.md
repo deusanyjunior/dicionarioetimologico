@@ -47,11 +47,19 @@ A exportação é criada em `out/`. O workflow configura automaticamente o `base
 
 O build normal (`npm run build`) continua adequado para a Vercel. O build do GitHub Pages usa `GITHUB_PAGES=true` e `NEXT_PUBLIC_BASE_PATH` apenas dentro do workflow, sem alterar o comportamento local ou da Vercel.
 
-## PWA e funcionamento offline
+## Versão PWA e funcionamento offline
 
-A aplicação é um Progressive Web App. Em navegadores compatíveis, após o primeiro acesso via HTTPS, o menu do navegador poderá oferecer a opção de instalar o dicionário no aparelho. O service worker mantém as páginas, imagens e recursos acessados em cache para permitir a abertura offline depois que o site tiver sido visitado uma primeira vez.
+Esta aplicação também está disponível como **Progressive Web App (PWA)**. Em navegadores compatíveis, é possível instalar o dicionário no celular, tablet ou computador e utilizá-lo como uma aplicação independente.
 
-Para a instalação funcionar em produção, publique pela Vercel ou outro servidor HTTPS. O modo offline depende de o usuário ter aberto as páginas e recursos enquanto estava conectado; a aplicação não consegue baixar conteúdo novo sem conexão.
+Após o primeiro acesso com conexão, o service worker mantém as páginas e recursos principais em cache, permitindo consultar o dicionário offline. O conteúdo novo só será carregado quando houver conexão novamente.
+
+### Instalação
+
+- **Android/Chrome:** quando o navegador disponibilizar a instalação, o site exibirá um popup com o botão **Instalar aplicação**. Também é possível usar a opção de instalação no menu do navegador.
+- **iPhone/iPad:** toque em **Compartilhar** no Safari e selecione **Adicionar à Tela de Início**. O popup da aplicação apresenta essas instruções automaticamente.
+- **Computador:** navegadores compatíveis, como Chrome e Edge, podem exibir o ícone ou a opção de instalação na barra de endereços ou no menu do navegador.
+
+A instalação exige que a aplicação seja acessada por HTTPS em produção. Tanto a Vercel quanto o GitHub Pages fornecem HTTPS por padrão. Em desenvolvimento local, o PWA pode não apresentar a opção de instalação porque `localhost` possui limitações específicas do navegador.
 
 
 A bibliografia e os sites de consulta do material original estão disponíveis na página **Sobre**.
