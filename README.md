@@ -34,6 +34,11 @@ npm start
 
 Na Vercel, mantenha o comando de build como `npm run build`. O deploy precisa conter `assets/`, `package.json`, `package-lock.json`, `app/`, `components/` e `lib/`.
 
-## Referências
+## PWA e funcionamento offline
+
+A aplicação é um Progressive Web App. Em navegadores compatíveis, após o primeiro acesso via HTTPS, o menu do navegador poderá oferecer a opção de instalar o dicionário no aparelho. O service worker mantém as páginas, imagens e recursos acessados em cache para permitir a abertura offline depois que o site tiver sido visitado uma primeira vez.
+
+Para a instalação funcionar em produção, publique pela Vercel ou outro servidor HTTPS. O modo offline depende de o usuário ter aberto as páginas e recursos enquanto estava conectado; a aplicação não consegue baixar conteúdo novo sem conexão.
+
 
 A bibliografia e os sites de consulta do material original estão disponíveis na página **Sobre**.
